@@ -357,6 +357,7 @@ def update_stamps_evcp(location, evcp_time_period, evcp_chart_selection):
 
         start_date_evcp = \
         df_evcp.loc[(df_evcp['LA/RegionName'] == location[0]) & (df_evcp['DateLookUp'] == evcp_time_period[1])][
+
             'Date'].iloc[0]
 
         if start_value_evcp < 1:
