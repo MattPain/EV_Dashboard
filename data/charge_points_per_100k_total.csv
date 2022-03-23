@@ -1,0 +1,4291 @@
+LA/RegionCode,LA/RegionName,Per100kPop,Date
+K02000001,United Kingdom,42,Jan-22
+K03000001,Great Britain,43,Jan-22
+E92000001,England,42,Jan-22
+E12000001,North East,36,Jan-22
+E06000047,County Durham,24,Jan-22
+E06000005,Darlington,27,Jan-22
+E06000001,Hartlepool,13,Jan-22
+E06000002,Middlesbrough,22,Jan-22
+E06000057,Northumberland,60,Jan-22
+E06000003,Redcar And Cleveland,26,Jan-22
+E06000004,Stockton-On-Tees,48,Jan-22
+E11000007,Tyne And Wear (Met County),38,Jan-22
+E08000037,Gateshead,31,Jan-22
+E08000021,Newcastle Upon Tyne,41,Jan-22
+E08000022,North Tyneside,25,Jan-22
+E08000023,South Tyneside,27,Jan-22
+E08000024,Sunderland,57,Jan-22
+E12000002,North West,24,Jan-22
+E06000008,Blackburn With Darwen,21,Jan-22
+E06000009,Blackpool,15,Jan-22
+E06000049,Cheshire East,31,Jan-22
+E06000050,Cheshire West And Chester,29,Jan-22
+E06000006,Halton,13,Jan-22
+E06000007,Warrington,42,Jan-22
+E10000006,Cumbria,50,Jan-22
+E07000026,Allerdale,22,Jan-22
+E07000027,Barrow-In-Furness,22,Jan-22
+E07000028,Carlisle,46,Jan-22
+E07000029,Copeland,41,Jan-22
+E07000030,Eden,87,Jan-22
+E07000031,South Lakeland,83,Jan-22
+E11000001,Greater Manchester (Met County),16,Jan-22
+E08000001,Bolton,8,Jan-22
+E08000002,Bury,12,Jan-22
+E08000003,Manchester,21,Jan-22
+E08000004,Oldham,14,Jan-22
+E08000005,Rochdale,13,Jan-22
+E08000006,Salford,28,Jan-22
+E08000007,Stockport,12,Jan-22
+E08000008,Tameside,10,Jan-22
+E08000009,Trafford,26,Jan-22
+E08000010,Wigan,12,Jan-22
+E10000017,Lancashire,34,Jan-22
+E07000117,Burnley,29,Jan-22
+E07000118,Chorley,41,Jan-22
+E07000119,Fylde,19,Jan-22
+E07000120,Hyndburn,27,Jan-22
+E07000121,Lancaster,51,Jan-22
+E07000122,Pendle,16,Jan-22
+E07000123,Preston,36,Jan-22
+E07000124,Ribble Valley,45,Jan-22
+E07000125,Rossendale,20,Jan-22
+E07000126,South Ribble,45,Jan-22
+E07000127,West Lancashire,41,Jan-22
+E07000128,Wyre,26,Jan-22
+E11000002,Merseyside (Met County),18,Jan-22
+E08000011,Knowsley,15,Jan-22
+E08000012,Liverpool,34,Jan-22
+E08000014,Sefton,9,Jan-22
+E08000013,St. Helens,12,Jan-22
+E08000015,Wirral,8,Jan-22
+E12000003,Yorkshire And The Humber,25,Jan-22
+E06000011,East Riding Of Yorkshire,20,Jan-22
+E06000010,"Kingston Upon Hull, City Of",18,Jan-22
+E06000012,North East Lincolnshire,15,Jan-22
+E06000013,North Lincolnshire,14,Jan-22
+E06000014,York,42,Jan-22
+E10000023,North Yorkshire,36,Jan-22
+E07000163,Craven,50,Jan-22
+E07000164,Hambleton,41,Jan-22
+E07000165,Harrogate,34,Jan-22
+E07000166,Richmondshire,37,Jan-22
+E07000167,Ryedale,91,Jan-22
+E07000168,Scarborough,18,Jan-22
+E07000169,Selby,11,Jan-22
+E11000003,South Yorkshire (Met County),22,Jan-22
+E08000016,Barnsley,20,Jan-22
+E08000017,Doncaster,20,Jan-22
+E08000018,Rotherham,25,Jan-22
+E08000019,Sheffield,22,Jan-22
+E11000006,West Yorkshire (Met County),26,Jan-22
+E08000032,Bradford,20,Jan-22
+E08000033,Calderdale,23,Jan-22
+E08000034,Kirklees,15,Jan-22
+E08000035,Leeds,40,Jan-22
+E08000036,Wakefield,19,Jan-22
+E12000004,East Midlands,31,Jan-22
+E06000015,Derby,27,Jan-22
+E06000016,Leicester,25,Jan-22
+E06000061,North Northamptonshire (From April 2021),26,Jan-22
+E06000018,Nottingham,56,Jan-22
+E06000017,Rutland,54,Jan-22
+E06000062,West Northamptonshire (From April 2021),22,Jan-22
+E10000007,Derbyshire,29,Jan-22
+E07000032,Amber Valley,17,Jan-22
+E07000033,Bolsover,50,Jan-22
+E07000034,Chesterfield,56,Jan-22
+E07000035,Derbyshire Dales,51,Jan-22
+E07000036,Erewash,18,Jan-22
+E07000037,High Peak,28,Jan-22
+E07000038,North East Derbyshire,10,Jan-22
+E07000039,South Derbyshire,20,Jan-22
+E10000018,Leicestershire,33,Jan-22
+E07000129,Blaby,49,Jan-22
+E07000130,Charnwood,22,Jan-22
+E07000131,Harborough,38,Jan-22
+E07000132,Hinckley And Bosworth,36,Jan-22
+E07000133,Melton,19,Jan-22
+E07000134,North West Leicestershire,30,Jan-22
+E07000135,Oadby And Wigston,43,Jan-22
+E10000019,Lincolnshire,33,Jan-22
+E07000136,Boston,66,Jan-22
+E07000137,East Lindsey,39,Jan-22
+E07000138,Lincoln,61,Jan-22
+E07000139,North Kesteven,12,Jan-22
+E07000140,South Holland,12,Jan-22
+E07000141,South Kesteven,30,Jan-22
+E07000142,West Lindsey,17,Jan-22
+E10000021,Northamptonshire (Abolished April 2021),0,Jan-22
+E07000150,Corby (Abolished April 2021),0,Jan-22
+E07000151,Daventry (Abolished April 2021),0,Jan-22
+E07000152,East Northamptonshire (Abolished April 2021),0,Jan-22
+E07000153,Kettering (Abolished April 2021),0,Jan-22
+E07000154,Northampton (Abolished April 2021),0,Jan-22
+E07000155,South Northamptonshire (Abolished April 2021),0,Jan-22
+E07000156,Wellingborough (Abolished April 2021),0,Jan-22
+E10000024,Nottinghamshire,31,Jan-22
+E07000170,Ashfield,17,Jan-22
+E07000171,Bassetlaw,33,Jan-22
+E07000172,Broxtowe,29,Jan-22
+E07000173,Gedling,36,Jan-22
+E07000174,Mansfield,25,Jan-22
+E07000175,Newark And Sherwood,31,Jan-22
+E07000176,Rushcliffe,42,Jan-22
+E12000005,West Midlands,30,Jan-22
+E06000019,"Herefordshire, County Of",35,Jan-22
+E06000051,Shropshire,22,Jan-22
+E06000021,Stoke-On-Trent,14,Jan-22
+E06000020,Telford And Wrekin,17,Jan-22
+E10000028,Staffordshire,27,Jan-22
+E07000192,Cannock Chase,25,Jan-22
+E07000193,East Staffordshire,26,Jan-22
+E07000194,Lichfield,16,Jan-22
+E07000195,Newcastle-Under-Lyme,35,Jan-22
+E07000196,South Staffordshire,46,Jan-22
+E07000197,Stafford,31,Jan-22
+E07000198,Staffordshire Moorlands,11,Jan-22
+E07000199,Tamworth,15,Jan-22
+E10000031,Warwickshire,47,Jan-22
+E07000218,North Warwickshire,59,Jan-22
+E07000219,Nuneaton And Bedworth,20,Jan-22
+E07000220,Rugby,52,Jan-22
+E07000221,Stratford-On-Avon,62,Jan-22
+E07000222,Warwick,48,Jan-22
+E11000005,West Midlands (Met County),32,Jan-22
+E08000025,Birmingham,17,Jan-22
+E08000026,Coventry,127,Jan-22
+E08000027,Dudley,11,Jan-22
+E08000028,Sandwell,12,Jan-22
+E08000029,Solihull,56,Jan-22
+E08000030,Walsall,8,Jan-22
+E08000031,Wolverhampton,19,Jan-22
+E10000034,Worcestershire,27,Jan-22
+E07000234,Bromsgrove,45,Jan-22
+E07000235,Malvern Hills,12,Jan-22
+E07000236,Redditch,14,Jan-22
+E07000237,Worcester,29,Jan-22
+E07000238,Wychavon,36,Jan-22
+E07000239,Wyre Forest,18,Jan-22
+E12000006,East Of England,28,Jan-22
+E06000055,Bedford,60,Jan-22
+E06000056,Central Bedfordshire,18,Jan-22
+E06000032,Luton,25,Jan-22
+E06000031,Peterborough,34,Jan-22
+E06000033,Southend-On-Sea,9,Jan-22
+E06000034,Thurrock,10,Jan-22
+E10000003,Cambridgeshire,28,Jan-22
+E07000008,Cambridge,44,Jan-22
+E07000009,East Cambridgeshire,19,Jan-22
+E07000010,Fenland,4,Jan-22
+E07000011,Huntingdonshire,28,Jan-22
+E07000012,South Cambridgeshire,37,Jan-22
+E10000012,Essex,23,Jan-22
+E07000066,Basildon,31,Jan-22
+E07000067,Braintree,48,Jan-22
+E07000068,Brentwood,9,Jan-22
+E07000069,Castle Point,3,Jan-22
+E07000070,Chelmsford,22,Jan-22
+E07000071,Colchester,24,Jan-22
+E07000072,Epping Forest,26,Jan-22
+E07000073,Harlow,13,Jan-22
+E07000074,Maldon,16,Jan-22
+E07000075,Rochford,19,Jan-22
+E07000076,Tendring,10,Jan-22
+E07000077,Uttlesford,30,Jan-22
+E10000015,Hertfordshire,29,Jan-22
+E07000095,Broxbourne,32,Jan-22
+E07000096,Dacorum,14,Jan-22
+E07000242,East Hertfordshire,11,Jan-22
+E07000098,Hertsmere,30,Jan-22
+E07000099,North Hertfordshire,20,Jan-22
+E07000240,St Albans,26,Jan-22
+E07000243,Stevenage,17,Jan-22
+E07000102,Three Rivers,65,Jan-22
+E07000103,Watford,48,Jan-22
+E07000241,Welwyn Hatfield,42,Jan-22
+E10000020,Norfolk,35,Jan-22
+E07000143,Breckland,35,Jan-22
+E07000144,Broadland,15,Jan-22
+E07000145,Great Yarmouth,34,Jan-22
+E07000146,King'S Lynn And West Norfolk,36,Jan-22
+E07000147,North Norfolk,65,Jan-22
+E07000148,Norwich,36,Jan-22
+E07000149,South Norfolk,27,Jan-22
+E10000029,Suffolk,34,Jan-22
+E07000200,Babergh,31,Jan-22
+E07000244,East Suffolk,26,Jan-22
+E07000202,Ipswich,39,Jan-22
+E07000203,Mid Suffolk,19,Jan-22
+E07000245,West Suffolk,51,Jan-22
+E12000007,London,101,Jan-22
+E13000001,Inner London,146,Jan-22
+E09000007,Camden,134,Jan-22
+E09000001,City Of London,475,Jan-22
+E09000012,Hackney,70,Jan-22
+E09000013,Hammersmith And Fulham,325,Jan-22
+E09000014,Haringey,35,Jan-22
+E09000019,Islington,124,Jan-22
+E09000020,Kensington And Chelsea,419,Jan-22
+E09000022,Lambeth,96,Jan-22
+E09000023,Lewisham,43,Jan-22
+E09000025,Newham,59,Jan-22
+E09000028,Southwark,136,Jan-22
+E09000030,Tower Hamlets,64,Jan-22
+E09000032,Wandsworth,192,Jan-22
+E09000033,Westminster,425,Jan-22
+E13000002,Outer London,70,Jan-22
+E09000002,Barking And Dagenham,30,Jan-22
+E09000003,Barnet,71,Jan-22
+E09000004,Bexley,26,Jan-22
+E09000005,Brent,147,Jan-22
+E09000006,Bromley,27,Jan-22
+E09000008,Croydon,35,Jan-22
+E09000009,Ealing,87,Jan-22
+E09000010,Enfield,48,Jan-22
+E09000011,Greenwich,91,Jan-22
+E09000015,Harrow,19,Jan-22
+E09000016,Havering,11,Jan-22
+E09000017,Hillingdon,65,Jan-22
+E09000018,Hounslow,154,Jan-22
+E09000021,Kingston Upon Thames,99,Jan-22
+E09000024,Merton,127,Jan-22
+E09000026,Redbridge,31,Jan-22
+E09000027,Richmond Upon Thames,176,Jan-22
+E09000029,Sutton,61,Jan-22
+E09000031,Waltham Forest,76,Jan-22
+E12000008,South East,39,Jan-22
+E06000036,Bracknell Forest,37,Jan-22
+E06000043,Brighton And Hove,117,Jan-22
+E06000046,Isle Of Wight,37,Jan-22
+E06000035,Medway,15,Jan-22
+E06000042,Milton Keynes,137,Jan-22
+E06000044,Portsmouth,42,Jan-22
+E06000038,Reading,39,Jan-22
+E06000039,Slough,47,Jan-22
+E06000045,Southampton,34,Jan-22
+E06000037,West Berkshire,73,Jan-22
+E06000040,Windsor And Maidenhead,26,Jan-22
+E06000041,Wokingham,48,Jan-22
+E06000060,Buckinghamshire,31,Jan-22
+E10000011,East Sussex,24,Jan-22
+E07000061,Eastbourne,34,Jan-22
+E07000062,Hastings,27,Jan-22
+E07000063,Lewes,24,Jan-22
+E07000064,Rother,21,Jan-22
+E07000065,Wealden,17,Jan-22
+E10000014,Hampshire,39,Jan-22
+E07000084,Basingstoke And Deane,46,Jan-22
+E07000085,East Hampshire,29,Jan-22
+E07000086,Eastleigh,42,Jan-22
+E07000087,Fareham,10,Jan-22
+E07000088,Gosport,20,Jan-22
+E07000089,Hart,48,Jan-22
+E07000090,Havant,21,Jan-22
+E07000091,New Forest,47,Jan-22
+E07000092,Rushmoor,38,Jan-22
+E07000093,Test Valley,40,Jan-22
+E07000094,Winchester,73,Jan-22
+E10000016,Kent,28,Jan-22
+E07000105,Ashford,27,Jan-22
+E07000106,Canterbury,38,Jan-22
+E07000107,Dartford,35,Jan-22
+E07000108,Dover,30,Jan-22
+E07000112,Folkestone And Hythe,27,Jan-22
+E07000109,Gravesham,14,Jan-22
+E07000110,Maidstone,36,Jan-22
+E07000111,Sevenoaks,25,Jan-22
+E07000113,Swale,26,Jan-22
+E07000114,Thanet,19,Jan-22
+E07000115,Tonbridge And Malling,18,Jan-22
+E07000116,Tunbridge Wells,36,Jan-22
+E10000025,Oxfordshire,46,Jan-22
+E07000177,Cherwell,67,Jan-22
+E07000178,Oxford,71,Jan-22
+E07000179,South Oxfordshire,29,Jan-22
+E07000180,Vale Of White Horse,34,Jan-22
+E07000181,West Oxfordshire,20,Jan-22
+E10000030,Surrey,29,Jan-22
+E07000207,Elmbridge,26,Jan-22
+E07000208,Epsom And Ewell,20,Jan-22
+E07000209,Guildford,39,Jan-22
+E07000210,Mole Valley,25,Jan-22
+E07000211,Reigate And Banstead,19,Jan-22
+E07000212,Runnymede,40,Jan-22
+E07000213,Spelthorne,47,Jan-22
+E07000214,Surrey Heath,34,Jan-22
+E07000215,Tandridge,20,Jan-22
+E07000216,Waverley,26,Jan-22
+E07000217,Woking,18,Jan-22
+E10000032,West Sussex,26,Jan-22
+E07000223,Adur,18,Jan-22
+E07000224,Arun,16,Jan-22
+E07000225,Chichester,49,Jan-22
+E07000226,Crawley,46,Jan-22
+E07000227,Horsham,19,Jan-22
+E07000228,Mid Sussex,23,Jan-22
+E07000229,Worthing,13,Jan-22
+E12000009,South West,35,Jan-22
+E06000022,Bath And North East Somerset,40,Jan-22
+E06000058,"Bournemouth, Christchurch And Poole",21,Jan-22
+E06000023,"Bristol, City Of",28,Jan-22
+E06000052,Cornwall,49,Jan-22
+E06000059,Dorset,34,Jan-22
+E06000053,Isles Of Scilly,0,Jan-22
+E06000024,North Somerset,42,Jan-22
+E06000026,Plymouth,28,Jan-22
+E06000025,South Gloucestershire,44,Jan-22
+E06000030,Swindon,27,Jan-22
+E06000027,Torbay,17,Jan-22
+E06000054,Wiltshire,34,Jan-22
+E10000008,Devon,38,Jan-22
+E07000040,East Devon,42,Jan-22
+E07000041,Exeter,41,Jan-22
+E07000042,Mid Devon,36,Jan-22
+E07000043,North Devon,53,Jan-22
+E07000044,South Hams,38,Jan-22
+E07000045,Teignbridge,19,Jan-22
+E07000046,Torridge,34,Jan-22
+E07000047,West Devon,49,Jan-22
+E10000013,Gloucestershire,34,Jan-22
+E07000078,Cheltenham,30,Jan-22
+E07000079,Cotswold,73,Jan-22
+E07000080,Forest Of Dean,17,Jan-22
+E07000081,Gloucester,29,Jan-22
+E07000082,Stroud,35,Jan-22
+E07000083,Tewkesbury,23,Jan-22
+E10000027,Somerset,32,Jan-22
+E07000187,Mendip,39,Jan-22
+E07000188,Sedgemoor,26,Jan-22
+E07000246,Somerset West And Taunton,32,Jan-22
+E07000189,South Somerset,30,Jan-22
+W92000004,Wales,33,Jan-22
+W06000001,Isle Of Anglesey,82,Jan-22
+W06000002,Gwynedd,71,Jan-22
+W06000003,Conwy,38,Jan-22
+W06000004,Denbighshire,19,Jan-22
+W06000005,Flintshire,21,Jan-22
+W06000006,Wrexham,24,Jan-22
+W06000023,Powys,67,Jan-22
+W06000008,Ceredigion,61,Jan-22
+W06000009,Pembrokeshire,85,Jan-22
+W06000010,Carmarthenshire,44,Jan-22
+W06000011,Swansea,25,Jan-22
+W06000012,Neath Port Talbot,8,Jan-22
+W06000013,Bridgend,21,Jan-22
+W06000014,The Vale Of Glamorgan,19,Jan-22
+W06000015,Cardiff,21,Jan-22
+W06000016,Rhondda Cynon Taf,8,Jan-22
+W06000024,Merthyr Tydfil,13,Jan-22
+W06000018,Caerphilly,21,Jan-22
+W06000019,Blaenau Gwent,25,Jan-22
+W06000020,Torfaen,30,Jan-22
+W06000021,Monmouthshire,55,Jan-22
+W06000022,Newport,42,Jan-22
+S92000003,Scotland,51,Jan-22
+S12000033,Aberdeen City,44,Jan-22
+S12000034,Aberdeenshire,44,Jan-22
+S12000041,Angus,66,Jan-22
+S12000035,Argyll & Bute,100,Jan-22
+S12000036,City Of Edinburgh,33,Jan-22
+S12000005,Clackmannanshire,42,Jan-22
+S12000006,Dumfries & Galloway,68,Jan-22
+S12000042,Dundee City,87,Jan-22
+S12000008,East Ayrshire,60,Jan-22
+S12000045,East Dunbartonshire,22,Jan-22
+S12000010,East Lothian,118,Jan-22
+S12000011,East Renfrewshire,24,Jan-22
+S12000014,Falkirk,33,Jan-22
+S12000047,Fife,31,Jan-22
+S12000049,Glasgow City,37,Jan-22
+S12000017,Highland,98,Jan-22
+S12000018,Inverclyde,44,Jan-22
+S12000019,Midlothian,64,Jan-22
+S12000020,Moray,50,Jan-22
+S12000013,Na H-Eileanan Siar,105,Jan-22
+S12000021,North Ayrshire,39,Jan-22
+S12000050,North Lanarkshire,49,Jan-22
+S12000023,Orkney Islands,178,Jan-22
+S12000048,Perth & Kinross,84,Jan-22
+S12000038,Renfrewshire,39,Jan-22
+S12000026,Scottish Borders,48,Jan-22
+S12000027,Shetland Islands,91,Jan-22
+S12000028,South Ayrshire,51,Jan-22
+S12000029,South Lanarkshire,46,Jan-22
+S12000030,Stirling,126,Jan-22
+S12000039,West Dunbartonshire,29,Jan-22
+S12000040,West Lothian,25,Jan-22
+N92000002,Northern Ireland,18,Jan-22
+N09000001,Antrim And Newtownabbey,27,Jan-22
+N09000011,Ards And North Down,12,Jan-22
+N09000002,"Armagh City, Banbridge And Craigavon",15,Jan-22
+N09000003,Belfast,15,Jan-22
+N09000004,Causeway Coast And Glens,22,Jan-22
+N09000005,Derry City And Strabane,17,Jan-22
+N09000006,Fermanagh And Omagh,33,Jan-22
+N09000007,Lisburn And Castlereagh,10,Jan-22
+N09000008,Mid And East Antrim,17,Jan-22
+N09000009,Mid Ulster,16,Jan-22
+N09000010,"Newry, Mourne And Down",18,Jan-22
+K02000001,United Kingdom,38,Oct-21
+K03000001,Great Britain,39,Oct-21
+E92000001,England,38,Oct-21
+E12000001,North East,34,Oct-21
+E06000047,County Durham,23,Oct-21
+E06000005,Darlington,28,Oct-21
+E06000001,Hartlepool,11,Oct-21
+E06000002,Middlesbrough,21,Oct-21
+E06000057,Northumberland,57,Oct-21
+E06000003,Redcar And Cleveland,24,Oct-21
+E06000004,Stockton-On-Tees,43,Oct-21
+E11000007,Tyne And Wear (Met County),36,Oct-21
+E08000037,Gateshead,32,Oct-21
+E08000021,Newcastle Upon Tyne,40,Oct-21
+E08000022,North Tyneside,22,Oct-21
+E08000023,South Tyneside,19,Oct-21
+E08000024,Sunderland,53,Oct-21
+E12000002,North West,23,Oct-21
+E06000008,Blackburn With Darwen,20,Oct-21
+E06000009,Blackpool,17,Oct-21
+E06000049,Cheshire East,28,Oct-21
+E06000050,Cheshire West And Chester,28,Oct-21
+E06000006,Halton,13,Oct-21
+E06000007,Warrington,42,Oct-21
+E10000006,Cumbria,47,Oct-21
+E07000026,Allerdale,19,Oct-21
+E07000027,Barrow-In-Furness,13,Oct-21
+E07000028,Carlisle,45,Oct-21
+E07000029,Copeland,41,Oct-21
+E07000030,Eden,83,Oct-21
+E07000031,South Lakeland,82,Oct-21
+E11000001,Greater Manchester (Met County),15,Oct-21
+E08000001,Bolton,8,Oct-21
+E08000002,Bury,11,Oct-21
+E08000003,Manchester,20,Oct-21
+E08000004,Oldham,13,Oct-21
+E08000005,Rochdale,12,Oct-21
+E08000006,Salford,28,Oct-21
+E08000007,Stockport,12,Oct-21
+E08000008,Tameside,11,Oct-21
+E08000009,Trafford,21,Oct-21
+E08000010,Wigan,12,Oct-21
+E10000017,Lancashire,33,Oct-21
+E07000117,Burnley,26,Oct-21
+E07000118,Chorley,38,Oct-21
+E07000119,Fylde,19,Oct-21
+E07000120,Hyndburn,25,Oct-21
+E07000121,Lancaster,49,Oct-21
+E07000122,Pendle,16,Oct-21
+E07000123,Preston,36,Oct-21
+E07000124,Ribble Valley,45,Oct-21
+E07000125,Rossendale,20,Oct-21
+E07000126,South Ribble,45,Oct-21
+E07000127,West Lancashire,41,Oct-21
+E07000128,Wyre,16,Oct-21
+E11000002,Merseyside (Met County),18,Oct-21
+E08000011,Knowsley,13,Oct-21
+E08000012,Liverpool,33,Oct-21
+E08000014,Sefton,9,Oct-21
+E08000013,St. Helens,12,Oct-21
+E08000015,Wirral,7,Oct-21
+E12000003,Yorkshire And The Humber,24,Oct-21
+E06000011,East Riding Of Yorkshire,18,Oct-21
+E06000010,"Kingston Upon Hull, City Of",15,Oct-21
+E06000012,North East Lincolnshire,15,Oct-21
+E06000013,North Lincolnshire,14,Oct-21
+E06000014,York,40,Oct-21
+E10000023,North Yorkshire,34,Oct-21
+E07000163,Craven,48,Oct-21
+E07000164,Hambleton,39,Oct-21
+E07000165,Harrogate,32,Oct-21
+E07000166,Richmondshire,35,Oct-21
+E07000167,Ryedale,89,Oct-21
+E07000168,Scarborough,17,Oct-21
+E07000169,Selby,11,Oct-21
+E11000003,South Yorkshire (Met County),21,Oct-21
+E08000016,Barnsley,18,Oct-21
+E08000017,Doncaster,18,Oct-21
+E08000018,Rotherham,26,Oct-21
+E08000019,Sheffield,22,Oct-21
+E11000006,West Yorkshire (Met County),24,Oct-21
+E08000032,Bradford,19,Oct-21
+E08000033,Calderdale,22,Oct-21
+E08000034,Kirklees,14,Oct-21
+E08000035,Leeds,36,Oct-21
+E08000036,Wakefield,18,Oct-21
+E12000004,East Midlands,29,Oct-21
+E06000015,Derby,25,Oct-21
+E06000016,Leicester,22,Oct-21
+E06000061,North Northamptonshire (From April 2021),26,Oct-21
+E06000018,Nottingham,44,Oct-21
+E06000017,Rutland,46,Oct-21
+E06000062,West Northamptonshire (From April 2021),20,Oct-21
+E10000007,Derbyshire,27,Oct-21
+E07000032,Amber Valley,11,Oct-21
+E07000033,Bolsover,47,Oct-21
+E07000034,Chesterfield,52,Oct-21
+E07000035,Derbyshire Dales,49,Oct-21
+E07000036,Erewash,18,Oct-21
+E07000037,High Peak,26,Oct-21
+E07000038,North East Derbyshire,9,Oct-21
+E07000039,South Derbyshire,15,Oct-21
+E10000018,Leicestershire,31,Oct-21
+E07000129,Blaby,47,Oct-21
+E07000130,Charnwood,20,Oct-21
+E07000131,Harborough,38,Oct-21
+E07000132,Hinckley And Bosworth,36,Oct-21
+E07000133,Melton,15,Oct-21
+E07000134,North West Leicestershire,23,Oct-21
+E07000135,Oadby And Wigston,43,Oct-21
+E10000019,Lincolnshire,32,Oct-21
+E07000136,Boston,63,Oct-21
+E07000137,East Lindsey,36,Oct-21
+E07000138,Lincoln,63,Oct-21
+E07000139,North Kesteven,13,Oct-21
+E07000140,South Holland,12,Oct-21
+E07000141,South Kesteven,30,Oct-21
+E07000142,West Lindsey,17,Oct-21
+E10000021,Northamptonshire (Abolished April 2021),0,Oct-21
+E07000150,Corby (Abolished April 2021),0,Oct-21
+E07000151,Daventry (Abolished April 2021),0,Oct-21
+E07000152,East Northamptonshire (Abolished April 2021),0,Oct-21
+E07000153,Kettering (Abolished April 2021),0,Oct-21
+E07000154,Northampton (Abolished April 2021),0,Oct-21
+E07000155,South Northamptonshire (Abolished April 2021),0,Oct-21
+E07000156,Wellingborough (Abolished April 2021),0,Oct-21
+E10000024,Nottinghamshire,28,Oct-21
+E07000170,Ashfield,17,Oct-21
+E07000171,Bassetlaw,32,Oct-21
+E07000172,Broxtowe,29,Oct-21
+E07000173,Gedling,27,Oct-21
+E07000174,Mansfield,24,Oct-21
+E07000175,Newark And Sherwood,29,Oct-21
+E07000176,Rushcliffe,35,Oct-21
+E12000005,West Midlands,28,Oct-21
+E06000019,"Herefordshire, County Of",34,Oct-21
+E06000051,Shropshire,21,Oct-21
+E06000021,Stoke-On-Trent,14,Oct-21
+E06000020,Telford And Wrekin,16,Oct-21
+E10000028,Staffordshire,24,Oct-21
+E07000192,Cannock Chase,23,Oct-21
+E07000193,East Staffordshire,16,Oct-21
+E07000194,Lichfield,16,Oct-21
+E07000195,Newcastle-Under-Lyme,31,Oct-21
+E07000196,South Staffordshire,42,Oct-21
+E07000197,Stafford,30,Oct-21
+E07000198,Staffordshire Moorlands,9,Oct-21
+E07000199,Tamworth,14,Oct-21
+E10000031,Warwickshire,43,Oct-21
+E07000218,North Warwickshire,50,Oct-21
+E07000219,Nuneaton And Bedworth,16,Oct-21
+E07000220,Rugby,47,Oct-21
+E07000221,Stratford-On-Avon,58,Oct-21
+E07000222,Warwick,46,Oct-21
+E11000005,West Midlands (Met County),30,Oct-21
+E08000025,Birmingham,13,Oct-21
+E08000026,Coventry,126,Oct-21
+E08000027,Dudley,11,Oct-21
+E08000028,Sandwell,11,Oct-21
+E08000029,Solihull,54,Oct-21
+E08000030,Walsall,8,Oct-21
+E08000031,Wolverhampton,19,Oct-21
+E10000034,Worcestershire,25,Oct-21
+E07000234,Bromsgrove,41,Oct-21
+E07000235,Malvern Hills,12,Oct-21
+E07000236,Redditch,14,Oct-21
+E07000237,Worcester,28,Oct-21
+E07000238,Wychavon,32,Oct-21
+E07000239,Wyre Forest,14,Oct-21
+E12000006,East Of England,26,Oct-21
+E06000055,Bedford,58,Oct-21
+E06000056,Central Bedfordshire,15,Oct-21
+E06000032,Luton,24,Oct-21
+E06000031,Peterborough,32,Oct-21
+E06000033,Southend-On-Sea,8,Oct-21
+E06000034,Thurrock,10,Oct-21
+E10000003,Cambridgeshire,26,Oct-21
+E07000008,Cambridge,44,Oct-21
+E07000009,East Cambridgeshire,22,Oct-21
+E07000010,Fenland,4,Oct-21
+E07000011,Huntingdonshire,25,Oct-21
+E07000012,South Cambridgeshire,27,Oct-21
+E10000012,Essex,22,Oct-21
+E07000066,Basildon,30,Oct-21
+E07000067,Braintree,46,Oct-21
+E07000068,Brentwood,9,Oct-21
+E07000069,Castle Point,3,Oct-21
+E07000070,Chelmsford,20,Oct-21
+E07000071,Colchester,22,Oct-21
+E07000072,Epping Forest,26,Oct-21
+E07000073,Harlow,13,Oct-21
+E07000074,Maldon,13,Oct-21
+E07000075,Rochford,17,Oct-21
+E07000076,Tendring,10,Oct-21
+E07000077,Uttlesford,23,Oct-21
+E10000015,Hertfordshire,27,Oct-21
+E07000095,Broxbourne,18,Oct-21
+E07000096,Dacorum,14,Oct-21
+E07000242,East Hertfordshire,11,Oct-21
+E07000098,Hertsmere,26,Oct-21
+E07000099,North Hertfordshire,21,Oct-21
+E07000240,St Albans,26,Oct-21
+E07000243,Stevenage,10,Oct-21
+E07000102,Three Rivers,62,Oct-21
+E07000103,Watford,48,Oct-21
+E07000241,Welwyn Hatfield,42,Oct-21
+E10000020,Norfolk,32,Oct-21
+E07000143,Breckland,29,Oct-21
+E07000144,Broadland,15,Oct-21
+E07000145,Great Yarmouth,32,Oct-21
+E07000146,King'S Lynn And West Norfolk,35,Oct-21
+E07000147,North Norfolk,62,Oct-21
+E07000148,Norwich,36,Oct-21
+E07000149,South Norfolk,23,Oct-21
+E10000029,Suffolk,31,Oct-21
+E07000200,Babergh,24,Oct-21
+E07000244,East Suffolk,24,Oct-21
+E07000202,Ipswich,40,Oct-21
+E07000203,Mid Suffolk,17,Oct-21
+E07000245,West Suffolk,47,Oct-21
+E12000007,London,87,Oct-21
+E13000001,Inner London,135,Oct-21
+E09000007,Camden,133,Oct-21
+E09000001,City Of London,329,Oct-21
+E09000012,Hackney,49,Oct-21
+E09000013,Hammersmith And Fulham,316,Oct-21
+E09000014,Haringey,34,Oct-21
+E09000019,Islington,115,Oct-21
+E09000020,Kensington And Chelsea,348,Oct-21
+E09000022,Lambeth,95,Oct-21
+E09000023,Lewisham,43,Oct-21
+E09000025,Newham,43,Oct-21
+E09000028,Southwark,121,Oct-21
+E09000030,Tower Hamlets,57,Oct-21
+E09000032,Wandsworth,188,Oct-21
+E09000033,Westminster,405,Oct-21
+E13000002,Outer London,54,Oct-21
+E09000002,Barking And Dagenham,29,Oct-21
+E09000003,Barnet,52,Oct-21
+E09000004,Bexley,18,Oct-21
+E09000005,Brent,72,Oct-21
+E09000006,Bromley,25,Oct-21
+E09000008,Croydon,25,Oct-21
+E09000009,Ealing,82,Oct-21
+E09000010,Enfield,37,Oct-21
+E09000011,Greenwich,88,Oct-21
+E09000015,Harrow,19,Oct-21
+E09000016,Havering,11,Oct-21
+E09000017,Hillingdon,64,Oct-21
+E09000018,Hounslow,103,Oct-21
+E09000021,Kingston Upon Thames,53,Oct-21
+E09000024,Merton,96,Oct-21
+E09000026,Redbridge,24,Oct-21
+E09000027,Richmond Upon Thames,178,Oct-21
+E09000029,Sutton,24,Oct-21
+E09000031,Waltham Forest,66,Oct-21
+E12000008,South East,37,Oct-21
+E06000036,Bracknell Forest,28,Oct-21
+E06000043,Brighton And Hove,118,Oct-21
+E06000046,Isle Of Wight,35,Oct-21
+E06000035,Medway,6,Oct-21
+E06000042,Milton Keynes,137,Oct-21
+E06000044,Portsmouth,33,Oct-21
+E06000038,Reading,38,Oct-21
+E06000039,Slough,45,Oct-21
+E06000045,Southampton,34,Oct-21
+E06000037,West Berkshire,68,Oct-21
+E06000040,Windsor And Maidenhead,26,Oct-21
+E06000041,Wokingham,40,Oct-21
+E06000060,Buckinghamshire,30,Oct-21
+E10000011,East Sussex,20,Oct-21
+E07000061,Eastbourne,34,Oct-21
+E07000062,Hastings,16,Oct-21
+E07000063,Lewes,23,Oct-21
+E07000064,Rother,13,Oct-21
+E07000065,Wealden,16,Oct-21
+E10000014,Hampshire,37,Oct-21
+E07000084,Basingstoke And Deane,46,Oct-21
+E07000085,East Hampshire,29,Oct-21
+E07000086,Eastleigh,42,Oct-21
+E07000087,Fareham,10,Oct-21
+E07000088,Gosport,12,Oct-21
+E07000089,Hart,48,Oct-21
+E07000090,Havant,21,Oct-21
+E07000091,New Forest,44,Oct-21
+E07000092,Rushmoor,37,Oct-21
+E07000093,Test Valley,33,Oct-21
+E07000094,Winchester,72,Oct-21
+E10000016,Kent,26,Oct-21
+E07000105,Ashford,24,Oct-21
+E07000106,Canterbury,38,Oct-21
+E07000107,Dartford,30,Oct-21
+E07000108,Dover,26,Oct-21
+E07000112,Folkestone And Hythe,27,Oct-21
+E07000109,Gravesham,9,Oct-21
+E07000110,Maidstone,36,Oct-21
+E07000111,Sevenoaks,23,Oct-21
+E07000113,Swale,24,Oct-21
+E07000114,Thanet,18,Oct-21
+E07000115,Tonbridge And Malling,15,Oct-21
+E07000116,Tunbridge Wells,37,Oct-21
+E10000025,Oxfordshire,44,Oct-21
+E07000177,Cherwell,63,Oct-21
+E07000178,Oxford,69,Oct-21
+E07000179,South Oxfordshire,31,Oct-21
+E07000180,Vale Of White Horse,31,Oct-21
+E07000181,West Oxfordshire,17,Oct-21
+E10000030,Surrey,28,Oct-21
+E07000207,Elmbridge,27,Oct-21
+E07000208,Epsom And Ewell,20,Oct-21
+E07000209,Guildford,38,Oct-21
+E07000210,Mole Valley,23,Oct-21
+E07000211,Reigate And Banstead,19,Oct-21
+E07000212,Runnymede,39,Oct-21
+E07000213,Spelthorne,46,Oct-21
+E07000214,Surrey Heath,29,Oct-21
+E07000215,Tandridge,16,Oct-21
+E07000216,Waverley,26,Oct-21
+E07000217,Woking,18,Oct-21
+E10000032,West Sussex,24,Oct-21
+E07000223,Adur,15,Oct-21
+E07000224,Arun,16,Oct-21
+E07000225,Chichester,45,Oct-21
+E07000226,Crawley,36,Oct-21
+E07000227,Horsham,19,Oct-21
+E07000228,Mid Sussex,23,Oct-21
+E07000229,Worthing,11,Oct-21
+E12000009,South West,33,Oct-21
+E06000022,Bath And North East Somerset,34,Oct-21
+E06000058,"Bournemouth, Christchurch And Poole",20,Oct-21
+E06000023,"Bristol, City Of",26,Oct-21
+E06000052,Cornwall,48,Oct-21
+E06000059,Dorset,32,Oct-21
+E06000053,Isles Of Scilly,0,Oct-21
+E06000024,North Somerset,41,Oct-21
+E06000026,Plymouth,28,Oct-21
+E06000025,South Gloucestershire,41,Oct-21
+E06000030,Swindon,21,Oct-21
+E06000027,Torbay,19,Oct-21
+E06000054,Wiltshire,33,Oct-21
+E10000008,Devon,37,Oct-21
+E07000040,East Devon,43,Oct-21
+E07000041,Exeter,36,Oct-21
+E07000042,Mid Devon,32,Oct-21
+E07000043,North Devon,51,Oct-21
+E07000044,South Hams,37,Oct-21
+E07000045,Teignbridge,18,Oct-21
+E07000046,Torridge,34,Oct-21
+E07000047,West Devon,49,Oct-21
+E10000013,Gloucestershire,32,Oct-21
+E07000078,Cheltenham,29,Oct-21
+E07000079,Cotswold,65,Oct-21
+E07000080,Forest Of Dean,17,Oct-21
+E07000081,Gloucester,29,Oct-21
+E07000082,Stroud,35,Oct-21
+E07000083,Tewkesbury,21,Oct-21
+E10000027,Somerset,29,Oct-21
+E07000187,Mendip,32,Oct-21
+E07000188,Sedgemoor,26,Oct-21
+E07000246,Somerset West And Taunton,30,Oct-21
+E07000189,South Somerset,29,Oct-21
+W92000004,Wales,31,Oct-21
+W06000001,Isle Of Anglesey,78,Oct-21
+W06000002,Gwynedd,64,Oct-21
+W06000003,Conwy,38,Oct-21
+W06000004,Denbighshire,19,Oct-21
+W06000005,Flintshire,21,Oct-21
+W06000006,Wrexham,25,Oct-21
+W06000023,Powys,66,Oct-21
+W06000008,Ceredigion,57,Oct-21
+W06000009,Pembrokeshire,85,Oct-21
+W06000010,Carmarthenshire,38,Oct-21
+W06000011,Swansea,23,Oct-21
+W06000012,Neath Port Talbot,8,Oct-21
+W06000013,Bridgend,18,Oct-21
+W06000014,The Vale Of Glamorgan,19,Oct-21
+W06000015,Cardiff,20,Oct-21
+W06000016,Rhondda Cynon Taf,7,Oct-21
+W06000024,Merthyr Tydfil,11,Oct-21
+W06000018,Caerphilly,21,Oct-21
+W06000019,Blaenau Gwent,25,Oct-21
+W06000020,Torfaen,29,Oct-21
+W06000021,Monmouthshire,55,Oct-21
+W06000022,Newport,33,Oct-21
+S92000003,Scotland,48,Oct-21
+S12000033,Aberdeen City,43,Oct-21
+S12000034,Aberdeenshire,40,Oct-21
+S12000041,Angus,64,Oct-21
+S12000035,Argyll & Bute,100,Oct-21
+S12000036,City Of Edinburgh,27,Oct-21
+S12000005,Clackmannanshire,44,Oct-21
+S12000006,Dumfries & Galloway,68,Oct-21
+S12000042,Dundee City,85,Oct-21
+S12000008,East Ayrshire,55,Oct-21
+S12000045,East Dunbartonshire,22,Oct-21
+S12000010,East Lothian,113,Oct-21
+S12000011,East Renfrewshire,24,Oct-21
+S12000014,Falkirk,33,Oct-21
+S12000047,Fife,30,Oct-21
+S12000049,Glasgow City,31,Oct-21
+S12000017,Highland,95,Oct-21
+S12000018,Inverclyde,44,Oct-21
+S12000019,Midlothian,64,Oct-21
+S12000020,Moray,48,Oct-21
+S12000013,Na H-Eileanan Siar,105,Oct-21
+S12000021,North Ayrshire,37,Oct-21
+S12000050,North Lanarkshire,48,Oct-21
+S12000023,Orkney Islands,178,Oct-21
+S12000048,Perth & Kinross,79,Oct-21
+S12000038,Renfrewshire,39,Oct-21
+S12000026,Scottish Borders,44,Oct-21
+S12000027,Shetland Islands,91,Oct-21
+S12000028,South Ayrshire,50,Oct-21
+S12000029,South Lanarkshire,46,Oct-21
+S12000030,Stirling,122,Oct-21
+S12000039,West Dunbartonshire,29,Oct-21
+S12000040,West Lothian,25,Oct-21
+N92000002,Northern Ireland,17,Oct-21
+N09000001,Antrim And Newtownabbey,25,Oct-21
+N09000011,Ards And North Down,11,Oct-21
+N09000002,"Armagh City, Banbridge And Craigavon",14,Oct-21
+N09000003,Belfast,15,Oct-21
+N09000004,Causeway Coast And Glens,21,Oct-21
+N09000005,Derry City And Strabane,17,Oct-21
+N09000006,Fermanagh And Omagh,32,Oct-21
+N09000007,Lisburn And Castlereagh,11,Oct-21
+N09000008,Mid And East Antrim,17,Oct-21
+N09000009,Mid Ulster,16,Oct-21
+N09000010,"Newry, Mourne And Down",17,Oct-21
+K02000001,United Kingdom,36,Jul-21
+K03000001,Great Britain,36,Jul-21
+E92000001,England,36,Jul-21
+E12000001,North East,33,Jul-21
+E06000047,County Durham,21,Jul-21
+E06000005,Darlington,28,Jul-21
+E06000001,Hartlepool,10,Jul-21
+E06000002,Middlesbrough,21,Jul-21
+E06000057,Northumberland,53,Jul-21
+E06000003,Redcar And Cleveland,23,Jul-21
+E06000004,Stockton-On-Tees,43,Jul-21
+E11000007,Tyne And Wear (Met County),35,Jul-21
+E08000037,Gateshead,31,Jul-21
+E08000021,Newcastle Upon Tyne,41,Jul-21
+E08000022,North Tyneside,21,Jul-21
+E08000023,South Tyneside,19,Jul-21
+E08000024,Sunderland,52,Jul-21
+E12000002,North West,21,Jul-21
+E06000008,Blackburn With Darwen,19,Jul-21
+E06000009,Blackpool,15,Jul-21
+E06000049,Cheshire East,26,Jul-21
+E06000050,Cheshire West And Chester,24,Jul-21
+E06000006,Halton,13,Jul-21
+E06000007,Warrington,42,Jul-21
+E10000006,Cumbria,45,Jul-21
+E07000026,Allerdale,19,Jul-21
+E07000027,Barrow-In-Furness,11,Jul-21
+E07000028,Carlisle,46,Jul-21
+E07000029,Copeland,41,Jul-21
+E07000030,Eden,72,Jul-21
+E07000031,South Lakeland,77,Jul-21
+E11000001,Greater Manchester (Met County),14,Jul-21
+E08000001,Bolton,8,Jul-21
+E08000002,Bury,8,Jul-21
+E08000003,Manchester,19,Jul-21
+E08000004,Oldham,13,Jul-21
+E08000005,Rochdale,9,Jul-21
+E08000006,Salford,28,Jul-21
+E08000007,Stockport,11,Jul-21
+E08000008,Tameside,11,Jul-21
+E08000009,Trafford,18,Jul-21
+E08000010,Wigan,12,Jul-21
+E10000017,Lancashire,31,Jul-21
+E07000117,Burnley,20,Jul-21
+E07000118,Chorley,36,Jul-21
+E07000119,Fylde,19,Jul-21
+E07000120,Hyndburn,29,Jul-21
+E07000121,Lancaster,49,Jul-21
+E07000122,Pendle,16,Jul-21
+E07000123,Preston,36,Jul-21
+E07000124,Ribble Valley,41,Jul-21
+E07000125,Rossendale,20,Jul-21
+E07000126,South Ribble,44,Jul-21
+E07000127,West Lancashire,27,Jul-21
+E07000128,Wyre,16,Jul-21
+E11000002,Merseyside (Met County),17,Jul-21
+E08000011,Knowsley,11,Jul-21
+E08000012,Liverpool,32,Jul-21
+E08000014,Sefton,8,Jul-21
+E08000013,St. Helens,11,Jul-21
+E08000015,Wirral,6,Jul-21
+E12000003,Yorkshire And The Humber,20,Jul-21
+E06000011,East Riding Of Yorkshire,16,Jul-21
+E06000010,"Kingston Upon Hull, City Of",13,Jul-21
+E06000012,North East Lincolnshire,15,Jul-21
+E06000013,North Lincolnshire,12,Jul-21
+E06000014,York,37,Jul-21
+E10000023,North Yorkshire,28,Jul-21
+E07000163,Craven,45,Jul-21
+E07000164,Hambleton,32,Jul-21
+E07000165,Harrogate,30,Jul-21
+E07000166,Richmondshire,33,Jul-21
+E07000167,Ryedale,48,Jul-21
+E07000168,Scarborough,18,Jul-21
+E07000169,Selby,6,Jul-21
+E11000003,South Yorkshire (Met County),19,Jul-21
+E08000016,Barnsley,10,Jul-21
+E08000017,Doncaster,17,Jul-21
+E08000018,Rotherham,25,Jul-21
+E08000019,Sheffield,21,Jul-21
+E11000006,West Yorkshire (Met County),20,Jul-21
+E08000032,Bradford,19,Jul-21
+E08000033,Calderdale,16,Jul-21
+E08000034,Kirklees,14,Jul-21
+E08000035,Leeds,28,Jul-21
+E08000036,Wakefield,17,Jul-21
+E12000004,East Midlands,26,Jul-21
+E06000015,Derby,24,Jul-21
+E06000016,Leicester,21,Jul-21
+E06000061,North Northamptonshire (From April 2021),24,Jul-21
+E06000018,Nottingham,43,Jul-21
+E06000017,Rutland,42,Jul-21
+E06000062,West Northamptonshire (From April 2021),16,Jul-21
+E10000007,Derbyshire,22,Jul-21
+E07000032,Amber Valley,11,Jul-21
+E07000033,Bolsover,43,Jul-21
+E07000034,Chesterfield,29,Jul-21
+E07000035,Derbyshire Dales,49,Jul-21
+E07000036,Erewash,17,Jul-21
+E07000037,High Peak,26,Jul-21
+E07000038,North East Derbyshire,9,Jul-21
+E07000039,South Derbyshire,10,Jul-21
+E10000018,Leicestershire,28,Jul-21
+E07000129,Blaby,33,Jul-21
+E07000130,Charnwood,21,Jul-21
+E07000131,Harborough,33,Jul-21
+E07000132,Hinckley And Bosworth,35,Jul-21
+E07000133,Melton,15,Jul-21
+E07000134,North West Leicestershire,22,Jul-21
+E07000135,Oadby And Wigston,43,Jul-21
+E10000019,Lincolnshire,27,Jul-21
+E07000136,Boston,55,Jul-21
+E07000137,East Lindsey,33,Jul-21
+E07000138,Lincoln,59,Jul-21
+E07000139,North Kesteven,11,Jul-21
+E07000140,South Holland,11,Jul-21
+E07000141,South Kesteven,14,Jul-21
+E07000142,West Lindsey,16,Jul-21
+E10000021,Northamptonshire (Abolished April 2021),0,Jul-21
+E07000150,Corby (Abolished April 2021),0,Jul-21
+E07000151,Daventry (Abolished April 2021),0,Jul-21
+E07000152,East Northamptonshire (Abolished April 2021),0,Jul-21
+E07000153,Kettering (Abolished April 2021),0,Jul-21
+E07000154,Northampton (Abolished April 2021),0,Jul-21
+E07000155,South Northamptonshire (Abolished April 2021),0,Jul-21
+E07000156,Wellingborough (Abolished April 2021),0,Jul-21
+E10000024,Nottinghamshire,26,Jul-21
+E07000170,Ashfield,16,Jul-21
+E07000171,Bassetlaw,26,Jul-21
+E07000172,Broxtowe,29,Jul-21
+E07000173,Gedling,27,Jul-21
+E07000174,Mansfield,24,Jul-21
+E07000175,Newark And Sherwood,29,Jul-21
+E07000176,Rushcliffe,34,Jul-21
+E12000005,West Midlands,26,Jul-21
+E06000019,"Herefordshire, County Of",33,Jul-21
+E06000051,Shropshire,19,Jul-21
+E06000021,Stoke-On-Trent,14,Jul-21
+E06000020,Telford And Wrekin,16,Jul-21
+E10000028,Staffordshire,22,Jul-21
+E07000192,Cannock Chase,23,Jul-21
+E07000193,East Staffordshire,17,Jul-21
+E07000194,Lichfield,15,Jul-21
+E07000195,Newcastle-Under-Lyme,30,Jul-21
+E07000196,South Staffordshire,40,Jul-21
+E07000197,Stafford,21,Jul-21
+E07000198,Staffordshire Moorlands,9,Jul-21
+E07000199,Tamworth,14,Jul-21
+E10000031,Warwickshire,38,Jul-21
+E07000218,North Warwickshire,42,Jul-21
+E07000219,Nuneaton And Bedworth,15,Jul-21
+E07000220,Rugby,40,Jul-21
+E07000221,Stratford-On-Avon,58,Jul-21
+E07000222,Warwick,36,Jul-21
+E11000005,West Midlands (Met County),28,Jul-21
+E08000025,Birmingham,11,Jul-21
+E08000026,Coventry,120,Jul-21
+E08000027,Dudley,11,Jul-21
+E08000028,Sandwell,10,Jul-21
+E08000029,Solihull,53,Jul-21
+E08000030,Walsall,7,Jul-21
+E08000031,Wolverhampton,14,Jul-21
+E10000034,Worcestershire,23,Jul-21
+E07000234,Bromsgrove,41,Jul-21
+E07000235,Malvern Hills,12,Jul-21
+E07000236,Redditch,12,Jul-21
+E07000237,Worcester,19,Jul-21
+E07000238,Wychavon,31,Jul-21
+E07000239,Wyre Forest,14,Jul-21
+E12000006,East Of England,25,Jul-21
+E06000055,Bedford,49,Jul-21
+E06000056,Central Bedfordshire,15,Jul-21
+E06000032,Luton,23,Jul-21
+E06000031,Peterborough,32,Jul-21
+E06000033,Southend-On-Sea,8,Jul-21
+E06000034,Thurrock,10,Jul-21
+E10000003,Cambridgeshire,25,Jul-21
+E07000008,Cambridge,40,Jul-21
+E07000009,East Cambridgeshire,22,Jul-21
+E07000010,Fenland,4,Jul-21
+E07000011,Huntingdonshire,27,Jul-21
+E07000012,South Cambridgeshire,27,Jul-21
+E10000012,Essex,20,Jul-21
+E07000066,Basildon,28,Jul-21
+E07000067,Braintree,39,Jul-21
+E07000068,Brentwood,9,Jul-21
+E07000069,Castle Point,3,Jul-21
+E07000070,Chelmsford,20,Jul-21
+E07000071,Colchester,22,Jul-21
+E07000072,Epping Forest,26,Jul-21
+E07000073,Harlow,9,Jul-21
+E07000074,Maldon,13,Jul-21
+E07000075,Rochford,17,Jul-21
+E07000076,Tendring,9,Jul-21
+E07000077,Uttlesford,19,Jul-21
+E10000015,Hertfordshire,26,Jul-21
+E07000095,Broxbourne,10,Jul-21
+E07000096,Dacorum,14,Jul-21
+E07000242,East Hertfordshire,11,Jul-21
+E07000098,Hertsmere,26,Jul-21
+E07000099,North Hertfordshire,21,Jul-21
+E07000240,St Albans,26,Jul-21
+E07000243,Stevenage,12,Jul-21
+E07000102,Three Rivers,62,Jul-21
+E07000103,Watford,46,Jul-21
+E07000241,Welwyn Hatfield,40,Jul-21
+E10000020,Norfolk,30,Jul-21
+E07000143,Breckland,23,Jul-21
+E07000144,Broadland,14,Jul-21
+E07000145,Great Yarmouth,32,Jul-21
+E07000146,King'S Lynn And West Norfolk,35,Jul-21
+E07000147,North Norfolk,55,Jul-21
+E07000148,Norwich,36,Jul-21
+E07000149,South Norfolk,23,Jul-21
+E10000029,Suffolk,28,Jul-21
+E07000200,Babergh,20,Jul-21
+E07000244,East Suffolk,20,Jul-21
+E07000202,Ipswich,40,Jul-21
+E07000203,Mid Suffolk,15,Jul-21
+E07000245,West Suffolk,44,Jul-21
+E12000007,London,83,Jul-21
+E13000001,Inner London,129,Jul-21
+E09000007,Camden,127,Jul-21
+E09000001,City Of London,329,Jul-21
+E09000012,Hackney,48,Jul-21
+E09000013,Hammersmith And Fulham,301,Jul-21
+E09000014,Haringey,33,Jul-21
+E09000019,Islington,107,Jul-21
+E09000020,Kensington And Chelsea,348,Jul-21
+E09000022,Lambeth,94,Jul-21
+E09000023,Lewisham,42,Jul-21
+E09000025,Newham,33,Jul-21
+E09000028,Southwark,111,Jul-21
+E09000030,Tower Hamlets,54,Jul-21
+E09000032,Wandsworth,182,Jul-21
+E09000033,Westminster,392,Jul-21
+E13000002,Outer London,51,Jul-21
+E09000002,Barking And Dagenham,29,Jul-21
+E09000003,Barnet,49,Jul-21
+E09000004,Bexley,16,Jul-21
+E09000005,Brent,61,Jul-21
+E09000006,Bromley,24,Jul-21
+E09000008,Croydon,25,Jul-21
+E09000009,Ealing,78,Jul-21
+E09000010,Enfield,31,Jul-21
+E09000011,Greenwich,83,Jul-21
+E09000015,Harrow,19,Jul-21
+E09000016,Havering,9,Jul-21
+E09000017,Hillingdon,64,Jul-21
+E09000018,Hounslow,98,Jul-21
+E09000021,Kingston Upon Thames,28,Jul-21
+E09000024,Merton,95,Jul-21
+E09000026,Redbridge,22,Jul-21
+E09000027,Richmond Upon Thames,180,Jul-21
+E09000029,Sutton,26,Jul-21
+E09000031,Waltham Forest,66,Jul-21
+E12000008,South East,35,Jul-21
+E06000036,Bracknell Forest,27,Jul-21
+E06000043,Brighton And Hove,113,Jul-21
+E06000046,Isle Of Wight,35,Jul-21
+E06000035,Medway,6,Jul-21
+E06000042,Milton Keynes,134,Jul-21
+E06000044,Portsmouth,34,Jul-21
+E06000038,Reading,36,Jul-21
+E06000039,Slough,45,Jul-21
+E06000045,Southampton,29,Jul-21
+E06000037,West Berkshire,65,Jul-21
+E06000040,Windsor And Maidenhead,25,Jul-21
+E06000041,Wokingham,36,Jul-21
+E06000060,Buckinghamshire,28,Jul-21
+E10000011,East Sussex,19,Jul-21
+E07000061,Eastbourne,34,Jul-21
+E07000062,Hastings,15,Jul-21
+E07000063,Lewes,23,Jul-21
+E07000064,Rother,12,Jul-21
+E07000065,Wealden,14,Jul-21
+E10000014,Hampshire,34,Jul-21
+E07000084,Basingstoke And Deane,36,Jul-21
+E07000085,East Hampshire,25,Jul-21
+E07000086,Eastleigh,42,Jul-21
+E07000087,Fareham,9,Jul-21
+E07000088,Gosport,12,Jul-21
+E07000089,Hart,47,Jul-21
+E07000090,Havant,19,Jul-21
+E07000091,New Forest,42,Jul-21
+E07000092,Rushmoor,32,Jul-21
+E07000093,Test Valley,32,Jul-21
+E07000094,Winchester,69,Jul-21
+E10000016,Kent,25,Jul-21
+E07000105,Ashford,26,Jul-21
+E07000106,Canterbury,38,Jul-21
+E07000107,Dartford,35,Jul-21
+E07000108,Dover,11,Jul-21
+E07000112,Folkestone And Hythe,27,Jul-21
+E07000109,Gravesham,9,Jul-21
+E07000110,Maidstone,35,Jul-21
+E07000111,Sevenoaks,16,Jul-21
+E07000113,Swale,27,Jul-21
+E07000114,Thanet,17,Jul-21
+E07000115,Tonbridge And Malling,14,Jul-21
+E07000116,Tunbridge Wells,36,Jul-21
+E10000025,Oxfordshire,43,Jul-21
+E07000177,Cherwell,62,Jul-21
+E07000178,Oxford,65,Jul-21
+E07000179,South Oxfordshire,31,Jul-21
+E07000180,Vale Of White Horse,31,Jul-21
+E07000181,West Oxfordshire,17,Jul-21
+E10000030,Surrey,27,Jul-21
+E07000207,Elmbridge,26,Jul-21
+E07000208,Epsom And Ewell,19,Jul-21
+E07000209,Guildford,38,Jul-21
+E07000210,Mole Valley,23,Jul-21
+E07000211,Reigate And Banstead,19,Jul-21
+E07000212,Runnymede,33,Jul-21
+E07000213,Spelthorne,46,Jul-21
+E07000214,Surrey Heath,29,Jul-21
+E07000215,Tandridge,14,Jul-21
+E07000216,Waverley,25,Jul-21
+E07000217,Woking,17,Jul-21
+E10000032,West Sussex,22,Jul-21
+E07000223,Adur,15,Jul-21
+E07000224,Arun,14,Jul-21
+E07000225,Chichester,37,Jul-21
+E07000226,Crawley,36,Jul-21
+E07000227,Horsham,18,Jul-21
+E07000228,Mid Sussex,23,Jul-21
+E07000229,Worthing,12,Jul-21
+E12000009,South West,30,Jul-21
+E06000022,Bath And North East Somerset,31,Jul-21
+E06000058,"Bournemouth, Christchurch And Poole",19,Jul-21
+E06000023,"Bristol, City Of",25,Jul-21
+E06000052,Cornwall,43,Jul-21
+E06000059,Dorset,29,Jul-21
+E06000053,Isles Of Scilly,0,Jul-21
+E06000024,North Somerset,41,Jul-21
+E06000026,Plymouth,28,Jul-21
+E06000025,South Gloucestershire,34,Jul-21
+E06000030,Swindon,20,Jul-21
+E06000027,Torbay,18,Jul-21
+E06000054,Wiltshire,27,Jul-21
+E10000008,Devon,34,Jul-21
+E07000040,East Devon,39,Jul-21
+E07000041,Exeter,33,Jul-21
+E07000042,Mid Devon,32,Jul-21
+E07000043,North Devon,49,Jul-21
+E07000044,South Hams,32,Jul-21
+E07000045,Teignbridge,18,Jul-21
+E07000046,Torridge,34,Jul-21
+E07000047,West Devon,39,Jul-21
+E10000013,Gloucestershire,30,Jul-21
+E07000078,Cheltenham,28,Jul-21
+E07000079,Cotswold,55,Jul-21
+E07000080,Forest Of Dean,18,Jul-21
+E07000081,Gloucester,27,Jul-21
+E07000082,Stroud,34,Jul-21
+E07000083,Tewkesbury,21,Jul-21
+E10000027,Somerset,27,Jul-21
+E07000187,Mendip,30,Jul-21
+E07000188,Sedgemoor,23,Jul-21
+E07000246,Somerset West And Taunton,25,Jul-21
+E07000189,South Somerset,28,Jul-21
+W92000004,Wales,28,Jul-21
+W06000001,Isle Of Anglesey,76,Jul-21
+W06000002,Gwynedd,58,Jul-21
+W06000003,Conwy,28,Jul-21
+W06000004,Denbighshire,19,Jul-21
+W06000005,Flintshire,19,Jul-21
+W06000006,Wrexham,22,Jul-21
+W06000023,Powys,63,Jul-21
+W06000008,Ceredigion,46,Jul-21
+W06000009,Pembrokeshire,82,Jul-21
+W06000010,Carmarthenshire,34,Jul-21
+W06000011,Swansea,21,Jul-21
+W06000012,Neath Port Talbot,8,Jul-21
+W06000013,Bridgend,15,Jul-21
+W06000014,The Vale Of Glamorgan,13,Jul-21
+W06000015,Cardiff,21,Jul-21
+W06000016,Rhondda Cynon Taf,5,Jul-21
+W06000024,Merthyr Tydfil,13,Jul-21
+W06000018,Caerphilly,21,Jul-21
+W06000019,Blaenau Gwent,25,Jul-21
+W06000020,Torfaen,28,Jul-21
+W06000021,Monmouthshire,51,Jul-21
+W06000022,Newport,31,Jul-21
+S92000003,Scotland,46,Jul-21
+S12000033,Aberdeen City,44,Jul-21
+S12000034,Aberdeenshire,41,Jul-21
+S12000041,Angus,65,Jul-21
+S12000035,Argyll & Bute,95,Jul-21
+S12000036,City Of Edinburgh,24,Jul-21
+S12000005,Clackmannanshire,44,Jul-21
+S12000006,Dumfries & Galloway,68,Jul-21
+S12000042,Dundee City,82,Jul-21
+S12000008,East Ayrshire,53,Jul-21
+S12000045,East Dunbartonshire,22,Jul-21
+S12000010,East Lothian,112,Jul-21
+S12000011,East Renfrewshire,26,Jul-21
+S12000014,Falkirk,31,Jul-21
+S12000047,Fife,29,Jul-21
+S12000049,Glasgow City,31,Jul-21
+S12000017,Highland,89,Jul-21
+S12000018,Inverclyde,41,Jul-21
+S12000019,Midlothian,64,Jul-21
+S12000020,Moray,37,Jul-21
+S12000013,Na H-Eileanan Siar,101,Jul-21
+S12000021,North Ayrshire,37,Jul-21
+S12000050,North Lanarkshire,44,Jul-21
+S12000023,Orkney Islands,160,Jul-21
+S12000048,Perth & Kinross,77,Jul-21
+S12000038,Renfrewshire,39,Jul-21
+S12000026,Scottish Borders,42,Jul-21
+S12000027,Shetland Islands,87,Jul-21
+S12000028,South Ayrshire,48,Jul-21
+S12000029,South Lanarkshire,44,Jul-21
+S12000030,Stirling,103,Jul-21
+S12000039,West Dunbartonshire,27,Jul-21
+S12000040,West Lothian,25,Jul-21
+N92000002,Northern Ireland,17,Jul-21
+N09000001,Antrim And Newtownabbey,25,Jul-21
+N09000011,Ards And North Down,11,Jul-21
+N09000002,"Armagh City, Banbridge And Craigavon",14,Jul-21
+N09000003,Belfast,15,Jul-21
+N09000004,Causeway Coast And Glens,19,Jul-21
+N09000005,Derry City And Strabane,17,Jul-21
+N09000006,Fermanagh And Omagh,32,Jul-21
+N09000007,Lisburn And Castlereagh,10,Jul-21
+N09000008,Mid And East Antrim,20,Jul-21
+N09000009,Mid Ulster,16,Jul-21
+N09000010,"Newry, Mourne And Down",17,Jul-21
+K02000001,United Kingdom,34,Apr-21
+K03000001,Great Britain,34,Apr-21
+E92000001,England,34,Apr-21
+E12000001,North East,31,Apr-21
+E06000047,County Durham,22,Apr-21
+E06000005,Darlington,27,Apr-21
+E06000001,Hartlepool,9,Apr-21
+E06000002,Middlesbrough,21,Apr-21
+E06000057,Northumberland,47,Apr-21
+E06000003,Redcar And Cleveland,18,Apr-21
+E06000004,Stockton-On-Tees,43,Apr-21
+E11000007,Tyne And Wear (Met County),35,Apr-21
+E08000037,Gateshead,30,Apr-21
+E08000021,Newcastle Upon Tyne,39,Apr-21
+E08000022,North Tyneside,22,Apr-21
+E08000023,South Tyneside,18,Apr-21
+E08000024,Sunderland,52,Apr-21
+E12000002,North West,20,Apr-21
+E06000008,Blackburn With Darwen,18,Apr-21
+E06000009,Blackpool,15,Apr-21
+E06000049,Cheshire East,22,Apr-21
+E06000050,Cheshire West And Chester,20,Apr-21
+E06000006,Halton,9,Apr-21
+E06000007,Warrington,41,Apr-21
+E10000006,Cumbria,41,Apr-21
+E07000026,Allerdale,20,Apr-21
+E07000027,Barrow-In-Furness,10,Apr-21
+E07000028,Carlisle,37,Apr-21
+E07000029,Copeland,35,Apr-21
+E07000030,Eden,73,Apr-21
+E07000031,South Lakeland,75,Apr-21
+E11000001,Greater Manchester (Met County),14,Apr-21
+E08000001,Bolton,7,Apr-21
+E08000002,Bury,8,Apr-21
+E08000003,Manchester,18,Apr-21
+E08000004,Oldham,13,Apr-21
+E08000005,Rochdale,11,Apr-21
+E08000006,Salford,28,Apr-21
+E08000007,Stockport,12,Apr-21
+E08000008,Tameside,9,Apr-21
+E08000009,Trafford,18,Apr-21
+E08000010,Wigan,12,Apr-21
+E10000017,Lancashire,29,Apr-21
+E07000117,Burnley,20,Apr-21
+E07000118,Chorley,33,Apr-21
+E07000119,Fylde,19,Apr-21
+E07000120,Hyndburn,28,Apr-21
+E07000121,Lancaster,44,Apr-21
+E07000122,Pendle,16,Apr-21
+E07000123,Preston,34,Apr-21
+E07000124,Ribble Valley,34,Apr-21
+E07000125,Rossendale,20,Apr-21
+E07000126,South Ribble,39,Apr-21
+E07000127,West Lancashire,27,Apr-21
+E07000128,Wyre,16,Apr-21
+E11000002,Merseyside (Met County),16,Apr-21
+E08000011,Knowsley,7,Apr-21
+E08000012,Liverpool,30,Apr-21
+E08000014,Sefton,10,Apr-21
+E08000013,St. Helens,11,Apr-21
+E08000015,Wirral,5,Apr-21
+E12000003,Yorkshire And The Humber,20,Apr-21
+E06000011,East Riding Of Yorkshire,16,Apr-21
+E06000010,"Kingston Upon Hull, City Of",13,Apr-21
+E06000012,North East Lincolnshire,13,Apr-21
+E06000013,North Lincolnshire,12,Apr-21
+E06000014,York,35,Apr-21
+E10000023,North Yorkshire,28,Apr-21
+E07000163,Craven,49,Apr-21
+E07000164,Hambleton,27,Apr-21
+E07000165,Harrogate,32,Apr-21
+E07000166,Richmondshire,33,Apr-21
+E07000167,Ryedale,46,Apr-21
+E07000168,Scarborough,18,Apr-21
+E07000169,Selby,5,Apr-21
+E11000003,South Yorkshire (Met County),18,Apr-21
+E08000016,Barnsley,10,Apr-21
+E08000017,Doncaster,16,Apr-21
+E08000018,Rotherham,25,Apr-21
+E08000019,Sheffield,20,Apr-21
+E11000006,West Yorkshire (Met County),20,Apr-21
+E08000032,Bradford,18,Apr-21
+E08000033,Calderdale,16,Apr-21
+E08000034,Kirklees,14,Apr-21
+E08000035,Leeds,27,Apr-21
+E08000036,Wakefield,17,Apr-21
+E12000004,East Midlands,24,Apr-21
+E06000015,Derby,24,Apr-21
+E06000016,Leicester,20,Apr-21
+E06000061,North Northamptonshire (From April 2021),0,Apr-21
+E06000018,Nottingham,44,Apr-21
+E06000017,Rutland,42,Apr-21
+E06000062,West Northamptonshire (From April 2021),0,Apr-21
+E10000007,Derbyshire,21,Apr-21
+E07000032,Amber Valley,8,Apr-21
+E07000033,Bolsover,35,Apr-21
+E07000034,Chesterfield,29,Apr-21
+E07000035,Derbyshire Dales,47,Apr-21
+E07000036,Erewash,17,Apr-21
+E07000037,High Peak,25,Apr-21
+E07000038,North East Derbyshire,9,Apr-21
+E07000039,South Derbyshire,9,Apr-21
+E10000018,Leicestershire,22,Apr-21
+E07000129,Blaby,25,Apr-21
+E07000130,Charnwood,19,Apr-21
+E07000131,Harborough,34,Apr-21
+E07000132,Hinckley And Bosworth,22,Apr-21
+E07000133,Melton,15,Apr-21
+E07000134,North West Leicestershire,21,Apr-21
+E07000135,Oadby And Wigston,17,Apr-21
+E10000019,Lincolnshire,27,Apr-21
+E07000136,Boston,55,Apr-21
+E07000137,East Lindsey,33,Apr-21
+E07000138,Lincoln,49,Apr-21
+E07000139,North Kesteven,10,Apr-21
+E07000140,South Holland,12,Apr-21
+E07000141,South Kesteven,25,Apr-21
+E07000142,West Lindsey,16,Apr-21
+E10000021,Northamptonshire (Abolished April 2021),19,Apr-21
+E07000150,Corby (Abolished April 2021),45,Apr-21
+E07000151,Daventry (Abolished April 2021),22,Apr-21
+E07000152,East Northamptonshire (Abolished April 2021),21,Apr-21
+E07000153,Kettering (Abolished April 2021),20,Apr-21
+E07000154,Northampton (Abolished April 2021),7,Apr-21
+E07000155,South Northamptonshire (Abolished April 2021),27,Apr-21
+E07000156,Wellingborough (Abolished April 2021),12,Apr-21
+E10000024,Nottinghamshire,22,Apr-21
+E07000170,Ashfield,16,Apr-21
+E07000171,Bassetlaw,26,Apr-21
+E07000172,Broxtowe,26,Apr-21
+E07000173,Gedling,16,Apr-21
+E07000174,Mansfield,24,Apr-21
+E07000175,Newark And Sherwood,27,Apr-21
+E07000176,Rushcliffe,20,Apr-21
+E12000005,West Midlands,22,Apr-21
+E06000019,"Herefordshire, County Of",32,Apr-21
+E06000051,Shropshire,18,Apr-21
+E06000021,Stoke-On-Trent,14,Apr-21
+E06000020,Telford And Wrekin,14,Apr-21
+E10000028,Staffordshire,21,Apr-21
+E07000192,Cannock Chase,18,Apr-21
+E07000193,East Staffordshire,16,Apr-21
+E07000194,Lichfield,16,Apr-21
+E07000195,Newcastle-Under-Lyme,30,Apr-21
+E07000196,South Staffordshire,43,Apr-21
+E07000197,Stafford,20,Apr-21
+E07000198,Staffordshire Moorlands,9,Apr-21
+E07000199,Tamworth,9,Apr-21
+E10000031,Warwickshire,32,Apr-21
+E07000218,North Warwickshire,42,Apr-21
+E07000219,Nuneaton And Bedworth,15,Apr-21
+E07000220,Rugby,19,Apr-21
+E07000221,Stratford-On-Avon,54,Apr-21
+E07000222,Warwick,31,Apr-21
+E11000005,West Midlands (Met County),21,Apr-21
+E08000025,Birmingham,11,Apr-21
+E08000026,Coventry,79,Apr-21
+E08000027,Dudley,10,Apr-21
+E08000028,Sandwell,10,Apr-21
+E08000029,Solihull,36,Apr-21
+E08000030,Walsall,7,Apr-21
+E08000031,Wolverhampton,14,Apr-21
+E10000034,Worcestershire,21,Apr-21
+E07000234,Bromsgrove,33,Apr-21
+E07000235,Malvern Hills,15,Apr-21
+E07000236,Redditch,12,Apr-21
+E07000237,Worcester,19,Apr-21
+E07000238,Wychavon,32,Apr-21
+E07000239,Wyre Forest,8,Apr-21
+E12000006,East Of England,22,Apr-21
+E06000055,Bedford,36,Apr-21
+E06000056,Central Bedfordshire,14,Apr-21
+E06000032,Luton,25,Apr-21
+E06000031,Peterborough,30,Apr-21
+E06000033,Southend-On-Sea,8,Apr-21
+E06000034,Thurrock,10,Apr-21
+E10000003,Cambridgeshire,20,Apr-21
+E07000008,Cambridge,27,Apr-21
+E07000009,East Cambridgeshire,17,Apr-21
+E07000010,Fenland,3,Apr-21
+E07000011,Huntingdonshire,18,Apr-21
+E07000012,South Cambridgeshire,27,Apr-21
+E10000012,Essex,18,Apr-21
+E07000066,Basildon,28,Apr-21
+E07000067,Braintree,29,Apr-21
+E07000068,Brentwood,6,Apr-21
+E07000069,Castle Point,3,Apr-21
+E07000070,Chelmsford,20,Apr-21
+E07000071,Colchester,21,Apr-21
+E07000072,Epping Forest,26,Apr-21
+E07000073,Harlow,9,Apr-21
+E07000074,Maldon,7,Apr-21
+E07000075,Rochford,17,Apr-21
+E07000076,Tendring,8,Apr-21
+E07000077,Uttlesford,15,Apr-21
+E10000015,Hertfordshire,23,Apr-21
+E07000095,Broxbourne,7,Apr-21
+E07000096,Dacorum,14,Apr-21
+E07000242,East Hertfordshire,9,Apr-21
+E07000098,Hertsmere,24,Apr-21
+E07000099,North Hertfordshire,17,Apr-21
+E07000240,St Albans,21,Apr-21
+E07000243,Stevenage,12,Apr-21
+E07000102,Three Rivers,62,Apr-21
+E07000103,Watford,46,Apr-21
+E07000241,Welwyn Hatfield,37,Apr-21
+E10000020,Norfolk,26,Apr-21
+E07000143,Breckland,20,Apr-21
+E07000144,Broadland,13,Apr-21
+E07000145,Great Yarmouth,20,Apr-21
+E07000146,King'S Lynn And West Norfolk,31,Apr-21
+E07000147,North Norfolk,50,Apr-21
+E07000148,Norwich,30,Apr-21
+E07000149,South Norfolk,22,Apr-21
+E10000029,Suffolk,27,Apr-21
+E07000200,Babergh,20,Apr-21
+E07000244,East Suffolk,20,Apr-21
+E07000202,Ipswich,37,Apr-21
+E07000203,Mid Suffolk,15,Apr-21
+E07000245,West Suffolk,39,Apr-21
+E12000007,London,80,Apr-21
+E13000001,Inner London,124,Apr-21
+E09000007,Camden,135,Apr-21
+E09000001,City Of London,360,Apr-21
+E09000012,Hackney,48,Apr-21
+E09000013,Hammersmith And Fulham,285,Apr-21
+E09000014,Haringey,31,Apr-21
+E09000019,Islington,104,Apr-21
+E09000020,Kensington And Chelsea,329,Apr-21
+E09000022,Lambeth,75,Apr-21
+E09000023,Lewisham,41,Apr-21
+E09000025,Newham,33,Apr-21
+E09000028,Southwark,102,Apr-21
+E09000030,Tower Hamlets,51,Apr-21
+E09000032,Wandsworth,180,Apr-21
+E09000033,Westminster,390,Apr-21
+E13000002,Outer London,49,Apr-21
+E09000002,Barking And Dagenham,30,Apr-21
+E09000003,Barnet,44,Apr-21
+E09000004,Bexley,16,Apr-21
+E09000005,Brent,71,Apr-21
+E09000006,Bromley,24,Apr-21
+E09000008,Croydon,26,Apr-21
+E09000009,Ealing,77,Apr-21
+E09000010,Enfield,23,Apr-21
+E09000011,Greenwich,85,Apr-21
+E09000015,Harrow,10,Apr-21
+E09000016,Havering,9,Apr-21
+E09000017,Hillingdon,60,Apr-21
+E09000018,Hounslow,97,Apr-21
+E09000021,Kingston Upon Thames,29,Apr-21
+E09000024,Merton,83,Apr-21
+E09000026,Redbridge,16,Apr-21
+E09000027,Richmond Upon Thames,183,Apr-21
+E09000029,Sutton,26,Apr-21
+E09000031,Waltham Forest,61,Apr-21
+E12000008,South East,33,Apr-21
+E06000036,Bracknell Forest,27,Apr-21
+E06000043,Brighton And Hove,93,Apr-21
+E06000046,Isle Of Wight,33,Apr-21
+E06000035,Medway,6,Apr-21
+E06000042,Milton Keynes,132,Apr-21
+E06000044,Portsmouth,34,Apr-21
+E06000038,Reading,35,Apr-21
+E06000039,Slough,45,Apr-21
+E06000045,Southampton,28,Apr-21
+E06000037,West Berkshire,64,Apr-21
+E06000040,Windsor And Maidenhead,21,Apr-21
+E06000041,Wokingham,35,Apr-21
+E06000060,Buckinghamshire,27,Apr-21
+E10000011,East Sussex,18,Apr-21
+E07000061,Eastbourne,31,Apr-21
+E07000062,Hastings,14,Apr-21
+E07000063,Lewes,22,Apr-21
+E07000064,Rother,10,Apr-21
+E07000065,Wealden,13,Apr-21
+E10000014,Hampshire,31,Apr-21
+E07000084,Basingstoke And Deane,36,Apr-21
+E07000085,East Hampshire,25,Apr-21
+E07000086,Eastleigh,21,Apr-21
+E07000087,Fareham,8,Apr-21
+E07000088,Gosport,12,Apr-21
+E07000089,Hart,47,Apr-21
+E07000090,Havant,19,Apr-21
+E07000091,New Forest,44,Apr-21
+E07000092,Rushmoor,30,Apr-21
+E07000093,Test Valley,35,Apr-21
+E07000094,Winchester,53,Apr-21
+E10000016,Kent,23,Apr-21
+E07000105,Ashford,26,Apr-21
+E07000106,Canterbury,33,Apr-21
+E07000107,Dartford,35,Apr-21
+E07000108,Dover,9,Apr-21
+E07000112,Folkestone And Hythe,27,Apr-21
+E07000109,Gravesham,9,Apr-21
+E07000110,Maidstone,33,Apr-21
+E07000111,Sevenoaks,14,Apr-21
+E07000113,Swale,25,Apr-21
+E07000114,Thanet,17,Apr-21
+E07000115,Tonbridge And Malling,15,Apr-21
+E07000116,Tunbridge Wells,30,Apr-21
+E10000025,Oxfordshire,42,Apr-21
+E07000177,Cherwell,57,Apr-21
+E07000178,Oxford,65,Apr-21
+E07000179,South Oxfordshire,33,Apr-21
+E07000180,Vale Of White Horse,30,Apr-21
+E07000181,West Oxfordshire,17,Apr-21
+E10000030,Surrey,25,Apr-21
+E07000207,Elmbridge,27,Apr-21
+E07000208,Epsom And Ewell,19,Apr-21
+E07000209,Guildford,34,Apr-21
+E07000210,Mole Valley,24,Apr-21
+E07000211,Reigate And Banstead,18,Apr-21
+E07000212,Runnymede,27,Apr-21
+E07000213,Spelthorne,47,Apr-21
+E07000214,Surrey Heath,24,Apr-21
+E07000215,Tandridge,14,Apr-21
+E07000216,Waverley,22,Apr-21
+E07000217,Woking,17,Apr-21
+E10000032,West Sussex,22,Apr-21
+E07000223,Adur,15,Apr-21
+E07000224,Arun,14,Apr-21
+E07000225,Chichester,38,Apr-21
+E07000226,Crawley,35,Apr-21
+E07000227,Horsham,17,Apr-21
+E07000228,Mid Sussex,23,Apr-21
+E07000229,Worthing,11,Apr-21
+E12000009,South West,29,Apr-21
+E06000022,Bath And North East Somerset,32,Apr-21
+E06000058,"Bournemouth, Christchurch And Poole",18,Apr-21
+E06000023,"Bristol, City Of",22,Apr-21
+E06000052,Cornwall,42,Apr-21
+E06000059,Dorset,27,Apr-21
+E06000053,Isles Of Scilly,0,Apr-21
+E06000024,North Somerset,40,Apr-21
+E06000026,Plymouth,28,Apr-21
+E06000025,South Gloucestershire,30,Apr-21
+E06000030,Swindon,20,Apr-21
+E06000027,Torbay,17,Apr-21
+E06000054,Wiltshire,29,Apr-21
+E10000008,Devon,33,Apr-21
+E07000040,East Devon,39,Apr-21
+E07000041,Exeter,29,Apr-21
+E07000042,Mid Devon,31,Apr-21
+E07000043,North Devon,45,Apr-21
+E07000044,South Hams,33,Apr-21
+E07000045,Teignbridge,17,Apr-21
+E07000046,Torridge,35,Apr-21
+E07000047,West Devon,37,Apr-21
+E10000013,Gloucestershire,29,Apr-21
+E07000078,Cheltenham,30,Apr-21
+E07000079,Cotswold,43,Apr-21
+E07000080,Forest Of Dean,18,Apr-21
+E07000081,Gloucester,27,Apr-21
+E07000082,Stroud,30,Apr-21
+E07000083,Tewkesbury,23,Apr-21
+E10000027,Somerset,24,Apr-21
+E07000187,Mendip,28,Apr-21
+E07000188,Sedgemoor,22,Apr-21
+E07000246,Somerset West And Taunton,24,Apr-21
+E07000189,South Somerset,24,Apr-21
+W92000004,Wales,26,Apr-21
+W06000001,Isle Of Anglesey,74,Apr-21
+W06000002,Gwynedd,52,Apr-21
+W06000003,Conwy,29,Apr-21
+W06000004,Denbighshire,16,Apr-21
+W06000005,Flintshire,14,Apr-21
+W06000006,Wrexham,21,Apr-21
+W06000023,Powys,63,Apr-21
+W06000008,Ceredigion,45,Apr-21
+W06000009,Pembrokeshire,76,Apr-21
+W06000010,Carmarthenshire,31,Apr-21
+W06000011,Swansea,20,Apr-21
+W06000012,Neath Port Talbot,7,Apr-21
+W06000013,Bridgend,14,Apr-21
+W06000014,The Vale Of Glamorgan,13,Apr-21
+W06000015,Cardiff,15,Apr-21
+W06000016,Rhondda Cynon Taf,5,Apr-21
+W06000024,Merthyr Tydfil,13,Apr-21
+W06000018,Caerphilly,20,Apr-21
+W06000019,Blaenau Gwent,22,Apr-21
+W06000020,Torfaen,28,Apr-21
+W06000021,Monmouthshire,52,Apr-21
+W06000022,Newport,31,Apr-21
+S92000003,Scotland,43,Apr-21
+S12000033,Aberdeen City,45,Apr-21
+S12000034,Aberdeenshire,39,Apr-21
+S12000041,Angus,61,Apr-21
+S12000035,Argyll & Bute,90,Apr-21
+S12000036,City Of Edinburgh,23,Apr-21
+S12000005,Clackmannanshire,38,Apr-21
+S12000006,Dumfries & Galloway,60,Apr-21
+S12000042,Dundee City,79,Apr-21
+S12000008,East Ayrshire,49,Apr-21
+S12000045,East Dunbartonshire,22,Apr-21
+S12000010,East Lothian,101,Apr-21
+S12000011,East Renfrewshire,26,Apr-21
+S12000014,Falkirk,29,Apr-21
+S12000047,Fife,28,Apr-21
+S12000049,Glasgow City,31,Apr-21
+S12000017,Highland,78,Apr-21
+S12000018,Inverclyde,30,Apr-21
+S12000019,Midlothian,55,Apr-21
+S12000020,Moray,34,Apr-21
+S12000013,Na H-Eileanan Siar,97,Apr-21
+S12000021,North Ayrshire,35,Apr-21
+S12000050,North Lanarkshire,36,Apr-21
+S12000023,Orkney Islands,143,Apr-21
+S12000048,Perth & Kinross,69,Apr-21
+S12000038,Renfrewshire,37,Apr-21
+S12000026,Scottish Borders,43,Apr-21
+S12000027,Shetland Islands,82,Apr-21
+S12000028,South Ayrshire,43,Apr-21
+S12000029,South Lanarkshire,36,Apr-21
+S12000030,Stirling,75,Apr-21
+S12000039,West Dunbartonshire,26,Apr-21
+S12000040,West Lothian,24,Apr-21
+N92000002,Northern Ireland,17,Apr-21
+N09000001,Antrim And Newtownabbey,25,Apr-21
+N09000011,Ards And North Down,11,Apr-21
+N09000002,"Armagh City, Banbridge And Craigavon",13,Apr-21
+N09000003,Belfast,15,Apr-21
+N09000004,Causeway Coast And Glens,20,Apr-21
+N09000005,Derry City And Strabane,17,Apr-21
+N09000006,Fermanagh And Omagh,32,Apr-21
+N09000007,Lisburn And Castlereagh,10,Apr-21
+N09000008,Mid And East Antrim,19,Apr-21
+N09000009,Mid Ulster,15,Apr-21
+N09000010,"Newry, Mourne And Down",17,Apr-21
+K02000001,United Kingdom,31,Jan-21
+K03000001,Great Britain,31,Jan-21
+E92000001,England,31,Jan-21
+E12000001,North East,30,Jan-21
+E06000047,County Durham,20,Jan-21
+E06000005,Darlington,27,Jan-21
+E06000001,Hartlepool,8,Jan-21
+E06000002,Middlesbrough,21,Jan-21
+E06000057,Northumberland,46,Jan-21
+E06000003,Redcar And Cleveland,17,Jan-21
+E06000004,Stockton-On-Tees,42,Jan-21
+E11000007,Tyne And Wear (Met County),33,Jan-21
+E08000037,Gateshead,30,Jan-21
+E08000021,Newcastle Upon Tyne,37,Jan-21
+E08000022,North Tyneside,22,Jan-21
+E08000023,South Tyneside,17,Jan-21
+E08000024,Sunderland,49,Jan-21
+E12000002,North West,19,Jan-21
+E06000008,Blackburn With Darwen,20,Jan-21
+E06000009,Blackpool,14,Jan-21
+E06000049,Cheshire East,19,Jan-21
+E06000050,Cheshire West And Chester,16,Jan-21
+E06000006,Halton,9,Jan-21
+E06000007,Warrington,40,Jan-21
+E10000006,Cumbria,39,Jan-21
+E07000026,Allerdale,20,Jan-21
+E07000027,Barrow-In-Furness,4,Jan-21
+E07000028,Carlisle,35,Jan-21
+E07000029,Copeland,32,Jan-21
+E07000030,Eden,69,Jan-21
+E07000031,South Lakeland,73,Jan-21
+E11000001,Greater Manchester (Met County),13,Jan-21
+E08000001,Bolton,6,Jan-21
+E08000002,Bury,8,Jan-21
+E08000003,Manchester,17,Jan-21
+E08000004,Oldham,13,Jan-21
+E08000005,Rochdale,11,Jan-21
+E08000006,Salford,28,Jan-21
+E08000007,Stockport,11,Jan-21
+E08000008,Tameside,9,Jan-21
+E08000009,Trafford,18,Jan-21
+E08000010,Wigan,9,Jan-21
+E10000017,Lancashire,27,Jan-21
+E07000117,Burnley,20,Jan-21
+E07000118,Chorley,33,Jan-21
+E07000119,Fylde,19,Jan-21
+E07000120,Hyndburn,28,Jan-21
+E07000121,Lancaster,44,Jan-21
+E07000122,Pendle,16,Jan-21
+E07000123,Preston,32,Jan-21
+E07000124,Ribble Valley,26,Jan-21
+E07000125,Rossendale,20,Jan-21
+E07000126,South Ribble,35,Jan-21
+E07000127,West Lancashire,20,Jan-21
+E07000128,Wyre,16,Jan-21
+E11000002,Merseyside (Met County),14,Jan-21
+E08000011,Knowsley,5,Jan-21
+E08000012,Liverpool,27,Jan-21
+E08000014,Sefton,6,Jan-21
+E08000013,St. Helens,11,Jan-21
+E08000015,Wirral,6,Jan-21
+E12000003,Yorkshire And The Humber,19,Jan-21
+E06000011,East Riding Of Yorkshire,12,Jan-21
+E06000010,"Kingston Upon Hull, City Of",13,Jan-21
+E06000012,North East Lincolnshire,11,Jan-21
+E06000013,North Lincolnshire,10,Jan-21
+E06000014,York,35,Jan-21
+E10000023,North Yorkshire,25,Jan-21
+E07000163,Craven,35,Jan-21
+E07000164,Hambleton,27,Jan-21
+E07000165,Harrogate,30,Jan-21
+E07000166,Richmondshire,33,Jan-21
+E07000167,Ryedale,41,Jan-21
+E07000168,Scarborough,18,Jan-21
+E07000169,Selby,4,Jan-21
+E11000003,South Yorkshire (Met County),17,Jan-21
+E08000016,Barnsley,9,Jan-21
+E08000017,Doncaster,16,Jan-21
+E08000018,Rotherham,24,Jan-21
+E08000019,Sheffield,19,Jan-21
+E11000006,West Yorkshire (Met County),19,Jan-21
+E08000032,Bradford,17,Jan-21
+E08000033,Calderdale,16,Jan-21
+E08000034,Kirklees,13,Jan-21
+E08000035,Leeds,26,Jan-21
+E08000036,Wakefield,16,Jan-21
+E12000004,East Midlands,22,Jan-21
+E06000015,Derby,22,Jan-21
+E06000016,Leicester,20,Jan-21
+E06000061,North Northamptonshire (From April 2021),0,Jan-21
+E06000018,Nottingham,42,Jan-21
+E06000017,Rutland,37,Jan-21
+E06000062,West Northamptonshire (From April 2021),0,Jan-21
+E10000007,Derbyshire,18,Jan-21
+E07000032,Amber Valley,8,Jan-21
+E07000033,Bolsover,18,Jan-21
+E07000034,Chesterfield,27,Jan-21
+E07000035,Derbyshire Dales,45,Jan-21
+E07000036,Erewash,15,Jan-21
+E07000037,High Peak,25,Jan-21
+E07000038,North East Derbyshire,9,Jan-21
+E07000039,South Derbyshire,8,Jan-21
+E10000018,Leicestershire,20,Jan-21
+E07000129,Blaby,25,Jan-21
+E07000130,Charnwood,17,Jan-21
+E07000131,Harborough,34,Jan-21
+E07000132,Hinckley And Bosworth,22,Jan-21
+E07000133,Melton,15,Jan-21
+E07000134,North West Leicestershire,15,Jan-21
+E07000135,Oadby And Wigston,8,Jan-21
+E10000019,Lincolnshire,26,Jan-21
+E07000136,Boston,42,Jan-21
+E07000137,East Lindsey,33,Jan-21
+E07000138,Lincoln,49,Jan-21
+E07000139,North Kesteven,10,Jan-21
+E07000140,South Holland,10,Jan-21
+E07000141,South Kesteven,25,Jan-21
+E07000142,West Lindsey,13,Jan-21
+E10000021,Northamptonshire (Abolished April 2021),17,Jan-21
+E07000150,Corby (Abolished April 2021),45,Jan-21
+E07000151,Daventry (Abolished April 2021),19,Jan-21
+E07000152,East Northamptonshire (Abolished April 2021),20,Jan-21
+E07000153,Kettering (Abolished April 2021),15,Jan-21
+E07000154,Northampton (Abolished April 2021),7,Jan-21
+E07000155,South Northamptonshire (Abolished April 2021),24,Jan-21
+E07000156,Wellingborough (Abolished April 2021),7,Jan-21
+E10000024,Nottinghamshire,21,Jan-21
+E07000170,Ashfield,14,Jan-21
+E07000171,Bassetlaw,26,Jan-21
+E07000172,Broxtowe,26,Jan-21
+E07000173,Gedling,16,Jan-21
+E07000174,Mansfield,22,Jan-21
+E07000175,Newark And Sherwood,27,Jan-21
+E07000176,Rushcliffe,15,Jan-21
+E12000005,West Midlands,20,Jan-21
+E06000019,"Herefordshire, County Of",32,Jan-21
+E06000051,Shropshire,17,Jan-21
+E06000021,Stoke-On-Trent,14,Jan-21
+E06000020,Telford And Wrekin,13,Jan-21
+E10000028,Staffordshire,20,Jan-21
+E07000192,Cannock Chase,15,Jan-21
+E07000193,East Staffordshire,15,Jan-21
+E07000194,Lichfield,14,Jan-21
+E07000195,Newcastle-Under-Lyme,29,Jan-21
+E07000196,South Staffordshire,40,Jan-21
+E07000197,Stafford,19,Jan-21
+E07000198,Staffordshire Moorlands,9,Jan-21
+E07000199,Tamworth,9,Jan-21
+E10000031,Warwickshire,26,Jan-21
+E07000218,North Warwickshire,19,Jan-21
+E07000219,Nuneaton And Bedworth,12,Jan-21
+E07000220,Rugby,19,Jan-21
+E07000221,Stratford-On-Avon,47,Jan-21
+E07000222,Warwick,28,Jan-21
+E11000005,West Midlands (Met County),19,Jan-21
+E08000025,Birmingham,10,Jan-21
+E08000026,Coventry,69,Jan-21
+E08000027,Dudley,10,Jan-21
+E08000028,Sandwell,9,Jan-21
+E08000029,Solihull,37,Jan-21
+E08000030,Walsall,7,Jan-21
+E08000031,Wolverhampton,11,Jan-21
+E10000034,Worcestershire,20,Jan-21
+E07000234,Bromsgrove,33,Jan-21
+E07000235,Malvern Hills,15,Jan-21
+E07000236,Redditch,10,Jan-21
+E07000237,Worcester,19,Jan-21
+E07000238,Wychavon,32,Jan-21
+E07000239,Wyre Forest,7,Jan-21
+E12000006,East Of England,20,Jan-21
+E06000055,Bedford,28,Jan-21
+E06000056,Central Bedfordshire,13,Jan-21
+E06000032,Luton,26,Jan-21
+E06000031,Peterborough,29,Jan-21
+E06000033,Southend-On-Sea,8,Jan-21
+E06000034,Thurrock,10,Jan-21
+E10000003,Cambridgeshire,17,Jan-21
+E07000008,Cambridge,25,Jan-21
+E07000009,East Cambridgeshire,17,Jan-21
+E07000010,Fenland,3,Jan-21
+E07000011,Huntingdonshire,12,Jan-21
+E07000012,South Cambridgeshire,27,Jan-21
+E10000012,Essex,17,Jan-21
+E07000066,Basildon,25,Jan-21
+E07000067,Braintree,29,Jan-21
+E07000068,Brentwood,3,Jan-21
+E07000069,Castle Point,2,Jan-21
+E07000070,Chelmsford,19,Jan-21
+E07000071,Colchester,21,Jan-21
+E07000072,Epping Forest,25,Jan-21
+E07000073,Harlow,9,Jan-21
+E07000074,Maldon,7,Jan-21
+E07000075,Rochford,14,Jan-21
+E07000076,Tendring,8,Jan-21
+E07000077,Uttlesford,15,Jan-21
+E10000015,Hertfordshire,23,Jan-21
+E07000095,Broxbourne,7,Jan-21
+E07000096,Dacorum,14,Jan-21
+E07000242,East Hertfordshire,10,Jan-21
+E07000098,Hertsmere,24,Jan-21
+E07000099,North Hertfordshire,17,Jan-21
+E07000240,St Albans,21,Jan-21
+E07000243,Stevenage,12,Jan-21
+E07000102,Three Rivers,62,Jan-21
+E07000103,Watford,45,Jan-21
+E07000241,Welwyn Hatfield,36,Jan-21
+E10000020,Norfolk,21,Jan-21
+E07000143,Breckland,12,Jan-21
+E07000144,Broadland,11,Jan-21
+E07000145,Great Yarmouth,20,Jan-21
+E07000146,King'S Lynn And West Norfolk,24,Jan-21
+E07000147,North Norfolk,39,Jan-21
+E07000148,Norwich,31,Jan-21
+E07000149,South Norfolk,16,Jan-21
+E10000029,Suffolk,25,Jan-21
+E07000200,Babergh,20,Jan-21
+E07000244,East Suffolk,17,Jan-21
+E07000202,Ipswich,37,Jan-21
+E07000203,Mid Suffolk,11,Jan-21
+E07000245,West Suffolk,36,Jan-21
+E12000007,London,68,Jan-21
+E13000001,Inner London,101,Jan-21
+E09000007,Camden,133,Jan-21
+E09000001,City Of London,360,Jan-21
+E09000012,Hackney,47,Jan-21
+E09000013,Hammersmith And Fulham,208,Jan-21
+E09000014,Haringey,30,Jan-21
+E09000019,Islington,97,Jan-21
+E09000020,Kensington And Chelsea,269,Jan-21
+E09000022,Lambeth,75,Jan-21
+E09000023,Lewisham,38,Jan-21
+E09000025,Newham,28,Jan-21
+E09000028,Southwark,83,Jan-21
+E09000030,Tower Hamlets,24,Jan-21
+E09000032,Wandsworth,180,Jan-21
+E09000033,Westminster,247,Jan-21
+E13000002,Outer London,45,Jan-21
+E09000002,Barking And Dagenham,28,Jan-21
+E09000003,Barnet,35,Jan-21
+E09000004,Bexley,16,Jan-21
+E09000005,Brent,70,Jan-21
+E09000006,Bromley,24,Jan-21
+E09000008,Croydon,24,Jan-21
+E09000009,Ealing,72,Jan-21
+E09000010,Enfield,16,Jan-21
+E09000011,Greenwich,83,Jan-21
+E09000015,Harrow,6,Jan-21
+E09000016,Havering,7,Jan-21
+E09000017,Hillingdon,65,Jan-21
+E09000018,Hounslow,96,Jan-21
+E09000021,Kingston Upon Thames,29,Jan-21
+E09000024,Merton,81,Jan-21
+E09000026,Redbridge,16,Jan-21
+E09000027,Richmond Upon Thames,165,Jan-21
+E09000029,Sutton,25,Jan-21
+E09000031,Waltham Forest,41,Jan-21
+E12000008,South East,31,Jan-21
+E06000036,Bracknell Forest,26,Jan-21
+E06000043,Brighton And Hove,88,Jan-21
+E06000046,Isle Of Wight,31,Jan-21
+E06000035,Medway,5,Jan-21
+E06000042,Milton Keynes,121,Jan-21
+E06000044,Portsmouth,33,Jan-21
+E06000038,Reading,35,Jan-21
+E06000039,Slough,44,Jan-21
+E06000045,Southampton,28,Jan-21
+E06000037,West Berkshire,61,Jan-21
+E06000040,Windsor And Maidenhead,21,Jan-21
+E06000041,Wokingham,32,Jan-21
+E06000060,Buckinghamshire,25,Jan-21
+E10000011,East Sussex,17,Jan-21
+E07000061,Eastbourne,31,Jan-21
+E07000062,Hastings,15,Jan-21
+E07000063,Lewes,21,Jan-21
+E07000064,Rother,10,Jan-21
+E07000065,Wealden,11,Jan-21
+E10000014,Hampshire,30,Jan-21
+E07000084,Basingstoke And Deane,34,Jan-21
+E07000085,East Hampshire,26,Jan-21
+E07000086,Eastleigh,21,Jan-21
+E07000087,Fareham,6,Jan-21
+E07000088,Gosport,12,Jan-21
+E07000089,Hart,47,Jan-21
+E07000090,Havant,19,Jan-21
+E07000091,New Forest,41,Jan-21
+E07000092,Rushmoor,29,Jan-21
+E07000093,Test Valley,34,Jan-21
+E07000094,Winchester,46,Jan-21
+E10000016,Kent,22,Jan-21
+E07000105,Ashford,25,Jan-21
+E07000106,Canterbury,32,Jan-21
+E07000107,Dartford,30,Jan-21
+E07000108,Dover,9,Jan-21
+E07000112,Folkestone And Hythe,23,Jan-21
+E07000109,Gravesham,9,Jan-21
+E07000110,Maidstone,32,Jan-21
+E07000111,Sevenoaks,14,Jan-21
+E07000113,Swale,23,Jan-21
+E07000114,Thanet,16,Jan-21
+E07000115,Tonbridge And Malling,12,Jan-21
+E07000116,Tunbridge Wells,28,Jan-21
+E10000025,Oxfordshire,37,Jan-21
+E07000177,Cherwell,42,Jan-21
+E07000178,Oxford,61,Jan-21
+E07000179,South Oxfordshire,32,Jan-21
+E07000180,Vale Of White Horse,24,Jan-21
+E07000181,West Oxfordshire,17,Jan-21
+E10000030,Surrey,24,Jan-21
+E07000207,Elmbridge,27,Jan-21
+E07000208,Epsom And Ewell,18,Jan-21
+E07000209,Guildford,29,Jan-21
+E07000210,Mole Valley,24,Jan-21
+E07000211,Reigate And Banstead,18,Jan-21
+E07000212,Runnymede,30,Jan-21
+E07000213,Spelthorne,48,Jan-21
+E07000214,Surrey Heath,23,Jan-21
+E07000215,Tandridge,14,Jan-21
+E07000216,Waverley,22,Jan-21
+E07000217,Woking,16,Jan-21
+E10000032,West Sussex,21,Jan-21
+E07000223,Adur,15,Jan-21
+E07000224,Arun,12,Jan-21
+E07000225,Chichester,37,Jan-21
+E07000226,Crawley,31,Jan-21
+E07000227,Horsham,16,Jan-21
+E07000228,Mid Sussex,22,Jan-21
+E07000229,Worthing,11,Jan-21
+E12000009,South West,27,Jan-21
+E06000022,Bath And North East Somerset,32,Jan-21
+E06000058,"Bournemouth, Christchurch And Poole",18,Jan-21
+E06000023,"Bristol, City Of",22,Jan-21
+E06000052,Cornwall,39,Jan-21
+E06000059,Dorset,23,Jan-21
+E06000053,Isles Of Scilly,0,Jan-21
+E06000024,North Somerset,40,Jan-21
+E06000026,Plymouth,27,Jan-21
+E06000025,South Gloucestershire,26,Jan-21
+E06000030,Swindon,18,Jan-21
+E06000027,Torbay,17,Jan-21
+E06000054,Wiltshire,27,Jan-21
+E10000008,Devon,30,Jan-21
+E07000040,East Devon,33,Jan-21
+E07000041,Exeter,30,Jan-21
+E07000042,Mid Devon,27,Jan-21
+E07000043,North Devon,42,Jan-21
+E07000044,South Hams,33,Jan-21
+E07000045,Teignbridge,17,Jan-21
+E07000046,Torridge,32,Jan-21
+E07000047,West Devon,37,Jan-21
+E10000013,Gloucestershire,28,Jan-21
+E07000078,Cheltenham,27,Jan-21
+E07000079,Cotswold,46,Jan-21
+E07000080,Forest Of Dean,18,Jan-21
+E07000081,Gloucester,27,Jan-21
+E07000082,Stroud,32,Jan-21
+E07000083,Tewkesbury,21,Jan-21
+E10000027,Somerset,22,Jan-21
+E07000187,Mendip,26,Jan-21
+E07000188,Sedgemoor,21,Jan-21
+E07000246,Somerset West And Taunton,22,Jan-21
+E07000189,South Somerset,20,Jan-21
+W92000004,Wales,25,Jan-21
+W06000001,Isle Of Anglesey,67,Jan-21
+W06000002,Gwynedd,49,Jan-21
+W06000003,Conwy,27,Jan-21
+W06000004,Denbighshire,16,Jan-21
+W06000005,Flintshire,11,Jan-21
+W06000006,Wrexham,18,Jan-21
+W06000023,Powys,62,Jan-21
+W06000008,Ceredigion,39,Jan-21
+W06000009,Pembrokeshire,75,Jan-21
+W06000010,Carmarthenshire,31,Jan-21
+W06000011,Swansea,20,Jan-21
+W06000012,Neath Port Talbot,6,Jan-21
+W06000013,Bridgend,14,Jan-21
+W06000014,The Vale Of Glamorgan,10,Jan-21
+W06000015,Cardiff,14,Jan-21
+W06000016,Rhondda Cynon Taf,5,Jan-21
+W06000024,Merthyr Tydfil,13,Jan-21
+W06000018,Caerphilly,16,Jan-21
+W06000019,Blaenau Gwent,22,Jan-21
+W06000020,Torfaen,28,Jan-21
+W06000021,Monmouthshire,46,Jan-21
+W06000022,Newport,31,Jan-21
+S92000003,Scotland,40,Jan-21
+S12000033,Aberdeen City,42,Jan-21
+S12000034,Aberdeenshire,37,Jan-21
+S12000041,Angus,52,Jan-21
+S12000035,Argyll & Bute,81,Jan-21
+S12000036,City Of Edinburgh,22,Jan-21
+S12000005,Clackmannanshire,38,Jan-21
+S12000006,Dumfries & Galloway,57,Jan-21
+S12000042,Dundee City,72,Jan-21
+S12000008,East Ayrshire,45,Jan-21
+S12000045,East Dunbartonshire,22,Jan-21
+S12000010,East Lothian,100,Jan-21
+S12000011,East Renfrewshire,24,Jan-21
+S12000014,Falkirk,26,Jan-21
+S12000047,Fife,24,Jan-21
+S12000049,Glasgow City,29,Jan-21
+S12000017,Highland,78,Jan-21
+S12000018,Inverclyde,28,Jan-21
+S12000019,Midlothian,45,Jan-21
+S12000020,Moray,34,Jan-21
+S12000013,Na H-Eileanan Siar,93,Jan-21
+S12000021,North Ayrshire,31,Jan-21
+S12000050,North Lanarkshire,29,Jan-21
+S12000023,Orkney Islands,143,Jan-21
+S12000048,Perth & Kinross,68,Jan-21
+S12000038,Renfrewshire,36,Jan-21
+S12000026,Scottish Borders,41,Jan-21
+S12000027,Shetland Islands,74,Jan-21
+S12000028,South Ayrshire,39,Jan-21
+S12000029,South Lanarkshire,31,Jan-21
+S12000030,Stirling,73,Jan-21
+S12000039,West Dunbartonshire,26,Jan-21
+S12000040,West Lothian,24,Jan-21
+N92000002,Northern Ireland,16,Jan-21
+N09000001,Antrim And Newtownabbey,25,Jan-21
+N09000011,Ards And North Down,11,Jan-21
+N09000002,"Armagh City, Banbridge And Craigavon",13,Jan-21
+N09000003,Belfast,14,Jan-21
+N09000004,Causeway Coast And Glens,20,Jan-21
+N09000005,Derry City And Strabane,17,Jan-21
+N09000006,Fermanagh And Omagh,32,Jan-21
+N09000007,Lisburn And Castlereagh,7,Jan-21
+N09000008,Mid And East Antrim,19,Jan-21
+N09000009,Mid Ulster,14,Jan-21
+N09000010,"Newry, Mourne And Down",17,Jan-21
+K02000001,United Kingdom,29,Oct-20
+K03000001,Great Britain,29,Oct-20
+E92000001,England,29,Oct-20
+E12000001,North East,31,Oct-20
+E06000047,County Durham,19,Oct-20
+E06000005,Darlington,27,Oct-20
+E06000001,Hartlepool,6,Oct-20
+E06000002,Middlesbrough,20,Oct-20
+E06000057,Northumberland,50,Oct-20
+E06000003,Redcar And Cleveland,17,Oct-20
+E06000004,Stockton-On-Tees,43,Oct-20
+E11000007,Tyne And Wear (Met County),35,Oct-20
+E08000037,Gateshead,34,Oct-20
+E08000021,Newcastle Upon Tyne,38,Oct-20
+E08000022,North Tyneside,23,Oct-20
+E08000023,South Tyneside,18,Oct-20
+E08000024,Sunderland,52,Oct-20
+E12000002,North West,19,Oct-20
+E06000008,Blackburn With Darwen,20,Oct-20
+E06000009,Blackpool,13,Oct-20
+E06000049,Cheshire East,19,Oct-20
+E06000050,Cheshire West And Chester,16,Oct-20
+E06000006,Halton,9,Oct-20
+E06000007,Warrington,39,Oct-20
+E10000006,Cumbria,38,Oct-20
+E07000026,Allerdale,18,Oct-20
+E07000027,Barrow-In-Furness,4,Oct-20
+E07000028,Carlisle,32,Oct-20
+E07000029,Copeland,32,Oct-20
+E07000030,Eden,71,Oct-20
+E07000031,South Lakeland,71,Oct-20
+E11000001,Greater Manchester (Met County),14,Oct-20
+E08000001,Bolton,8,Oct-20
+E08000002,Bury,8,Oct-20
+E08000003,Manchester,18,Oct-20
+E08000004,Oldham,13,Oct-20
+E08000005,Rochdale,14,Oct-20
+E08000006,Salford,28,Oct-20
+E08000007,Stockport,10,Oct-20
+E08000008,Tameside,8,Oct-20
+E08000009,Trafford,18,Oct-20
+E08000010,Wigan,9,Oct-20
+E10000017,Lancashire,26,Oct-20
+E07000117,Burnley,17,Oct-20
+E07000118,Chorley,33,Oct-20
+E07000119,Fylde,17,Oct-20
+E07000120,Hyndburn,28,Oct-20
+E07000121,Lancaster,42,Oct-20
+E07000122,Pendle,16,Oct-20
+E07000123,Preston,32,Oct-20
+E07000124,Ribble Valley,29,Oct-20
+E07000125,Rossendale,18,Oct-20
+E07000126,South Ribble,34,Oct-20
+E07000127,West Lancashire,21,Oct-20
+E07000128,Wyre,16,Oct-20
+E11000002,Merseyside (Met County),13,Oct-20
+E08000011,Knowsley,5,Oct-20
+E08000012,Liverpool,26,Oct-20
+E08000014,Sefton,6,Oct-20
+E08000013,St. Helens,11,Oct-20
+E08000015,Wirral,5,Oct-20
+E12000003,Yorkshire And The Humber,18,Oct-20
+E06000011,East Riding Of Yorkshire,12,Oct-20
+E06000010,"Kingston Upon Hull, City Of",11,Oct-20
+E06000012,North East Lincolnshire,11,Oct-20
+E06000013,North Lincolnshire,9,Oct-20
+E06000014,York,34,Oct-20
+E10000023,North Yorkshire,25,Oct-20
+E07000163,Craven,35,Oct-20
+E07000164,Hambleton,26,Oct-20
+E07000165,Harrogate,30,Oct-20
+E07000166,Richmondshire,33,Oct-20
+E07000167,Ryedale,41,Oct-20
+E07000168,Scarborough,18,Oct-20
+E07000169,Selby,3,Oct-20
+E11000003,South Yorkshire (Met County),16,Oct-20
+E08000016,Barnsley,8,Oct-20
+E08000017,Doncaster,15,Oct-20
+E08000018,Rotherham,22,Oct-20
+E08000019,Sheffield,18,Oct-20
+E11000006,West Yorkshire (Met County),18,Oct-20
+E08000032,Bradford,16,Oct-20
+E08000033,Calderdale,13,Oct-20
+E08000034,Kirklees,12,Oct-20
+E08000035,Leeds,23,Oct-20
+E08000036,Wakefield,16,Oct-20
+E12000004,East Midlands,21,Oct-20
+E06000015,Derby,22,Oct-20
+E06000016,Leicester,20,Oct-20
+E06000061,North Northamptonshire (From April 2021),0,Oct-20
+E06000018,Nottingham,39,Oct-20
+E06000017,Rutland,35,Oct-20
+E06000062,West Northamptonshire (From April 2021),0,Oct-20
+E10000007,Derbyshire,17,Oct-20
+E07000032,Amber Valley,9,Oct-20
+E07000033,Bolsover,18,Oct-20
+E07000034,Chesterfield,27,Oct-20
+E07000035,Derbyshire Dales,47,Oct-20
+E07000036,Erewash,13,Oct-20
+E07000037,High Peak,15,Oct-20
+E07000038,North East Derbyshire,8,Oct-20
+E07000039,South Derbyshire,8,Oct-20
+E10000018,Leicestershire,19,Oct-20
+E07000129,Blaby,21,Oct-20
+E07000130,Charnwood,17,Oct-20
+E07000131,Harborough,34,Oct-20
+E07000132,Hinckley And Bosworth,22,Oct-20
+E07000133,Melton,13,Oct-20
+E07000134,North West Leicestershire,15,Oct-20
+E07000135,Oadby And Wigston,8,Oct-20
+E10000019,Lincolnshire,24,Oct-20
+E07000136,Boston,39,Oct-20
+E07000137,East Lindsey,33,Oct-20
+E07000138,Lincoln,37,Oct-20
+E07000139,North Kesteven,11,Oct-20
+E07000140,South Holland,10,Oct-20
+E07000141,South Kesteven,24,Oct-20
+E07000142,West Lindsey,13,Oct-20
+E10000021,Northamptonshire (Abolished April 2021),17,Oct-20
+E07000150,Corby (Abolished April 2021),48,Oct-20
+E07000151,Daventry (Abolished April 2021),24,Oct-20
+E07000152,East Northamptonshire (Abolished April 2021),20,Oct-20
+E07000153,Kettering (Abolished April 2021),11,Oct-20
+E07000154,Northampton (Abolished April 2021),7,Oct-20
+E07000155,South Northamptonshire (Abolished April 2021),24,Oct-20
+E07000156,Wellingborough (Abolished April 2021),7,Oct-20
+E10000024,Nottinghamshire,19,Oct-20
+E07000170,Ashfield,14,Oct-20
+E07000171,Bassetlaw,20,Oct-20
+E07000172,Broxtowe,24,Oct-20
+E07000173,Gedling,15,Oct-20
+E07000174,Mansfield,16,Oct-20
+E07000175,Newark And Sherwood,27,Oct-20
+E07000176,Rushcliffe,15,Oct-20
+E12000005,West Midlands,19,Oct-20
+E06000019,"Herefordshire, County Of",31,Oct-20
+E06000051,Shropshire,17,Oct-20
+E06000021,Stoke-On-Trent,12,Oct-20
+E06000020,Telford And Wrekin,13,Oct-20
+E10000028,Staffordshire,18,Oct-20
+E07000192,Cannock Chase,12,Oct-20
+E07000193,East Staffordshire,14,Oct-20
+E07000194,Lichfield,14,Oct-20
+E07000195,Newcastle-Under-Lyme,20,Oct-20
+E07000196,South Staffordshire,40,Oct-20
+E07000197,Stafford,20,Oct-20
+E07000198,Staffordshire Moorlands,9,Oct-20
+E07000199,Tamworth,9,Oct-20
+E10000031,Warwickshire,24,Oct-20
+E07000218,North Warwickshire,18,Oct-20
+E07000219,Nuneaton And Bedworth,10,Oct-20
+E07000220,Rugby,16,Oct-20
+E07000221,Stratford-On-Avon,45,Oct-20
+E07000222,Warwick,27,Oct-20
+E11000005,West Midlands (Met County),18,Oct-20
+E08000025,Birmingham,9,Oct-20
+E08000026,Coventry,68,Oct-20
+E08000027,Dudley,10,Oct-20
+E08000028,Sandwell,8,Oct-20
+E08000029,Solihull,32,Oct-20
+E08000030,Walsall,6,Oct-20
+E08000031,Wolverhampton,11,Oct-20
+E10000034,Worcestershire,20,Oct-20
+E07000234,Bromsgrove,32,Oct-20
+E07000235,Malvern Hills,15,Oct-20
+E07000236,Redditch,10,Oct-20
+E07000237,Worcester,19,Oct-20
+E07000238,Wychavon,31,Oct-20
+E07000239,Wyre Forest,7,Oct-20
+E12000006,East Of England,19,Oct-20
+E06000055,Bedford,27,Oct-20
+E06000056,Central Bedfordshire,13,Oct-20
+E06000032,Luton,27,Oct-20
+E06000031,Peterborough,26,Oct-20
+E06000033,Southend-On-Sea,7,Oct-20
+E06000034,Thurrock,10,Oct-20
+E10000003,Cambridgeshire,18,Oct-20
+E07000008,Cambridge,25,Oct-20
+E07000009,East Cambridgeshire,16,Oct-20
+E07000010,Fenland,1,Oct-20
+E07000011,Huntingdonshire,12,Oct-20
+E07000012,South Cambridgeshire,29,Oct-20
+E10000012,Essex,15,Oct-20
+E07000066,Basildon,25,Oct-20
+E07000067,Braintree,13,Oct-20
+E07000068,Brentwood,3,Oct-20
+E07000069,Castle Point,2,Oct-20
+E07000070,Chelmsford,15,Oct-20
+E07000071,Colchester,21,Oct-20
+E07000072,Epping Forest,25,Oct-20
+E07000073,Harlow,4,Oct-20
+E07000074,Maldon,7,Oct-20
+E07000075,Rochford,13,Oct-20
+E07000076,Tendring,8,Oct-20
+E07000077,Uttlesford,16,Oct-20
+E10000015,Hertfordshire,23,Oct-20
+E07000095,Broxbourne,7,Oct-20
+E07000096,Dacorum,13,Oct-20
+E07000242,East Hertfordshire,10,Oct-20
+E07000098,Hertsmere,24,Oct-20
+E07000099,North Hertfordshire,16,Oct-20
+E07000240,St Albans,21,Oct-20
+E07000243,Stevenage,10,Oct-20
+E07000102,Three Rivers,63,Oct-20
+E07000103,Watford,39,Oct-20
+E07000241,Welwyn Hatfield,36,Oct-20
+E10000020,Norfolk,21,Oct-20
+E07000143,Breckland,12,Oct-20
+E07000144,Broadland,12,Oct-20
+E07000145,Great Yarmouth,20,Oct-20
+E07000146,King'S Lynn And West Norfolk,22,Oct-20
+E07000147,North Norfolk,37,Oct-20
+E07000148,Norwich,29,Oct-20
+E07000149,South Norfolk,16,Oct-20
+E10000029,Suffolk,24,Oct-20
+E07000200,Babergh,17,Oct-20
+E07000244,East Suffolk,19,Oct-20
+E07000202,Ipswich,35,Oct-20
+E07000203,Mid Suffolk,8,Oct-20
+E07000245,West Suffolk,36,Oct-20
+E12000007,London,63,Oct-20
+E13000001,Inner London,93,Oct-20
+E09000007,Camden,129,Oct-20
+E09000001,City Of London,370,Oct-20
+E09000012,Hackney,46,Oct-20
+E09000013,Hammersmith And Fulham,202,Oct-20
+E09000014,Haringey,21,Oct-20
+E09000019,Islington,93,Oct-20
+E09000020,Kensington And Chelsea,197,Oct-20
+E09000022,Lambeth,76,Oct-20
+E09000023,Lewisham,26,Oct-20
+E09000025,Newham,28,Oct-20
+E09000028,Southwark,78,Oct-20
+E09000030,Tower Hamlets,24,Oct-20
+E09000032,Wandsworth,179,Oct-20
+E09000033,Westminster,212,Oct-20
+E13000002,Outer London,42,Oct-20
+E09000002,Barking And Dagenham,26,Oct-20
+E09000003,Barnet,35,Oct-20
+E09000004,Bexley,13,Oct-20
+E09000005,Brent,63,Oct-20
+E09000006,Bromley,24,Oct-20
+E09000008,Croydon,24,Oct-20
+E09000009,Ealing,65,Oct-20
+E09000010,Enfield,11,Oct-20
+E09000011,Greenwich,79,Oct-20
+E09000015,Harrow,5,Oct-20
+E09000016,Havering,5,Oct-20
+E09000017,Hillingdon,65,Oct-20
+E09000018,Hounslow,94,Oct-20
+E09000021,Kingston Upon Thames,17,Oct-20
+E09000024,Merton,76,Oct-20
+E09000026,Redbridge,15,Oct-20
+E09000027,Richmond Upon Thames,137,Oct-20
+E09000029,Sutton,23,Oct-20
+E09000031,Waltham Forest,40,Oct-20
+E12000008,South East,28,Oct-20
+E06000036,Bracknell Forest,24,Oct-20
+E06000043,Brighton And Hove,78,Oct-20
+E06000046,Isle Of Wight,32,Oct-20
+E06000035,Medway,5,Oct-20
+E06000042,Milton Keynes,108,Oct-20
+E06000044,Portsmouth,33,Oct-20
+E06000038,Reading,31,Oct-20
+E06000039,Slough,38,Oct-20
+E06000045,Southampton,28,Oct-20
+E06000037,West Berkshire,61,Oct-20
+E06000040,Windsor And Maidenhead,21,Oct-20
+E06000041,Wokingham,30,Oct-20
+E06000060,Buckinghamshire,24,Oct-20
+E10000011,East Sussex,16,Oct-20
+E07000061,Eastbourne,31,Oct-20
+E07000062,Hastings,11,Oct-20
+E07000063,Lewes,22,Oct-20
+E07000064,Rother,10,Oct-20
+E07000065,Wealden,10,Oct-20
+E10000014,Hampshire,27,Oct-20
+E07000084,Basingstoke And Deane,32,Oct-20
+E07000085,East Hampshire,22,Oct-20
+E07000086,Eastleigh,20,Oct-20
+E07000087,Fareham,6,Oct-20
+E07000088,Gosport,10,Oct-20
+E07000089,Hart,47,Oct-20
+E07000090,Havant,19,Oct-20
+E07000091,New Forest,34,Oct-20
+E07000092,Rushmoor,28,Oct-20
+E07000093,Test Valley,31,Oct-20
+E07000094,Winchester,40,Oct-20
+E10000016,Kent,19,Oct-20
+E07000105,Ashford,25,Oct-20
+E07000106,Canterbury,22,Oct-20
+E07000107,Dartford,18,Oct-20
+E07000108,Dover,9,Oct-20
+E07000112,Folkestone And Hythe,24,Oct-20
+E07000109,Gravesham,3,Oct-20
+E07000110,Maidstone,30,Oct-20
+E07000111,Sevenoaks,14,Oct-20
+E07000113,Swale,21,Oct-20
+E07000114,Thanet,14,Oct-20
+E07000115,Tonbridge And Malling,10,Oct-20
+E07000116,Tunbridge Wells,28,Oct-20
+E10000025,Oxfordshire,34,Oct-20
+E07000177,Cherwell,34,Oct-20
+E07000178,Oxford,59,Oct-20
+E07000179,South Oxfordshire,31,Oct-20
+E07000180,Vale Of White Horse,24,Oct-20
+E07000181,West Oxfordshire,17,Oct-20
+E10000030,Surrey,22,Oct-20
+E07000207,Elmbridge,27,Oct-20
+E07000208,Epsom And Ewell,18,Oct-20
+E07000209,Guildford,24,Oct-20
+E07000210,Mole Valley,19,Oct-20
+E07000211,Reigate And Banstead,12,Oct-20
+E07000212,Runnymede,29,Oct-20
+E07000213,Spelthorne,47,Oct-20
+E07000214,Surrey Heath,23,Oct-20
+E07000215,Tandridge,14,Oct-20
+E07000216,Waverley,18,Oct-20
+E07000217,Woking,17,Oct-20
+E10000032,West Sussex,20,Oct-20
+E07000223,Adur,13,Oct-20
+E07000224,Arun,12,Oct-20
+E07000225,Chichester,37,Oct-20
+E07000226,Crawley,26,Oct-20
+E07000227,Horsham,17,Oct-20
+E07000228,Mid Sussex,21,Oct-20
+E07000229,Worthing,11,Oct-20
+E12000009,South West,26,Oct-20
+E06000022,Bath And North East Somerset,31,Oct-20
+E06000058,"Bournemouth, Christchurch And Poole",18,Oct-20
+E06000023,"Bristol, City Of",23,Oct-20
+E06000052,Cornwall,38,Oct-20
+E06000059,Dorset,22,Oct-20
+E06000053,Isles Of Scilly,0,Oct-20
+E06000024,North Somerset,40,Oct-20
+E06000026,Plymouth,26,Oct-20
+E06000025,South Gloucestershire,22,Oct-20
+E06000030,Swindon,19,Oct-20
+E06000027,Torbay,18,Oct-20
+E06000054,Wiltshire,23,Oct-20
+E10000008,Devon,30,Oct-20
+E07000040,East Devon,32,Oct-20
+E07000041,Exeter,29,Oct-20
+E07000042,Mid Devon,26,Oct-20
+E07000043,North Devon,43,Oct-20
+E07000044,South Hams,32,Oct-20
+E07000045,Teignbridge,15,Oct-20
+E07000046,Torridge,33,Oct-20
+E07000047,West Devon,37,Oct-20
+E10000013,Gloucestershire,28,Oct-20
+E07000078,Cheltenham,26,Oct-20
+E07000079,Cotswold,45,Oct-20
+E07000080,Forest Of Dean,14,Oct-20
+E07000081,Gloucester,26,Oct-20
+E07000082,Stroud,35,Oct-20
+E07000083,Tewkesbury,21,Oct-20
+E10000027,Somerset,21,Oct-20
+E07000187,Mendip,25,Oct-20
+E07000188,Sedgemoor,21,Oct-20
+E07000246,Somerset West And Taunton,21,Oct-20
+E07000189,South Somerset,19,Oct-20
+W92000004,Wales,21,Oct-20
+W06000001,Isle Of Anglesey,65,Oct-20
+W06000002,Gwynedd,48,Oct-20
+W06000003,Conwy,27,Oct-20
+W06000004,Denbighshire,14,Oct-20
+W06000005,Flintshire,11,Oct-20
+W06000006,Wrexham,18,Oct-20
+W06000023,Powys,60,Oct-20
+W06000008,Ceredigion,41,Oct-20
+W06000009,Pembrokeshire,63,Oct-20
+W06000010,Carmarthenshire,19,Oct-20
+W06000011,Swansea,15,Oct-20
+W06000012,Neath Port Talbot,5,Oct-20
+W06000013,Bridgend,14,Oct-20
+W06000014,The Vale Of Glamorgan,10,Oct-20
+W06000015,Cardiff,14,Oct-20
+W06000016,Rhondda Cynon Taf,5,Oct-20
+W06000024,Merthyr Tydfil,13,Oct-20
+W06000018,Caerphilly,8,Oct-20
+W06000019,Blaenau Gwent,11,Oct-20
+W06000020,Torfaen,8,Oct-20
+W06000021,Monmouthshire,40,Oct-20
+W06000022,Newport,18,Oct-20
+S92000003,Scotland,37,Oct-20
+S12000033,Aberdeen City,39,Oct-20
+S12000034,Aberdeenshire,31,Oct-20
+S12000041,Angus,51,Oct-20
+S12000035,Argyll & Bute,80,Oct-20
+S12000036,City Of Edinburgh,22,Oct-20
+S12000005,Clackmannanshire,36,Oct-20
+S12000006,Dumfries & Galloway,54,Oct-20
+S12000042,Dundee City,68,Oct-20
+S12000008,East Ayrshire,36,Oct-20
+S12000045,East Dunbartonshire,22,Oct-20
+S12000010,East Lothian,96,Oct-20
+S12000011,East Renfrewshire,24,Oct-20
+S12000014,Falkirk,25,Oct-20
+S12000047,Fife,24,Oct-20
+S12000049,Glasgow City,29,Oct-20
+S12000017,Highland,64,Oct-20
+S12000018,Inverclyde,28,Oct-20
+S12000019,Midlothian,41,Oct-20
+S12000020,Moray,33,Oct-20
+S12000013,Na H-Eileanan Siar,89,Oct-20
+S12000021,North Ayrshire,28,Oct-20
+S12000050,North Lanarkshire,24,Oct-20
+S12000023,Orkney Islands,143,Oct-20
+S12000048,Perth & Kinross,65,Oct-20
+S12000038,Renfrewshire,35,Oct-20
+S12000026,Scottish Borders,35,Oct-20
+S12000027,Shetland Islands,74,Oct-20
+S12000028,South Ayrshire,34,Oct-20
+S12000029,South Lanarkshire,25,Oct-20
+S12000030,Stirling,72,Oct-20
+S12000039,West Dunbartonshire,26,Oct-20
+S12000040,West Lothian,23,Oct-20
+N92000002,Northern Ireland,16,Oct-20
+N09000001,Antrim And Newtownabbey,23,Oct-20
+N09000011,Ards And North Down,10,Oct-20
+N09000002,"Armagh City, Banbridge And Craigavon",13,Oct-20
+N09000003,Belfast,14,Oct-20
+N09000004,Causeway Coast And Glens,22,Oct-20
+N09000005,Derry City And Strabane,17,Oct-20
+N09000006,Fermanagh And Omagh,32,Oct-20
+N09000007,Lisburn And Castlereagh,7,Oct-20
+N09000008,Mid And East Antrim,19,Oct-20
+N09000009,Mid Ulster,14,Oct-20
+N09000010,"Newry, Mourne And Down",17,Oct-20
+K02000001,United Kingdom,27,Jul-20
+K03000001,Great Britain,27,Jul-20
+E92000001,England,27,Jul-20
+E12000001,North East,30,Jul-20
+E06000047,County Durham,19,Jul-20
+E06000005,Darlington,26,Jul-20
+E06000001,Hartlepool,6,Jul-20
+E06000002,Middlesbrough,20,Jul-20
+E06000057,Northumberland,47,Jul-20
+E06000003,Redcar And Cleveland,14,Jul-20
+E06000004,Stockton-On-Tees,43,Jul-20
+E11000007,Tyne And Wear (Met County),33,Jul-20
+E08000037,Gateshead,33,Jul-20
+E08000021,Newcastle Upon Tyne,35,Jul-20
+E08000022,North Tyneside,20,Jul-20
+E08000023,South Tyneside,18,Jul-20
+E08000024,Sunderland,50,Jul-20
+E12000002,North West,20,Jul-20
+E06000008,Blackburn With Darwen,16,Jul-20
+E06000009,Blackpool,12,Jul-20
+E06000049,Cheshire East,18,Jul-20
+E06000050,Cheshire West And Chester,14,Jul-20
+E06000006,Halton,10,Jul-20
+E06000007,Warrington,39,Jul-20
+E10000006,Cumbria,36,Jul-20
+E07000026,Allerdale,18,Jul-20
+E07000027,Barrow-In-Furness,2,Jul-20
+E07000028,Carlisle,30,Jul-20
+E07000029,Copeland,32,Jul-20
+E07000030,Eden,67,Jul-20
+E07000031,South Lakeland,68,Jul-20
+E11000001,Greater Manchester (Met County),17,Jul-20
+E08000001,Bolton,10,Jul-20
+E08000002,Bury,12,Jul-20
+E08000003,Manchester,24,Jul-20
+E08000004,Oldham,18,Jul-20
+E08000005,Rochdale,16,Jul-20
+E08000006,Salford,34,Jul-20
+E08000007,Stockport,11,Jul-20
+E08000008,Tameside,11,Jul-20
+E08000009,Trafford,21,Jul-20
+E08000010,Wigan,11,Jul-20
+E10000017,Lancashire,24,Jul-20
+E07000117,Burnley,16,Jul-20
+E07000118,Chorley,31,Jul-20
+E07000119,Fylde,14,Jul-20
+E07000120,Hyndburn,23,Jul-20
+E07000121,Lancaster,39,Jul-20
+E07000122,Pendle,16,Jul-20
+E07000123,Preston,30,Jul-20
+E07000124,Ribble Valley,29,Jul-20
+E07000125,Rossendale,16,Jul-20
+E07000126,South Ribble,26,Jul-20
+E07000127,West Lancashire,20,Jul-20
+E07000128,Wyre,16,Jul-20
+E11000002,Merseyside (Met County),15,Jul-20
+E08000011,Knowsley,5,Jul-20
+E08000012,Liverpool,30,Jul-20
+E08000014,Sefton,6,Jul-20
+E08000013,St. Helens,14,Jul-20
+E08000015,Wirral,6,Jul-20
+E12000003,Yorkshire And The Humber,17,Jul-20
+E06000011,East Riding Of Yorkshire,11,Jul-20
+E06000010,"Kingston Upon Hull, City Of",10,Jul-20
+E06000012,North East Lincolnshire,11,Jul-20
+E06000013,North Lincolnshire,8,Jul-20
+E06000014,York,33,Jul-20
+E10000023,North Yorkshire,22,Jul-20
+E07000163,Craven,31,Jul-20
+E07000164,Hambleton,21,Jul-20
+E07000165,Harrogate,26,Jul-20
+E07000166,Richmondshire,33,Jul-20
+E07000167,Ryedale,41,Jul-20
+E07000168,Scarborough,16,Jul-20
+E07000169,Selby,3,Jul-20
+E11000003,South Yorkshire (Met County),16,Jul-20
+E08000016,Barnsley,8,Jul-20
+E08000017,Doncaster,14,Jul-20
+E08000018,Rotherham,22,Jul-20
+E08000019,Sheffield,18,Jul-20
+E11000006,West Yorkshire (Met County),17,Jul-20
+E08000032,Bradford,15,Jul-20
+E08000033,Calderdale,13,Jul-20
+E08000034,Kirklees,11,Jul-20
+E08000035,Leeds,24,Jul-20
+E08000036,Wakefield,14,Jul-20
+E12000004,East Midlands,19,Jul-20
+E06000015,Derby,22,Jul-20
+E06000016,Leicester,20,Jul-20
+E06000061,North Northamptonshire (From April 2021),0,Jul-20
+E06000018,Nottingham,37,Jul-20
+E06000017,Rutland,35,Jul-20
+E06000062,West Northamptonshire (From April 2021),0,Jul-20
+E10000007,Derbyshire,15,Jul-20
+E07000032,Amber Valley,7,Jul-20
+E07000033,Bolsover,18,Jul-20
+E07000034,Chesterfield,29,Jul-20
+E07000035,Derbyshire Dales,37,Jul-20
+E07000036,Erewash,11,Jul-20
+E07000037,High Peak,10,Jul-20
+E07000038,North East Derbyshire,8,Jul-20
+E07000039,South Derbyshire,8,Jul-20
+E10000018,Leicestershire,18,Jul-20
+E07000129,Blaby,20,Jul-20
+E07000130,Charnwood,18,Jul-20
+E07000131,Harborough,30,Jul-20
+E07000132,Hinckley And Bosworth,19,Jul-20
+E07000133,Melton,13,Jul-20
+E07000134,North West Leicestershire,15,Jul-20
+E07000135,Oadby And Wigston,5,Jul-20
+E10000019,Lincolnshire,21,Jul-20
+E07000136,Boston,14,Jul-20
+E07000137,East Lindsey,32,Jul-20
+E07000138,Lincoln,37,Jul-20
+E07000139,North Kesteven,11,Jul-20
+E07000140,South Holland,10,Jul-20
+E07000141,South Kesteven,21,Jul-20
+E07000142,West Lindsey,13,Jul-20
+E10000021,Northamptonshire (Abolished April 2021),15,Jul-20
+E07000150,Corby (Abolished April 2021),45,Jul-20
+E07000151,Daventry (Abolished April 2021),24,Jul-20
+E07000152,East Northamptonshire (Abolished April 2021),19,Jul-20
+E07000153,Kettering (Abolished April 2021),6,Jul-20
+E07000154,Northampton (Abolished April 2021),7,Jul-20
+E07000155,South Northamptonshire (Abolished April 2021),16,Jul-20
+E07000156,Wellingborough (Abolished April 2021),6,Jul-20
+E10000024,Nottinghamshire,19,Jul-20
+E07000170,Ashfield,14,Jul-20
+E07000171,Bassetlaw,21,Jul-20
+E07000172,Broxtowe,24,Jul-20
+E07000173,Gedling,15,Jul-20
+E07000174,Mansfield,14,Jul-20
+E07000175,Newark And Sherwood,28,Jul-20
+E07000176,Rushcliffe,15,Jul-20
+E12000005,West Midlands,17,Jul-20
+E06000019,"Herefordshire, County Of",29,Jul-20
+E06000051,Shropshire,17,Jul-20
+E06000021,Stoke-On-Trent,11,Jul-20
+E06000020,Telford And Wrekin,13,Jul-20
+E10000028,Staffordshire,14,Jul-20
+E07000192,Cannock Chase,12,Jul-20
+E07000193,East Staffordshire,12,Jul-20
+E07000194,Lichfield,14,Jul-20
+E07000195,Newcastle-Under-Lyme,19,Jul-20
+E07000196,South Staffordshire,14,Jul-20
+E07000197,Stafford,19,Jul-20
+E07000198,Staffordshire Moorlands,8,Jul-20
+E07000199,Tamworth,6,Jul-20
+E10000031,Warwickshire,24,Jul-20
+E07000218,North Warwickshire,18,Jul-20
+E07000219,Nuneaton And Bedworth,10,Jul-20
+E07000220,Rugby,13,Jul-20
+E07000221,Stratford-On-Avon,46,Jul-20
+E07000222,Warwick,27,Jul-20
+E11000005,West Midlands (Met County),16,Jul-20
+E08000025,Birmingham,9,Jul-20
+E08000026,Coventry,54,Jul-20
+E08000027,Dudley,10,Jul-20
+E08000028,Sandwell,8,Jul-20
+E08000029,Solihull,30,Jul-20
+E08000030,Walsall,6,Jul-20
+E08000031,Wolverhampton,9,Jul-20
+E10000034,Worcestershire,20,Jul-20
+E07000234,Bromsgrove,32,Jul-20
+E07000235,Malvern Hills,15,Jul-20
+E07000236,Redditch,9,Jul-20
+E07000237,Worcester,18,Jul-20
+E07000238,Wychavon,34,Jul-20
+E07000239,Wyre Forest,7,Jul-20
+E12000006,East Of England,17,Jul-20
+E06000055,Bedford,21,Jul-20
+E06000056,Central Bedfordshire,13,Jul-20
+E06000032,Luton,25,Jul-20
+E06000031,Peterborough,28,Jul-20
+E06000033,Southend-On-Sea,7,Jul-20
+E06000034,Thurrock,10,Jul-20
+E10000003,Cambridgeshire,16,Jul-20
+E07000008,Cambridge,25,Jul-20
+E07000009,East Cambridgeshire,12,Jul-20
+E07000010,Fenland,0,Jul-20
+E07000011,Huntingdonshire,10,Jul-20
+E07000012,South Cambridgeshire,26,Jul-20
+E10000012,Essex,13,Jul-20
+E07000066,Basildon,21,Jul-20
+E07000067,Braintree,13,Jul-20
+E07000068,Brentwood,3,Jul-20
+E07000069,Castle Point,1,Jul-20
+E07000070,Chelmsford,14,Jul-20
+E07000071,Colchester,14,Jul-20
+E07000072,Epping Forest,24,Jul-20
+E07000073,Harlow,4,Jul-20
+E07000074,Maldon,7,Jul-20
+E07000075,Rochford,13,Jul-20
+E07000076,Tendring,8,Jul-20
+E07000077,Uttlesford,16,Jul-20
+E10000015,Hertfordshire,19,Jul-20
+E07000095,Broxbourne,6,Jul-20
+E07000096,Dacorum,10,Jul-20
+E07000242,East Hertfordshire,10,Jul-20
+E07000098,Hertsmere,23,Jul-20
+E07000099,North Hertfordshire,13,Jul-20
+E07000240,St Albans,20,Jul-20
+E07000243,Stevenage,6,Jul-20
+E07000102,Three Rivers,61,Jul-20
+E07000103,Watford,39,Jul-20
+E07000241,Welwyn Hatfield,14,Jul-20
+E10000020,Norfolk,19,Jul-20
+E07000143,Breckland,11,Jul-20
+E07000144,Broadland,9,Jul-20
+E07000145,Great Yarmouth,17,Jul-20
+E07000146,King'S Lynn And West Norfolk,19,Jul-20
+E07000147,North Norfolk,29,Jul-20
+E07000148,Norwich,34,Jul-20
+E07000149,South Norfolk,16,Jul-20
+E10000029,Suffolk,24,Jul-20
+E07000200,Babergh,17,Jul-20
+E07000244,East Suffolk,18,Jul-20
+E07000202,Ipswich,35,Jul-20
+E07000203,Mid Suffolk,8,Jul-20
+E07000245,West Suffolk,36,Jul-20
+E12000007,London,57,Jul-20
+E13000001,Inner London,80,Jul-20
+E09000007,Camden,74,Jul-20
+E09000001,City Of London,370,Jul-20
+E09000012,Hackney,45,Jul-20
+E09000013,Hammersmith And Fulham,170,Jul-20
+E09000014,Haringey,19,Jul-20
+E09000019,Islington,92,Jul-20
+E09000020,Kensington And Chelsea,197,Jul-20
+E09000022,Lambeth,58,Jul-20
+E09000023,Lewisham,26,Jul-20
+E09000025,Newham,27,Jul-20
+E09000028,Southwark,62,Jul-20
+E09000030,Tower Hamlets,24,Jul-20
+E09000032,Wandsworth,134,Jul-20
+E09000033,Westminster,220,Jul-20
+E13000002,Outer London,41,Jul-20
+E09000002,Barking And Dagenham,26,Jul-20
+E09000003,Barnet,34,Jul-20
+E09000004,Bexley,13,Jul-20
+E09000005,Brent,63,Jul-20
+E09000006,Bromley,22,Jul-20
+E09000008,Croydon,23,Jul-20
+E09000009,Ealing,66,Jul-20
+E09000010,Enfield,11,Jul-20
+E09000011,Greenwich,65,Jul-20
+E09000015,Harrow,6,Jul-20
+E09000016,Havering,5,Jul-20
+E09000017,Hillingdon,64,Jul-20
+E09000018,Hounslow,96,Jul-20
+E09000021,Kingston Upon Thames,16,Jul-20
+E09000024,Merton,74,Jul-20
+E09000026,Redbridge,15,Jul-20
+E09000027,Richmond Upon Thames,144,Jul-20
+E09000029,Sutton,23,Jul-20
+E09000031,Waltham Forest,38,Jul-20
+E12000008,South East,26,Jul-20
+E06000036,Bracknell Forest,22,Jul-20
+E06000043,Brighton And Hove,56,Jul-20
+E06000046,Isle Of Wight,32,Jul-20
+E06000035,Medway,5,Jul-20
+E06000042,Milton Keynes,105,Jul-20
+E06000044,Portsmouth,30,Jul-20
+E06000038,Reading,30,Jul-20
+E06000039,Slough,37,Jul-20
+E06000045,Southampton,26,Jul-20
+E06000037,West Berkshire,61,Jul-20
+E06000040,Windsor And Maidenhead,20,Jul-20
+E06000041,Wokingham,30,Jul-20
+E06000060,Buckinghamshire,24,Jul-20
+E10000011,East Sussex,15,Jul-20
+E07000061,Eastbourne,29,Jul-20
+E07000062,Hastings,8,Jul-20
+E07000063,Lewes,20,Jul-20
+E07000064,Rother,9,Jul-20
+E07000065,Wealden,9,Jul-20
+E10000014,Hampshire,26,Jul-20
+E07000084,Basingstoke And Deane,32,Jul-20
+E07000085,East Hampshire,22,Jul-20
+E07000086,Eastleigh,19,Jul-20
+E07000087,Fareham,6,Jul-20
+E07000088,Gosport,9,Jul-20
+E07000089,Hart,47,Jul-20
+E07000090,Havant,19,Jul-20
+E07000091,New Forest,33,Jul-20
+E07000092,Rushmoor,25,Jul-20
+E07000093,Test Valley,31,Jul-20
+E07000094,Winchester,40,Jul-20
+E10000016,Kent,18,Jul-20
+E07000105,Ashford,25,Jul-20
+E07000106,Canterbury,21,Jul-20
+E07000107,Dartford,17,Jul-20
+E07000108,Dover,9,Jul-20
+E07000112,Folkestone And Hythe,24,Jul-20
+E07000109,Gravesham,3,Jul-20
+E07000110,Maidstone,27,Jul-20
+E07000111,Sevenoaks,14,Jul-20
+E07000113,Swale,21,Jul-20
+E07000114,Thanet,14,Jul-20
+E07000115,Tonbridge And Malling,10,Jul-20
+E07000116,Tunbridge Wells,27,Jul-20
+E10000025,Oxfordshire,32,Jul-20
+E07000177,Cherwell,27,Jul-20
+E07000178,Oxford,61,Jul-20
+E07000179,South Oxfordshire,30,Jul-20
+E07000180,Vale Of White Horse,22,Jul-20
+E07000181,West Oxfordshire,17,Jul-20
+E10000030,Surrey,21,Jul-20
+E07000207,Elmbridge,23,Jul-20
+E07000208,Epsom And Ewell,17,Jul-20
+E07000209,Guildford,22,Jul-20
+E07000210,Mole Valley,19,Jul-20
+E07000211,Reigate And Banstead,12,Jul-20
+E07000212,Runnymede,30,Jul-20
+E07000213,Spelthorne,47,Jul-20
+E07000214,Surrey Heath,20,Jul-20
+E07000215,Tandridge,12,Jul-20
+E07000216,Waverley,18,Jul-20
+E07000217,Woking,15,Jul-20
+E10000032,West Sussex,17,Jul-20
+E07000223,Adur,7,Jul-20
+E07000224,Arun,9,Jul-20
+E07000225,Chichester,37,Jul-20
+E07000226,Crawley,26,Jul-20
+E07000227,Horsham,14,Jul-20
+E07000228,Mid Sussex,14,Jul-20
+E07000229,Worthing,9,Jul-20
+E12000009,South West,25,Jul-20
+E06000022,Bath And North East Somerset,30,Jul-20
+E06000058,"Bournemouth, Christchurch And Poole",17,Jul-20
+E06000023,"Bristol, City Of",23,Jul-20
+E06000052,Cornwall,35,Jul-20
+E06000059,Dorset,21,Jul-20
+E06000053,Isles Of Scilly,0,Jul-20
+E06000024,North Somerset,39,Jul-20
+E06000026,Plymouth,25,Jul-20
+E06000025,South Gloucestershire,20,Jul-20
+E06000030,Swindon,18,Jul-20
+E06000027,Torbay,16,Jul-20
+E06000054,Wiltshire,21,Jul-20
+E10000008,Devon,27,Jul-20
+E07000040,East Devon,30,Jul-20
+E07000041,Exeter,26,Jul-20
+E07000042,Mid Devon,19,Jul-20
+E07000043,North Devon,40,Jul-20
+E07000044,South Hams,32,Jul-20
+E07000045,Teignbridge,13,Jul-20
+E07000046,Torridge,32,Jul-20
+E07000047,West Devon,34,Jul-20
+E10000013,Gloucestershire,26,Jul-20
+E07000078,Cheltenham,24,Jul-20
+E07000079,Cotswold,42,Jul-20
+E07000080,Forest Of Dean,13,Jul-20
+E07000081,Gloucester,24,Jul-20
+E07000082,Stroud,32,Jul-20
+E07000083,Tewkesbury,21,Jul-20
+E10000027,Somerset,20,Jul-20
+E07000187,Mendip,26,Jul-20
+E07000188,Sedgemoor,17,Jul-20
+E07000246,Somerset West And Taunton,20,Jul-20
+E07000189,South Somerset,18,Jul-20
+W92000004,Wales,20,Jul-20
+W06000001,Isle Of Anglesey,61,Jul-20
+W06000002,Gwynedd,48,Jul-20
+W06000003,Conwy,25,Jul-20
+W06000004,Denbighshire,14,Jul-20
+W06000005,Flintshire,9,Jul-20
+W06000006,Wrexham,16,Jul-20
+W06000023,Powys,52,Jul-20
+W06000008,Ceredigion,41,Jul-20
+W06000009,Pembrokeshire,62,Jul-20
+W06000010,Carmarthenshire,19,Jul-20
+W06000011,Swansea,14,Jul-20
+W06000012,Neath Port Talbot,4,Jul-20
+W06000013,Bridgend,14,Jul-20
+W06000014,The Vale Of Glamorgan,10,Jul-20
+W06000015,Cardiff,13,Jul-20
+W06000016,Rhondda Cynon Taf,6,Jul-20
+W06000024,Merthyr Tydfil,13,Jul-20
+W06000018,Caerphilly,7,Jul-20
+W06000019,Blaenau Gwent,11,Jul-20
+W06000020,Torfaen,8,Jul-20
+W06000021,Monmouthshire,39,Jul-20
+W06000022,Newport,18,Jul-20
+S92000003,Scotland,34,Jul-20
+S12000033,Aberdeen City,39,Jul-20
+S12000034,Aberdeenshire,29,Jul-20
+S12000041,Angus,51,Jul-20
+S12000035,Argyll & Bute,75,Jul-20
+S12000036,City Of Edinburgh,21,Jul-20
+S12000005,Clackmannanshire,36,Jul-20
+S12000006,Dumfries & Galloway,51,Jul-20
+S12000042,Dundee City,67,Jul-20
+S12000008,East Ayrshire,35,Jul-20
+S12000045,East Dunbartonshire,22,Jul-20
+S12000010,East Lothian,62,Jul-20
+S12000011,East Renfrewshire,21,Jul-20
+S12000014,Falkirk,22,Jul-20
+S12000047,Fife,24,Jul-20
+S12000049,Glasgow City,27,Jul-20
+S12000017,Highland,59,Jul-20
+S12000018,Inverclyde,28,Jul-20
+S12000019,Midlothian,36,Jul-20
+S12000020,Moray,33,Jul-20
+S12000013,Na H-Eileanan Siar,89,Jul-20
+S12000021,North Ayrshire,28,Jul-20
+S12000050,North Lanarkshire,21,Jul-20
+S12000023,Orkney Islands,130,Jul-20
+S12000048,Perth & Kinross,62,Jul-20
+S12000038,Renfrewshire,31,Jul-20
+S12000026,Scottish Borders,35,Jul-20
+S12000027,Shetland Islands,74,Jul-20
+S12000028,South Ayrshire,33,Jul-20
+S12000029,South Lanarkshire,24,Jul-20
+S12000030,Stirling,70,Jul-20
+S12000039,West Dunbartonshire,26,Jul-20
+S12000040,West Lothian,21,Jul-20
+N92000002,Northern Ireland,16,Jul-20
+N09000001,Antrim And Newtownabbey,23,Jul-20
+N09000011,Ards And North Down,10,Jul-20
+N09000002,"Armagh City, Banbridge And Craigavon",13,Jul-20
+N09000003,Belfast,13,Jul-20
+N09000004,Causeway Coast And Glens,19,Jul-20
+N09000005,Derry City And Strabane,17,Jul-20
+N09000006,Fermanagh And Omagh,32,Jul-20
+N09000007,Lisburn And Castlereagh,7,Jul-20
+N09000008,Mid And East Antrim,19,Jul-20
+N09000009,Mid Ulster,14,Jul-20
+N09000010,"Newry, Mourne And Down",17,Jul-20
+K02000001,United Kingdom,27,Apr-20
+K03000001,Great Britain,27,Apr-20
+E92000001,England,26,Apr-20
+E12000001,North East,29,Apr-20
+E06000047,County Durham,19,Apr-20
+E06000005,Darlington,26,Apr-20
+E06000001,Hartlepool,6,Apr-20
+E06000002,Middlesbrough,20,Apr-20
+E06000057,Northumberland,46,Apr-20
+E06000003,Redcar And Cleveland,14,Apr-20
+E06000004,Stockton-On-Tees,38,Apr-20
+E11000007,Tyne And Wear (Met County),33,Apr-20
+E08000037,Gateshead,32,Apr-20
+E08000021,Newcastle Upon Tyne,35,Apr-20
+E08000022,North Tyneside,19,Apr-20
+E08000023,South Tyneside,18,Apr-20
+E08000024,Sunderland,48,Apr-20
+E12000002,North West,19,Apr-20
+E06000008,Blackburn With Darwen,13,Apr-20
+E06000009,Blackpool,10,Apr-20
+E06000049,Cheshire East,18,Apr-20
+E06000050,Cheshire West And Chester,14,Apr-20
+E06000006,Halton,8,Apr-20
+E06000007,Warrington,39,Apr-20
+E10000006,Cumbria,35,Apr-20
+E07000026,Allerdale,18,Apr-20
+E07000027,Barrow-In-Furness,2,Apr-20
+E07000028,Carlisle,28,Apr-20
+E07000029,Copeland,32,Apr-20
+E07000030,Eden,64,Apr-20
+E07000031,South Lakeland,68,Apr-20
+E11000001,Greater Manchester (Met County),17,Apr-20
+E08000001,Bolton,10,Apr-20
+E08000002,Bury,12,Apr-20
+E08000003,Manchester,23,Apr-20
+E08000004,Oldham,18,Apr-20
+E08000005,Rochdale,16,Apr-20
+E08000006,Salford,37,Apr-20
+E08000007,Stockport,11,Apr-20
+E08000008,Tameside,11,Apr-20
+E08000009,Trafford,21,Apr-20
+E08000010,Wigan,10,Apr-20
+E10000017,Lancashire,23,Apr-20
+E07000117,Burnley,14,Apr-20
+E07000118,Chorley,29,Apr-20
+E07000119,Fylde,15,Apr-20
+E07000120,Hyndburn,18,Apr-20
+E07000121,Lancaster,39,Apr-20
+E07000122,Pendle,15,Apr-20
+E07000123,Preston,28,Apr-20
+E07000124,Ribble Valley,29,Apr-20
+E07000125,Rossendale,15,Apr-20
+E07000126,South Ribble,23,Apr-20
+E07000127,West Lancashire,21,Apr-20
+E07000128,Wyre,15,Apr-20
+E11000002,Merseyside (Met County),14,Apr-20
+E08000011,Knowsley,5,Apr-20
+E08000012,Liverpool,28,Apr-20
+E08000014,Sefton,6,Apr-20
+E08000013,St. Helens,9,Apr-20
+E08000015,Wirral,4,Apr-20
+E12000003,Yorkshire And The Humber,16,Apr-20
+E06000011,East Riding Of Yorkshire,10,Apr-20
+E06000010,"Kingston Upon Hull, City Of",10,Apr-20
+E06000012,North East Lincolnshire,11,Apr-20
+E06000013,North Lincolnshire,7,Apr-20
+E06000014,York,32,Apr-20
+E10000023,North Yorkshire,22,Apr-20
+E07000163,Craven,29,Apr-20
+E07000164,Hambleton,20,Apr-20
+E07000165,Harrogate,26,Apr-20
+E07000166,Richmondshire,31,Apr-20
+E07000167,Ryedale,41,Apr-20
+E07000168,Scarborough,15,Apr-20
+E07000169,Selby,3,Apr-20
+E11000003,South Yorkshire (Met County),15,Apr-20
+E08000016,Barnsley,7,Apr-20
+E08000017,Doncaster,14,Apr-20
+E08000018,Rotherham,21,Apr-20
+E08000019,Sheffield,16,Apr-20
+E11000006,West Yorkshire (Met County),16,Apr-20
+E08000032,Bradford,15,Apr-20
+E08000033,Calderdale,13,Apr-20
+E08000034,Kirklees,11,Apr-20
+E08000035,Leeds,21,Apr-20
+E08000036,Wakefield,14,Apr-20
+E12000004,East Midlands,19,Apr-20
+E06000015,Derby,22,Apr-20
+E06000016,Leicester,20,Apr-20
+E06000061,North Northamptonshire (From April 2021),0,Apr-20
+E06000018,Nottingham,38,Apr-20
+E06000017,Rutland,35,Apr-20
+E06000062,West Northamptonshire (From April 2021),0,Apr-20
+E10000007,Derbyshire,14,Apr-20
+E07000032,Amber Valley,7,Apr-20
+E07000033,Bolsover,18,Apr-20
+E07000034,Chesterfield,27,Apr-20
+E07000035,Derbyshire Dales,27,Apr-20
+E07000036,Erewash,11,Apr-20
+E07000037,High Peak,8,Apr-20
+E07000038,North East Derbyshire,8,Apr-20
+E07000039,South Derbyshire,8,Apr-20
+E10000018,Leicestershire,17,Apr-20
+E07000129,Blaby,22,Apr-20
+E07000130,Charnwood,14,Apr-20
+E07000131,Harborough,30,Apr-20
+E07000132,Hinckley And Bosworth,19,Apr-20
+E07000133,Melton,13,Apr-20
+E07000134,North West Leicestershire,15,Apr-20
+E07000135,Oadby And Wigston,5,Apr-20
+E10000019,Lincolnshire,19,Apr-20
+E07000136,Boston,14,Apr-20
+E07000137,East Lindsey,29,Apr-20
+E07000138,Lincoln,36,Apr-20
+E07000139,North Kesteven,11,Apr-20
+E07000140,South Holland,10,Apr-20
+E07000141,South Kesteven,19,Apr-20
+E07000142,West Lindsey,13,Apr-20
+E10000021,Northamptonshire (Abolished April 2021),15,Apr-20
+E07000150,Corby (Abolished April 2021),42,Apr-20
+E07000151,Daventry (Abolished April 2021),24,Apr-20
+E07000152,East Northamptonshire (Abolished April 2021),19,Apr-20
+E07000153,Kettering (Abolished April 2021),6,Apr-20
+E07000154,Northampton (Abolished April 2021),7,Apr-20
+E07000155,South Northamptonshire (Abolished April 2021),17,Apr-20
+E07000156,Wellingborough (Abolished April 2021),6,Apr-20
+E10000024,Nottinghamshire,18,Apr-20
+E07000170,Ashfield,13,Apr-20
+E07000171,Bassetlaw,21,Apr-20
+E07000172,Broxtowe,24,Apr-20
+E07000173,Gedling,15,Apr-20
+E07000174,Mansfield,13,Apr-20
+E07000175,Newark And Sherwood,25,Apr-20
+E07000176,Rushcliffe,13,Apr-20
+E12000005,West Midlands,16,Apr-20
+E06000019,"Herefordshire, County Of",29,Apr-20
+E06000051,Shropshire,15,Apr-20
+E06000021,Stoke-On-Trent,10,Apr-20
+E06000020,Telford And Wrekin,12,Apr-20
+E10000028,Staffordshire,13,Apr-20
+E07000192,Cannock Chase,12,Apr-20
+E07000193,East Staffordshire,12,Apr-20
+E07000194,Lichfield,14,Apr-20
+E07000195,Newcastle-Under-Lyme,19,Apr-20
+E07000196,South Staffordshire,13,Apr-20
+E07000197,Stafford,18,Apr-20
+E07000198,Staffordshire Moorlands,8,Apr-20
+E07000199,Tamworth,6,Apr-20
+E10000031,Warwickshire,22,Apr-20
+E07000218,North Warwickshire,18,Apr-20
+E07000219,Nuneaton And Bedworth,10,Apr-20
+E07000220,Rugby,13,Apr-20
+E07000221,Stratford-On-Avon,45,Apr-20
+E07000222,Warwick,23,Apr-20
+E11000005,West Midlands (Met County),15,Apr-20
+E08000025,Birmingham,8,Apr-20
+E08000026,Coventry,50,Apr-20
+E08000027,Dudley,10,Apr-20
+E08000028,Sandwell,8,Apr-20
+E08000029,Solihull,30,Apr-20
+E08000030,Walsall,6,Apr-20
+E08000031,Wolverhampton,9,Apr-20
+E10000034,Worcestershire,20,Apr-20
+E07000234,Bromsgrove,32,Apr-20
+E07000235,Malvern Hills,15,Apr-20
+E07000236,Redditch,9,Apr-20
+E07000237,Worcester,18,Apr-20
+E07000238,Wychavon,31,Apr-20
+E07000239,Wyre Forest,7,Apr-20
+E12000006,East Of England,17,Apr-20
+E06000055,Bedford,20,Apr-20
+E06000056,Central Bedfordshire,13,Apr-20
+E06000032,Luton,26,Apr-20
+E06000031,Peterborough,25,Apr-20
+E06000033,Southend-On-Sea,7,Apr-20
+E06000034,Thurrock,10,Apr-20
+E10000003,Cambridgeshire,15,Apr-20
+E07000008,Cambridge,25,Apr-20
+E07000009,East Cambridgeshire,12,Apr-20
+E07000010,Fenland,0,Apr-20
+E07000011,Huntingdonshire,7,Apr-20
+E07000012,South Cambridgeshire,26,Apr-20
+E10000012,Essex,13,Apr-20
+E07000066,Basildon,22,Apr-20
+E07000067,Braintree,12,Apr-20
+E07000068,Brentwood,2,Apr-20
+E07000069,Castle Point,1,Apr-20
+E07000070,Chelmsford,14,Apr-20
+E07000071,Colchester,15,Apr-20
+E07000072,Epping Forest,22,Apr-20
+E07000073,Harlow,4,Apr-20
+E07000074,Maldon,4,Apr-20
+E07000075,Rochford,13,Apr-20
+E07000076,Tendring,9,Apr-20
+E07000077,Uttlesford,16,Apr-20
+E10000015,Hertfordshire,18,Apr-20
+E07000095,Broxbourne,7,Apr-20
+E07000096,Dacorum,10,Apr-20
+E07000242,East Hertfordshire,10,Apr-20
+E07000098,Hertsmere,23,Apr-20
+E07000099,North Hertfordshire,12,Apr-20
+E07000240,St Albans,17,Apr-20
+E07000243,Stevenage,6,Apr-20
+E07000102,Three Rivers,60,Apr-20
+E07000103,Watford,38,Apr-20
+E07000241,Welwyn Hatfield,14,Apr-20
+E10000020,Norfolk,19,Apr-20
+E07000143,Breckland,11,Apr-20
+E07000144,Broadland,10,Apr-20
+E07000145,Great Yarmouth,17,Apr-20
+E07000146,King'S Lynn And West Norfolk,19,Apr-20
+E07000147,North Norfolk,29,Apr-20
+E07000148,Norwich,34,Apr-20
+E07000149,South Norfolk,16,Apr-20
+E10000029,Suffolk,21,Apr-20
+E07000200,Babergh,17,Apr-20
+E07000244,East Suffolk,18,Apr-20
+E07000202,Ipswich,34,Apr-20
+E07000203,Mid Suffolk,8,Apr-20
+E07000245,West Suffolk,24,Apr-20
+E12000007,London,56,Apr-20
+E13000001,Inner London,80,Apr-20
+E09000007,Camden,70,Apr-20
+E09000001,City Of London,413,Apr-20
+E09000012,Hackney,45,Apr-20
+E09000013,Hammersmith And Fulham,162,Apr-20
+E09000014,Haringey,19,Apr-20
+E09000019,Islington,93,Apr-20
+E09000020,Kensington And Chelsea,195,Apr-20
+E09000022,Lambeth,58,Apr-20
+E09000023,Lewisham,26,Apr-20
+E09000025,Newham,26,Apr-20
+E09000028,Southwark,61,Apr-20
+E09000030,Tower Hamlets,24,Apr-20
+E09000032,Wandsworth,135,Apr-20
+E09000033,Westminster,223,Apr-20
+E13000002,Outer London,41,Apr-20
+E09000002,Barking And Dagenham,28,Apr-20
+E09000003,Barnet,34,Apr-20
+E09000004,Bexley,13,Apr-20
+E09000005,Brent,63,Apr-20
+E09000006,Bromley,22,Apr-20
+E09000008,Croydon,22,Apr-20
+E09000009,Ealing,61,Apr-20
+E09000010,Enfield,11,Apr-20
+E09000011,Greenwich,65,Apr-20
+E09000015,Harrow,5,Apr-20
+E09000016,Havering,5,Apr-20
+E09000017,Hillingdon,65,Apr-20
+E09000018,Hounslow,95,Apr-20
+E09000021,Kingston Upon Thames,15,Apr-20
+E09000024,Merton,74,Apr-20
+E09000026,Redbridge,15,Apr-20
+E09000027,Richmond Upon Thames,144,Apr-20
+E09000029,Sutton,23,Apr-20
+E09000031,Waltham Forest,35,Apr-20
+E12000008,South East,26,Apr-20
+E06000036,Bracknell Forest,23,Apr-20
+E06000043,Brighton And Hove,56,Apr-20
+E06000046,Isle Of Wight,30,Apr-20
+E06000035,Medway,5,Apr-20
+E06000042,Milton Keynes,104,Apr-20
+E06000044,Portsmouth,29,Apr-20
+E06000038,Reading,30,Apr-20
+E06000039,Slough,42,Apr-20
+E06000045,Southampton,26,Apr-20
+E06000037,West Berkshire,61,Apr-20
+E06000040,Windsor And Maidenhead,20,Apr-20
+E06000041,Wokingham,30,Apr-20
+E06000060,Buckinghamshire,23,Apr-20
+E10000011,East Sussex,14,Apr-20
+E07000061,Eastbourne,30,Apr-20
+E07000062,Hastings,8,Apr-20
+E07000063,Lewes,19,Apr-20
+E07000064,Rother,9,Apr-20
+E07000065,Wealden,9,Apr-20
+E10000014,Hampshire,26,Apr-20
+E07000084,Basingstoke And Deane,32,Apr-20
+E07000085,East Hampshire,22,Apr-20
+E07000086,Eastleigh,18,Apr-20
+E07000087,Fareham,6,Apr-20
+E07000088,Gosport,9,Apr-20
+E07000089,Hart,47,Apr-20
+E07000090,Havant,19,Apr-20
+E07000091,New Forest,32,Apr-20
+E07000092,Rushmoor,25,Apr-20
+E07000093,Test Valley,31,Apr-20
+E07000094,Winchester,38,Apr-20
+E10000016,Kent,18,Apr-20
+E07000105,Ashford,25,Apr-20
+E07000106,Canterbury,21,Apr-20
+E07000107,Dartford,17,Apr-20
+E07000108,Dover,8,Apr-20
+E07000112,Folkestone And Hythe,24,Apr-20
+E07000109,Gravesham,3,Apr-20
+E07000110,Maidstone,27,Apr-20
+E07000111,Sevenoaks,14,Apr-20
+E07000113,Swale,21,Apr-20
+E07000114,Thanet,14,Apr-20
+E07000115,Tonbridge And Malling,9,Apr-20
+E07000116,Tunbridge Wells,26,Apr-20
+E10000025,Oxfordshire,32,Apr-20
+E07000177,Cherwell,26,Apr-20
+E07000178,Oxford,60,Apr-20
+E07000179,South Oxfordshire,29,Apr-20
+E07000180,Vale Of White Horse,20,Apr-20
+E07000181,West Oxfordshire,17,Apr-20
+E10000030,Surrey,20,Apr-20
+E07000207,Elmbridge,21,Apr-20
+E07000208,Epsom And Ewell,17,Apr-20
+E07000209,Guildford,22,Apr-20
+E07000210,Mole Valley,19,Apr-20
+E07000211,Reigate And Banstead,12,Apr-20
+E07000212,Runnymede,28,Apr-20
+E07000213,Spelthorne,46,Apr-20
+E07000214,Surrey Heath,19,Apr-20
+E07000215,Tandridge,12,Apr-20
+E07000216,Waverley,19,Apr-20
+E07000217,Woking,13,Apr-20
+E10000032,West Sussex,16,Apr-20
+E07000223,Adur,6,Apr-20
+E07000224,Arun,10,Apr-20
+E07000225,Chichester,34,Apr-20
+E07000226,Crawley,26,Apr-20
+E07000227,Horsham,14,Apr-20
+E07000228,Mid Sussex,14,Apr-20
+E07000229,Worthing,9,Apr-20
+E12000009,South West,24,Apr-20
+E06000022,Bath And North East Somerset,29,Apr-20
+E06000058,"Bournemouth, Christchurch And Poole",17,Apr-20
+E06000023,"Bristol, City Of",23,Apr-20
+E06000052,Cornwall,35,Apr-20
+E06000059,Dorset,21,Apr-20
+E06000053,Isles Of Scilly,0,Apr-20
+E06000024,North Somerset,37,Apr-20
+E06000026,Plymouth,24,Apr-20
+E06000025,South Gloucestershire,20,Apr-20
+E06000030,Swindon,18,Apr-20
+E06000027,Torbay,14,Apr-20
+E06000054,Wiltshire,22,Apr-20
+E10000008,Devon,27,Apr-20
+E07000040,East Devon,30,Apr-20
+E07000041,Exeter,26,Apr-20
+E07000042,Mid Devon,19,Apr-20
+E07000043,North Devon,41,Apr-20
+E07000044,South Hams,32,Apr-20
+E07000045,Teignbridge,12,Apr-20
+E07000046,Torridge,32,Apr-20
+E07000047,West Devon,34,Apr-20
+E10000013,Gloucestershire,26,Apr-20
+E07000078,Cheltenham,24,Apr-20
+E07000079,Cotswold,42,Apr-20
+E07000080,Forest Of Dean,13,Apr-20
+E07000081,Gloucester,23,Apr-20
+E07000082,Stroud,32,Apr-20
+E07000083,Tewkesbury,21,Apr-20
+E10000027,Somerset,20,Apr-20
+E07000187,Mendip,26,Apr-20
+E07000188,Sedgemoor,17,Apr-20
+E07000246,Somerset West And Taunton,20,Apr-20
+E07000189,South Somerset,16,Apr-20
+W92000004,Wales,19,Apr-20
+W06000001,Isle Of Anglesey,57,Apr-20
+W06000002,Gwynedd,47,Apr-20
+W06000003,Conwy,23,Apr-20
+W06000004,Denbighshire,12,Apr-20
+W06000005,Flintshire,9,Apr-20
+W06000006,Wrexham,16,Apr-20
+W06000023,Powys,49,Apr-20
+W06000008,Ceredigion,41,Apr-20
+W06000009,Pembrokeshire,62,Apr-20
+W06000010,Carmarthenshire,19,Apr-20
+W06000011,Swansea,12,Apr-20
+W06000012,Neath Port Talbot,4,Apr-20
+W06000013,Bridgend,14,Apr-20
+W06000014,The Vale Of Glamorgan,8,Apr-20
+W06000015,Cardiff,14,Apr-20
+W06000016,Rhondda Cynon Taf,6,Apr-20
+W06000024,Merthyr Tydfil,13,Apr-20
+W06000018,Caerphilly,6,Apr-20
+W06000019,Blaenau Gwent,11,Apr-20
+W06000020,Torfaen,8,Apr-20
+W06000021,Monmouthshire,37,Apr-20
+W06000022,Newport,18,Apr-20
+S92000003,Scotland,37,Apr-20
+S12000033,Aberdeen City,42,Apr-20
+S12000034,Aberdeenshire,30,Apr-20
+S12000041,Angus,56,Apr-20
+S12000035,Argyll & Bute,74,Apr-20
+S12000036,City Of Edinburgh,23,Apr-20
+S12000005,Clackmannanshire,42,Apr-20
+S12000006,Dumfries & Galloway,51,Apr-20
+S12000042,Dundee City,77,Apr-20
+S12000008,East Ayrshire,36,Apr-20
+S12000045,East Dunbartonshire,24,Apr-20
+S12000010,East Lothian,61,Apr-20
+S12000011,East Renfrewshire,25,Apr-20
+S12000014,Falkirk,16,Apr-20
+S12000047,Fife,26,Apr-20
+S12000049,Glasgow City,26,Apr-20
+S12000017,Highland,60,Apr-20
+S12000018,Inverclyde,24,Apr-20
+S12000019,Midlothian,39,Apr-20
+S12000020,Moray,32,Apr-20
+S12000013,Na H-Eileanan Siar,111,Apr-20
+S12000021,North Ayrshire,29,Apr-20
+S12000050,North Lanarkshire,22,Apr-20
+S12000023,Orkney Islands,157,Apr-20
+S12000048,Perth & Kinross,66,Apr-20
+S12000038,Renfrewshire,32,Apr-20
+S12000026,Scottish Borders,38,Apr-20
+S12000027,Shetland Islands,60,Apr-20
+S12000028,South Ayrshire,39,Apr-20
+S12000029,South Lanarkshire,42,Apr-20
+S12000030,Stirling,68,Apr-20
+S12000039,West Dunbartonshire,29,Apr-20
+S12000040,West Lothian,22,Apr-20
+N92000002,Northern Ireland,16,Apr-20
+N09000001,Antrim And Newtownabbey,23,Apr-20
+N09000011,Ards And North Down,10,Apr-20
+N09000002,"Armagh City, Banbridge And Craigavon",14,Apr-20
+N09000003,Belfast,13,Apr-20
+N09000004,Causeway Coast And Glens,18,Apr-20
+N09000005,Derry City And Strabane,15,Apr-20
+N09000006,Fermanagh And Omagh,32,Apr-20
+N09000007,Lisburn And Castlereagh,7,Apr-20
+N09000008,Mid And East Antrim,18,Apr-20
+N09000009,Mid Ulster,14,Apr-20
+N09000010,"Newry, Mourne And Down",17,Apr-20
+K02000001,United Kingdom,24,Jan-20
+K03000001,Great Britain,25,Jan-20
+E92000001,England,24,Jan-20
+E12000001,North East,28,Jan-20
+E06000047,County Durham,18,Jan-20
+E06000005,Darlington,25,Jan-20
+E06000001,Hartlepool,5,Jan-20
+E06000002,Middlesbrough,19,Jan-20
+E06000057,Northumberland,43,Jan-20
+E06000003,Redcar And Cleveland,12,Jan-20
+E06000004,Stockton-On-Tees,37,Jan-20
+E11000007,Tyne And Wear (Met County),32,Jan-20
+E08000037,Gateshead,30,Jan-20
+E08000021,Newcastle Upon Tyne,36,Jan-20
+E08000022,North Tyneside,16,Jan-20
+E08000023,South Tyneside,18,Jan-20
+E08000024,Sunderland,49,Jan-20
+E12000002,North West,17,Jan-20
+E06000008,Blackburn With Darwen,12,Jan-20
+E06000009,Blackpool,10,Jan-20
+E06000049,Cheshire East,17,Jan-20
+E06000050,Cheshire West And Chester,11,Jan-20
+E06000006,Halton,7,Jan-20
+E06000007,Warrington,31,Jan-20
+E10000006,Cumbria,32,Jan-20
+E07000026,Allerdale,17,Jan-20
+E07000027,Barrow-In-Furness,0,Jan-20
+E07000028,Carlisle,25,Jan-20
+E07000029,Copeland,30,Jan-20
+E07000030,Eden,58,Jan-20
+E07000031,South Lakeland,63,Jan-20
+E11000001,Greater Manchester (Met County),16,Jan-20
+E08000001,Bolton,9,Jan-20
+E08000002,Bury,10,Jan-20
+E08000003,Manchester,23,Jan-20
+E08000004,Oldham,16,Jan-20
+E08000005,Rochdale,13,Jan-20
+E08000006,Salford,34,Jan-20
+E08000007,Stockport,10,Jan-20
+E08000008,Tameside,9,Jan-20
+E08000009,Trafford,20,Jan-20
+E08000010,Wigan,8,Jan-20
+E10000017,Lancashire,21,Jan-20
+E07000117,Burnley,13,Jan-20
+E07000118,Chorley,28,Jan-20
+E07000119,Fylde,15,Jan-20
+E07000120,Hyndburn,13,Jan-20
+E07000121,Lancaster,29,Jan-20
+E07000122,Pendle,15,Jan-20
+E07000123,Preston,28,Jan-20
+E07000124,Ribble Valley,26,Jan-20
+E07000125,Rossendale,15,Jan-20
+E07000126,South Ribble,22,Jan-20
+E07000127,West Lancashire,19,Jan-20
+E07000128,Wyre,16,Jan-20
+E11000002,Merseyside (Met County),12,Jan-20
+E08000011,Knowsley,4,Jan-20
+E08000012,Liverpool,25,Jan-20
+E08000014,Sefton,6,Jan-20
+E08000013,St. Helens,8,Jan-20
+E08000015,Wirral,4,Jan-20
+E12000003,Yorkshire And The Humber,14,Jan-20
+E06000011,East Riding Of Yorkshire,8,Jan-20
+E06000010,"Kingston Upon Hull, City Of",8,Jan-20
+E06000012,North East Lincolnshire,10,Jan-20
+E06000013,North Lincolnshire,6,Jan-20
+E06000014,York,27,Jan-20
+E10000023,North Yorkshire,19,Jan-20
+E07000163,Craven,24,Jan-20
+E07000164,Hambleton,18,Jan-20
+E07000165,Harrogate,22,Jan-20
+E07000166,Richmondshire,30,Jan-20
+E07000167,Ryedale,27,Jan-20
+E07000168,Scarborough,14,Jan-20
+E07000169,Selby,3,Jan-20
+E11000003,South Yorkshire (Met County),14,Jan-20
+E08000016,Barnsley,5,Jan-20
+E08000017,Doncaster,13,Jan-20
+E08000018,Rotherham,21,Jan-20
+E08000019,Sheffield,15,Jan-20
+E11000006,West Yorkshire (Met County),13,Jan-20
+E08000032,Bradford,10,Jan-20
+E08000033,Calderdale,9,Jan-20
+E08000034,Kirklees,9,Jan-20
+E08000035,Leeds,19,Jan-20
+E08000036,Wakefield,13,Jan-20
+E12000004,East Midlands,17,Jan-20
+E06000015,Derby,22,Jan-20
+E06000016,Leicester,20,Jan-20
+E06000061,North Northamptonshire (From April 2021),0,Jan-20
+E06000018,Nottingham,38,Jan-20
+E06000017,Rutland,25,Jan-20
+E06000062,West Northamptonshire (From April 2021),0,Jan-20
+E10000007,Derbyshire,12,Jan-20
+E07000032,Amber Valley,5,Jan-20
+E07000033,Bolsover,17,Jan-20
+E07000034,Chesterfield,27,Jan-20
+E07000035,Derbyshire Dales,25,Jan-20
+E07000036,Erewash,7,Jan-20
+E07000037,High Peak,7,Jan-20
+E07000038,North East Derbyshire,8,Jan-20
+E07000039,South Derbyshire,7,Jan-20
+E10000018,Leicestershire,16,Jan-20
+E07000129,Blaby,22,Jan-20
+E07000130,Charnwood,13,Jan-20
+E07000131,Harborough,24,Jan-20
+E07000132,Hinckley And Bosworth,17,Jan-20
+E07000133,Melton,7,Jan-20
+E07000134,North West Leicestershire,15,Jan-20
+E07000135,Oadby And Wigston,1,Jan-20
+E10000019,Lincolnshire,18,Jan-20
+E07000136,Boston,14,Jan-20
+E07000137,East Lindsey,25,Jan-20
+E07000138,Lincoln,34,Jan-20
+E07000139,North Kesteven,9,Jan-20
+E07000140,South Holland,10,Jan-20
+E07000141,South Kesteven,19,Jan-20
+E07000142,West Lindsey,11,Jan-20
+E10000021,Northamptonshire (Abolished April 2021),13,Jan-20
+E07000150,Corby (Abolished April 2021),36,Jan-20
+E07000151,Daventry (Abolished April 2021),22,Jan-20
+E07000152,East Northamptonshire (Abolished April 2021),18,Jan-20
+E07000153,Kettering (Abolished April 2021),6,Jan-20
+E07000154,Northampton (Abolished April 2021),7,Jan-20
+E07000155,South Northamptonshire (Abolished April 2021),17,Jan-20
+E07000156,Wellingborough (Abolished April 2021),3,Jan-20
+E10000024,Nottinghamshire,17,Jan-20
+E07000170,Ashfield,14,Jan-20
+E07000171,Bassetlaw,17,Jan-20
+E07000172,Broxtowe,23,Jan-20
+E07000173,Gedling,14,Jan-20
+E07000174,Mansfield,15,Jan-20
+E07000175,Newark And Sherwood,21,Jan-20
+E07000176,Rushcliffe,12,Jan-20
+E12000005,West Midlands,15,Jan-20
+E06000019,"Herefordshire, County Of",27,Jan-20
+E06000051,Shropshire,14,Jan-20
+E06000021,Stoke-On-Trent,8,Jan-20
+E06000020,Telford And Wrekin,9,Jan-20
+E10000028,Staffordshire,12,Jan-20
+E07000192,Cannock Chase,10,Jan-20
+E07000193,East Staffordshire,11,Jan-20
+E07000194,Lichfield,13,Jan-20
+E07000195,Newcastle-Under-Lyme,19,Jan-20
+E07000196,South Staffordshire,10,Jan-20
+E07000197,Stafford,19,Jan-20
+E07000198,Staffordshire Moorlands,8,Jan-20
+E07000199,Tamworth,3,Jan-20
+E10000031,Warwickshire,20,Jan-20
+E07000218,North Warwickshire,15,Jan-20
+E07000219,Nuneaton And Bedworth,10,Jan-20
+E07000220,Rugby,3,Jan-20
+E07000221,Stratford-On-Avon,44,Jan-20
+E07000222,Warwick,22,Jan-20
+E11000005,West Midlands (Met County),14,Jan-20
+E08000025,Birmingham,8,Jan-20
+E08000026,Coventry,46,Jan-20
+E08000027,Dudley,9,Jan-20
+E08000028,Sandwell,8,Jan-20
+E08000029,Solihull,26,Jan-20
+E08000030,Walsall,5,Jan-20
+E08000031,Wolverhampton,9,Jan-20
+E10000034,Worcestershire,17,Jan-20
+E07000234,Bromsgrove,32,Jan-20
+E07000235,Malvern Hills,15,Jan-20
+E07000236,Redditch,9,Jan-20
+E07000237,Worcester,18,Jan-20
+E07000238,Wychavon,18,Jan-20
+E07000239,Wyre Forest,7,Jan-20
+E12000006,East Of England,15,Jan-20
+E06000055,Bedford,19,Jan-20
+E06000056,Central Bedfordshire,13,Jan-20
+E06000032,Luton,25,Jan-20
+E06000031,Peterborough,21,Jan-20
+E06000033,Southend-On-Sea,7,Jan-20
+E06000034,Thurrock,8,Jan-20
+E10000003,Cambridgeshire,15,Jan-20
+E07000008,Cambridge,22,Jan-20
+E07000009,East Cambridgeshire,12,Jan-20
+E07000010,Fenland,2,Jan-20
+E07000011,Huntingdonshire,9,Jan-20
+E07000012,South Cambridgeshire,26,Jan-20
+E10000012,Essex,10,Jan-20
+E07000066,Basildon,15,Jan-20
+E07000067,Braintree,9,Jan-20
+E07000068,Brentwood,1,Jan-20
+E07000069,Castle Point,1,Jan-20
+E07000070,Chelmsford,12,Jan-20
+E07000071,Colchester,13,Jan-20
+E07000072,Epping Forest,22,Jan-20
+E07000073,Harlow,3,Jan-20
+E07000074,Maldon,4,Jan-20
+E07000075,Rochford,4,Jan-20
+E07000076,Tendring,8,Jan-20
+E07000077,Uttlesford,15,Jan-20
+E10000015,Hertfordshire,16,Jan-20
+E07000095,Broxbourne,6,Jan-20
+E07000096,Dacorum,9,Jan-20
+E07000242,East Hertfordshire,8,Jan-20
+E07000098,Hertsmere,20,Jan-20
+E07000099,North Hertfordshire,12,Jan-20
+E07000240,St Albans,16,Jan-20
+E07000243,Stevenage,6,Jan-20
+E07000102,Three Rivers,48,Jan-20
+E07000103,Watford,31,Jan-20
+E07000241,Welwyn Hatfield,13,Jan-20
+E10000020,Norfolk,18,Jan-20
+E07000143,Breckland,11,Jan-20
+E07000144,Broadland,10,Jan-20
+E07000145,Great Yarmouth,17,Jan-20
+E07000146,King'S Lynn And West Norfolk,19,Jan-20
+E07000147,North Norfolk,23,Jan-20
+E07000148,Norwich,32,Jan-20
+E07000149,South Norfolk,15,Jan-20
+E10000029,Suffolk,19,Jan-20
+E07000200,Babergh,16,Jan-20
+E07000244,East Suffolk,14,Jan-20
+E07000202,Ipswich,34,Jan-20
+E07000203,Mid Suffolk,5,Jan-20
+E07000245,West Suffolk,24,Jan-20
+E12000007,London,53,Jan-20
+E13000001,Inner London,76,Jan-20
+E09000007,Camden,66,Jan-20
+E09000001,City Of London,413,Jan-20
+E09000012,Hackney,45,Jan-20
+E09000013,Hammersmith And Fulham,156,Jan-20
+E09000014,Haringey,19,Jan-20
+E09000019,Islington,85,Jan-20
+E09000020,Kensington And Chelsea,177,Jan-20
+E09000022,Lambeth,57,Jan-20
+E09000023,Lewisham,24,Jan-20
+E09000025,Newham,26,Jan-20
+E09000028,Southwark,60,Jan-20
+E09000030,Tower Hamlets,24,Jan-20
+E09000032,Wandsworth,133,Jan-20
+E09000033,Westminster,206,Jan-20
+E13000002,Outer London,38,Jan-20
+E09000002,Barking And Dagenham,24,Jan-20
+E09000003,Barnet,34,Jan-20
+E09000004,Bexley,8,Jan-20
+E09000005,Brent,62,Jan-20
+E09000006,Bromley,21,Jan-20
+E09000008,Croydon,15,Jan-20
+E09000009,Ealing,61,Jan-20
+E09000010,Enfield,11,Jan-20
+E09000011,Greenwich,61,Jan-20
+E09000015,Harrow,5,Jan-20
+E09000016,Havering,4,Jan-20
+E09000017,Hillingdon,62,Jan-20
+E09000018,Hounslow,83,Jan-20
+E09000021,Kingston Upon Thames,15,Jan-20
+E09000024,Merton,58,Jan-20
+E09000026,Redbridge,15,Jan-20
+E09000027,Richmond Upon Thames,144,Jan-20
+E09000029,Sutton,22,Jan-20
+E09000031,Waltham Forest,30,Jan-20
+E12000008,South East,23,Jan-20
+E06000036,Bracknell Forest,19,Jan-20
+E06000043,Brighton And Hove,19,Jan-20
+E06000046,Isle Of Wight,22,Jan-20
+E06000035,Medway,5,Jan-20
+E06000042,Milton Keynes,102,Jan-20
+E06000044,Portsmouth,28,Jan-20
+E06000038,Reading,20,Jan-20
+E06000039,Slough,42,Jan-20
+E06000045,Southampton,24,Jan-20
+E06000037,West Berkshire,52,Jan-20
+E06000040,Windsor And Maidenhead,19,Jan-20
+E06000041,Wokingham,29,Jan-20
+E06000060,Buckinghamshire,21,Jan-20
+E10000011,East Sussex,13,Jan-20
+E07000061,Eastbourne,30,Jan-20
+E07000062,Hastings,8,Jan-20
+E07000063,Lewes,15,Jan-20
+E07000064,Rother,9,Jan-20
+E07000065,Wealden,8,Jan-20
+E10000014,Hampshire,23,Jan-20
+E07000084,Basingstoke And Deane,29,Jan-20
+E07000085,East Hampshire,20,Jan-20
+E07000086,Eastleigh,15,Jan-20
+E07000087,Fareham,6,Jan-20
+E07000088,Gosport,9,Jan-20
+E07000089,Hart,39,Jan-20
+E07000090,Havant,17,Jan-20
+E07000091,New Forest,31,Jan-20
+E07000092,Rushmoor,23,Jan-20
+E07000093,Test Valley,23,Jan-20
+E07000094,Winchester,37,Jan-20
+E10000016,Kent,17,Jan-20
+E07000105,Ashford,22,Jan-20
+E07000106,Canterbury,18,Jan-20
+E07000107,Dartford,17,Jan-20
+E07000108,Dover,7,Jan-20
+E07000112,Folkestone And Hythe,23,Jan-20
+E07000109,Gravesham,3,Jan-20
+E07000110,Maidstone,27,Jan-20
+E07000111,Sevenoaks,16,Jan-20
+E07000113,Swale,20,Jan-20
+E07000114,Thanet,13,Jan-20
+E07000115,Tonbridge And Malling,9,Jan-20
+E07000116,Tunbridge Wells,21,Jan-20
+E10000025,Oxfordshire,30,Jan-20
+E07000177,Cherwell,25,Jan-20
+E07000178,Oxford,59,Jan-20
+E07000179,South Oxfordshire,28,Jan-20
+E07000180,Vale Of White Horse,18,Jan-20
+E07000181,West Oxfordshire,15,Jan-20
+E10000030,Surrey,18,Jan-20
+E07000207,Elmbridge,20,Jan-20
+E07000208,Epsom And Ewell,17,Jan-20
+E07000209,Guildford,18,Jan-20
+E07000210,Mole Valley,13,Jan-20
+E07000211,Reigate And Banstead,12,Jan-20
+E07000212,Runnymede,26,Jan-20
+E07000213,Spelthorne,36,Jan-20
+E07000214,Surrey Heath,16,Jan-20
+E07000215,Tandridge,12,Jan-20
+E07000216,Waverley,18,Jan-20
+E07000217,Woking,12,Jan-20
+E10000032,West Sussex,15,Jan-20
+E07000223,Adur,4,Jan-20
+E07000224,Arun,10,Jan-20
+E07000225,Chichester,33,Jan-20
+E07000226,Crawley,21,Jan-20
+E07000227,Horsham,12,Jan-20
+E07000228,Mid Sussex,14,Jan-20
+E07000229,Worthing,9,Jan-20
+E12000009,South West,22,Jan-20
+E06000022,Bath And North East Somerset,26,Jan-20
+E06000058,"Bournemouth, Christchurch And Poole",15,Jan-20
+E06000023,"Bristol, City Of",25,Jan-20
+E06000052,Cornwall,30,Jan-20
+E06000059,Dorset,18,Jan-20
+E06000053,Isles Of Scilly,0,Jan-20
+E06000024,North Somerset,45,Jan-20
+E06000026,Plymouth,19,Jan-20
+E06000025,South Gloucestershire,22,Jan-20
+E06000030,Swindon,11,Jan-20
+E06000027,Torbay,13,Jan-20
+E06000054,Wiltshire,20,Jan-20
+E10000008,Devon,23,Jan-20
+E07000040,East Devon,24,Jan-20
+E07000041,Exeter,26,Jan-20
+E07000042,Mid Devon,19,Jan-20
+E07000043,North Devon,36,Jan-20
+E07000044,South Hams,30,Jan-20
+E07000045,Teignbridge,6,Jan-20
+E07000046,Torridge,29,Jan-20
+E07000047,West Devon,27,Jan-20
+E10000013,Gloucestershire,24,Jan-20
+E07000078,Cheltenham,22,Jan-20
+E07000079,Cotswold,42,Jan-20
+E07000080,Forest Of Dean,13,Jan-20
+E07000081,Gloucester,22,Jan-20
+E07000082,Stroud,32,Jan-20
+E07000083,Tewkesbury,14,Jan-20
+E10000027,Somerset,19,Jan-20
+E07000187,Mendip,25,Jan-20
+E07000188,Sedgemoor,17,Jan-20
+E07000246,Somerset West And Taunton,18,Jan-20
+E07000189,South Somerset,16,Jan-20
+W92000004,Wales,18,Jan-20
+W06000001,Isle Of Anglesey,50,Jan-20
+W06000002,Gwynedd,46,Jan-20
+W06000003,Conwy,17,Jan-20
+W06000004,Denbighshire,11,Jan-20
+W06000005,Flintshire,9,Jan-20
+W06000006,Wrexham,9,Jan-20
+W06000023,Powys,45,Jan-20
+W06000008,Ceredigion,41,Jan-20
+W06000009,Pembrokeshire,58,Jan-20
+W06000010,Carmarthenshire,17,Jan-20
+W06000011,Swansea,10,Jan-20
+W06000012,Neath Port Talbot,6,Jan-20
+W06000013,Bridgend,14,Jan-20
+W06000014,The Vale Of Glamorgan,5,Jan-20
+W06000015,Cardiff,13,Jan-20
+W06000016,Rhondda Cynon Taf,4,Jan-20
+W06000024,Merthyr Tydfil,11,Jan-20
+W06000018,Caerphilly,6,Jan-20
+W06000019,Blaenau Gwent,11,Jan-20
+W06000020,Torfaen,8,Jan-20
+W06000021,Monmouthshire,37,Jan-20
+W06000022,Newport,18,Jan-20
+S92000003,Scotland,35,Jan-20
+S12000033,Aberdeen City,36,Jan-20
+S12000034,Aberdeenshire,27,Jan-20
+S12000041,Angus,50,Jan-20
+S12000035,Argyll & Bute,56,Jan-20
+S12000036,City Of Edinburgh,23,Jan-20
+S12000005,Clackmannanshire,36,Jan-20
+S12000006,Dumfries & Galloway,47,Jan-20
+S12000042,Dundee City,74,Jan-20
+S12000008,East Ayrshire,32,Jan-20
+S12000045,East Dunbartonshire,21,Jan-20
+S12000010,East Lothian,53,Jan-20
+S12000011,East Renfrewshire,25,Jan-20
+S12000014,Falkirk,16,Jan-20
+S12000047,Fife,25,Jan-20
+S12000049,Glasgow City,26,Jan-20
+S12000017,Highland,54,Jan-20
+S12000018,Inverclyde,24,Jan-20
+S12000019,Midlothian,41,Jan-20
+S12000020,Moray,33,Jan-20
+S12000013,Na H-Eileanan Siar,111,Jan-20
+S12000021,North Ayrshire,28,Jan-20
+S12000050,North Lanarkshire,22,Jan-20
+S12000023,Orkney Islands,153,Jan-20
+S12000048,Perth & Kinross,63,Jan-20
+S12000038,Renfrewshire,27,Jan-20
+S12000026,Scottish Borders,40,Jan-20
+S12000027,Shetland Islands,43,Jan-20
+S12000028,South Ayrshire,40,Jan-20
+S12000029,South Lanarkshire,43,Jan-20
+S12000030,Stirling,66,Jan-20
+S12000039,West Dunbartonshire,28,Jan-20
+S12000040,West Lothian,20,Jan-20
+N92000002,Northern Ireland,15,Jan-20
+N09000001,Antrim And Newtownabbey,23,Jan-20
+N09000011,Ards And North Down,10,Jan-20
+N09000002,"Armagh City, Banbridge And Craigavon",14,Jan-20
+N09000003,Belfast,12,Jan-20
+N09000004,Causeway Coast And Glens,15,Jan-20
+N09000005,Derry City And Strabane,15,Jan-20
+N09000006,Fermanagh And Omagh,32,Jan-20
+N09000007,Lisburn And Castlereagh,7,Jan-20
+N09000008,Mid And East Antrim,18,Jan-20
+N09000009,Mid Ulster,14,Jan-20
+N09000010,"Newry, Mourne And Down",17,Jan-20
+K02000001,United Kingdom,22,Oct-19
+K03000001,Great Britain,22,Oct-19
+E92000001,England,22,Oct-19
+E12000001,North East,27,Oct-19
+E06000047,County Durham,17,Oct-19
+E06000005,Darlington,25,Oct-19
+E06000001,Hartlepool,5,Oct-19
+E06000002,Middlesbrough,17,Oct-19
+E06000057,Northumberland,43,Oct-19
+E06000003,Redcar And Cleveland,12,Oct-19
+E06000004,Stockton-On-Tees,36,Oct-19
+E11000007,Tyne And Wear (Met County),31,Oct-19
+E08000037,Gateshead,29,Oct-19
+E08000021,Newcastle Upon Tyne,35,Oct-19
+E08000022,North Tyneside,18,Oct-19
+E08000023,South Tyneside,19,Oct-19
+E08000024,Sunderland,46,Oct-19
+E12000002,North West,16,Oct-19
+E06000008,Blackburn With Darwen,9,Oct-19
+E06000009,Blackpool,9,Oct-19
+E06000049,Cheshire East,15,Oct-19
+E06000050,Cheshire West And Chester,11,Oct-19
+E06000006,Halton,6,Oct-19
+E06000007,Warrington,31,Oct-19
+E10000006,Cumbria,30,Oct-19
+E07000026,Allerdale,17,Oct-19
+E07000027,Barrow-In-Furness,0,Oct-19
+E07000028,Carlisle,23,Oct-19
+E07000029,Copeland,30,Oct-19
+E07000030,Eden,54,Oct-19
+E07000031,South Lakeland,54,Oct-19
+E11000001,Greater Manchester (Met County),15,Oct-19
+E08000001,Bolton,9,Oct-19
+E08000002,Bury,10,Oct-19
+E08000003,Manchester,21,Oct-19
+E08000004,Oldham,14,Oct-19
+E08000005,Rochdale,13,Oct-19
+E08000006,Salford,35,Oct-19
+E08000007,Stockport,9,Oct-19
+E08000008,Tameside,8,Oct-19
+E08000009,Trafford,20,Oct-19
+E08000010,Wigan,8,Oct-19
+E10000017,Lancashire,19,Oct-19
+E07000117,Burnley,11,Oct-19
+E07000118,Chorley,27,Oct-19
+E07000119,Fylde,12,Oct-19
+E07000120,Hyndburn,9,Oct-19
+E07000121,Lancaster,29,Oct-19
+E07000122,Pendle,15,Oct-19
+E07000123,Preston,26,Oct-19
+E07000124,Ribble Valley,28,Oct-19
+E07000125,Rossendale,8,Oct-19
+E07000126,South Ribble,22,Oct-19
+E07000127,West Lancashire,17,Oct-19
+E07000128,Wyre,14,Oct-19
+E11000002,Merseyside (Met County),11,Oct-19
+E08000011,Knowsley,4,Oct-19
+E08000012,Liverpool,24,Oct-19
+E08000014,Sefton,4,Oct-19
+E08000013,St. Helens,8,Oct-19
+E08000015,Wirral,4,Oct-19
+E12000003,Yorkshire And The Humber,12,Oct-19
+E06000011,East Riding Of Yorkshire,7,Oct-19
+E06000010,"Kingston Upon Hull, City Of",6,Oct-19
+E06000012,North East Lincolnshire,10,Oct-19
+E06000013,North Lincolnshire,8,Oct-19
+E06000014,York,27,Oct-19
+E10000023,North Yorkshire,18,Oct-19
+E07000163,Craven,26,Oct-19
+E07000164,Hambleton,16,Oct-19
+E07000165,Harrogate,20,Oct-19
+E07000166,Richmondshire,31,Oct-19
+E07000167,Ryedale,23,Oct-19
+E07000168,Scarborough,14,Oct-19
+E07000169,Selby,3,Oct-19
+E11000003,South Yorkshire (Met County),9,Oct-19
+E08000016,Barnsley,3,Oct-19
+E08000017,Doncaster,10,Oct-19
+E08000018,Rotherham,16,Oct-19
+E08000019,Sheffield,8,Oct-19
+E11000006,West Yorkshire (Met County),12,Oct-19
+E08000032,Bradford,8,Oct-19
+E08000033,Calderdale,9,Oct-19
+E08000034,Kirklees,9,Oct-19
+E08000035,Leeds,17,Oct-19
+E08000036,Wakefield,9,Oct-19
+E12000004,East Midlands,15,Oct-19
+E06000015,Derby,20,Oct-19
+E06000016,Leicester,19,Oct-19
+E06000061,North Northamptonshire (From April 2021),0,Oct-19
+E06000018,Nottingham,31,Oct-19
+E06000017,Rutland,25,Oct-19
+E06000062,West Northamptonshire (From April 2021),0,Oct-19
+E10000007,Derbyshire,9,Oct-19
+E07000032,Amber Valley,4,Oct-19
+E07000033,Bolsover,12,Oct-19
+E07000034,Chesterfield,19,Oct-19
+E07000035,Derbyshire Dales,23,Oct-19
+E07000036,Erewash,6,Oct-19
+E07000037,High Peak,6,Oct-19
+E07000038,North East Derbyshire,4,Oct-19
+E07000039,South Derbyshire,6,Oct-19
+E10000018,Leicestershire,15,Oct-19
+E07000129,Blaby,22,Oct-19
+E07000130,Charnwood,13,Oct-19
+E07000131,Harborough,18,Oct-19
+E07000132,Hinckley And Bosworth,17,Oct-19
+E07000133,Melton,7,Oct-19
+E07000134,North West Leicestershire,15,Oct-19
+E07000135,Oadby And Wigston,1,Oct-19
+E10000019,Lincolnshire,15,Oct-19
+E07000136,Boston,8,Oct-19
+E07000137,East Lindsey,23,Oct-19
+E07000138,Lincoln,30,Oct-19
+E07000139,North Kesteven,7,Oct-19
+E07000140,South Holland,6,Oct-19
+E07000141,South Kesteven,14,Oct-19
+E07000142,West Lindsey,12,Oct-19
+E10000021,Northamptonshire (Abolished April 2021),13,Oct-19
+E07000150,Corby (Abolished April 2021),36,Oct-19
+E07000151,Daventry (Abolished April 2021),22,Oct-19
+E07000152,East Northamptonshire (Abolished April 2021),18,Oct-19
+E07000153,Kettering (Abolished April 2021),5,Oct-19
+E07000154,Northampton (Abolished April 2021),6,Oct-19
+E07000155,South Northamptonshire (Abolished April 2021),14,Oct-19
+E07000156,Wellingborough (Abolished April 2021),3,Oct-19
+E10000024,Nottinghamshire,12,Oct-19
+E07000170,Ashfield,6,Oct-19
+E07000171,Bassetlaw,11,Oct-19
+E07000172,Broxtowe,23,Oct-19
+E07000173,Gedling,11,Oct-19
+E07000174,Mansfield,9,Oct-19
+E07000175,Newark And Sherwood,15,Oct-19
+E07000176,Rushcliffe,12,Oct-19
+E12000005,West Midlands,13,Oct-19
+E06000019,"Herefordshire, County Of",24,Oct-19
+E06000051,Shropshire,11,Oct-19
+E06000021,Stoke-On-Trent,9,Oct-19
+E06000020,Telford And Wrekin,7,Oct-19
+E10000028,Staffordshire,11,Oct-19
+E07000192,Cannock Chase,8,Oct-19
+E07000193,East Staffordshire,10,Oct-19
+E07000194,Lichfield,11,Oct-19
+E07000195,Newcastle-Under-Lyme,19,Oct-19
+E07000196,South Staffordshire,9,Oct-19
+E07000197,Stafford,19,Oct-19
+E07000198,Staffordshire Moorlands,7,Oct-19
+E07000199,Tamworth,3,Oct-19
+E10000031,Warwickshire,17,Oct-19
+E07000218,North Warwickshire,12,Oct-19
+E07000219,Nuneaton And Bedworth,6,Oct-19
+E07000220,Rugby,2,Oct-19
+E07000221,Stratford-On-Avon,40,Oct-19
+E07000222,Warwick,20,Oct-19
+E11000005,West Midlands (Met County),13,Oct-19
+E08000025,Birmingham,7,Oct-19
+E08000026,Coventry,42,Oct-19
+E08000027,Dudley,9,Oct-19
+E08000028,Sandwell,7,Oct-19
+E08000029,Solihull,24,Oct-19
+E08000030,Walsall,4,Oct-19
+E08000031,Wolverhampton,9,Oct-19
+E10000034,Worcestershire,16,Oct-19
+E07000234,Bromsgrove,31,Oct-19
+E07000235,Malvern Hills,15,Oct-19
+E07000236,Redditch,8,Oct-19
+E07000237,Worcester,17,Oct-19
+E07000238,Wychavon,16,Oct-19
+E07000239,Wyre Forest,7,Oct-19
+E12000006,East Of England,14,Oct-19
+E06000055,Bedford,19,Oct-19
+E06000056,Central Bedfordshire,13,Oct-19
+E06000032,Luton,24,Oct-19
+E06000031,Peterborough,20,Oct-19
+E06000033,Southend-On-Sea,7,Oct-19
+E06000034,Thurrock,8,Oct-19
+E10000003,Cambridgeshire,14,Oct-19
+E07000008,Cambridge,22,Oct-19
+E07000009,East Cambridgeshire,8,Oct-19
+E07000010,Fenland,2,Oct-19
+E07000011,Huntingdonshire,9,Oct-19
+E07000012,South Cambridgeshire,25,Oct-19
+E10000012,Essex,9,Oct-19
+E07000066,Basildon,16,Oct-19
+E07000067,Braintree,5,Oct-19
+E07000068,Brentwood,1,Oct-19
+E07000069,Castle Point,1,Oct-19
+E07000070,Chelmsford,11,Oct-19
+E07000071,Colchester,12,Oct-19
+E07000072,Epping Forest,13,Oct-19
+E07000073,Harlow,3,Oct-19
+E07000074,Maldon,4,Oct-19
+E07000075,Rochford,2,Oct-19
+E07000076,Tendring,8,Oct-19
+E07000077,Uttlesford,15,Oct-19
+E10000015,Hertfordshire,15,Oct-19
+E07000095,Broxbourne,6,Oct-19
+E07000096,Dacorum,8,Oct-19
+E07000242,East Hertfordshire,8,Oct-19
+E07000098,Hertsmere,18,Oct-19
+E07000099,North Hertfordshire,11,Oct-19
+E07000240,St Albans,16,Oct-19
+E07000243,Stevenage,6,Oct-19
+E07000102,Three Rivers,45,Oct-19
+E07000103,Watford,31,Oct-19
+E07000241,Welwyn Hatfield,10,Oct-19
+E10000020,Norfolk,17,Oct-19
+E07000143,Breckland,10,Oct-19
+E07000144,Broadland,9,Oct-19
+E07000145,Great Yarmouth,14,Oct-19
+E07000146,King'S Lynn And West Norfolk,18,Oct-19
+E07000147,North Norfolk,22,Oct-19
+E07000148,Norwich,32,Oct-19
+E07000149,South Norfolk,13,Oct-19
+E10000029,Suffolk,18,Oct-19
+E07000200,Babergh,14,Oct-19
+E07000244,East Suffolk,13,Oct-19
+E07000202,Ipswich,34,Oct-19
+E07000203,Mid Suffolk,4,Oct-19
+E07000245,West Suffolk,24,Oct-19
+E12000007,London,48,Oct-19
+E13000001,Inner London,68,Oct-19
+E09000007,Camden,63,Oct-19
+E09000001,City Of London,413,Oct-19
+E09000012,Hackney,45,Oct-19
+E09000013,Hammersmith And Fulham,147,Oct-19
+E09000014,Haringey,19,Oct-19
+E09000019,Islington,76,Oct-19
+E09000020,Kensington And Chelsea,104,Oct-19
+E09000022,Lambeth,54,Oct-19
+E09000023,Lewisham,19,Oct-19
+E09000025,Newham,23,Oct-19
+E09000028,Southwark,48,Oct-19
+E09000030,Tower Hamlets,24,Oct-19
+E09000032,Wandsworth,126,Oct-19
+E09000033,Westminster,189,Oct-19
+E13000002,Outer London,35,Oct-19
+E09000002,Barking And Dagenham,24,Oct-19
+E09000003,Barnet,17,Oct-19
+E09000004,Bexley,8,Oct-19
+E09000005,Brent,62,Oct-19
+E09000006,Bromley,21,Oct-19
+E09000008,Croydon,16,Oct-19
+E09000009,Ealing,53,Oct-19
+E09000010,Enfield,9,Oct-19
+E09000011,Greenwich,61,Oct-19
+E09000015,Harrow,5,Oct-19
+E09000016,Havering,4,Oct-19
+E09000017,Hillingdon,62,Oct-19
+E09000018,Hounslow,83,Oct-19
+E09000021,Kingston Upon Thames,15,Oct-19
+E09000024,Merton,57,Oct-19
+E09000026,Redbridge,15,Oct-19
+E09000027,Richmond Upon Thames,141,Oct-19
+E09000029,Sutton,22,Oct-19
+E09000031,Waltham Forest,28,Oct-19
+E12000008,South East,21,Oct-19
+E06000036,Bracknell Forest,19,Oct-19
+E06000043,Brighton And Hove,20,Oct-19
+E06000046,Isle Of Wight,20,Oct-19
+E06000035,Medway,5,Oct-19
+E06000042,Milton Keynes,96,Oct-19
+E06000044,Portsmouth,27,Oct-19
+E06000038,Reading,22,Oct-19
+E06000039,Slough,31,Oct-19
+E06000045,Southampton,22,Oct-19
+E06000037,West Berkshire,49,Oct-19
+E06000040,Windsor And Maidenhead,19,Oct-19
+E06000041,Wokingham,23,Oct-19
+E06000060,Buckinghamshire,19,Oct-19
+E10000011,East Sussex,10,Oct-19
+E07000061,Eastbourne,15,Oct-19
+E07000062,Hastings,7,Oct-19
+E07000063,Lewes,14,Oct-19
+E07000064,Rother,9,Oct-19
+E07000065,Wealden,7,Oct-19
+E10000014,Hampshire,21,Oct-19
+E07000084,Basingstoke And Deane,25,Oct-19
+E07000085,East Hampshire,19,Oct-19
+E07000086,Eastleigh,14,Oct-19
+E07000087,Fareham,6,Oct-19
+E07000088,Gosport,7,Oct-19
+E07000089,Hart,34,Oct-19
+E07000090,Havant,15,Oct-19
+E07000091,New Forest,29,Oct-19
+E07000092,Rushmoor,17,Oct-19
+E07000093,Test Valley,15,Oct-19
+E07000094,Winchester,37,Oct-19
+E10000016,Kent,15,Oct-19
+E07000105,Ashford,23,Oct-19
+E07000106,Canterbury,17,Oct-19
+E07000107,Dartford,15,Oct-19
+E07000108,Dover,7,Oct-19
+E07000112,Folkestone And Hythe,22,Oct-19
+E07000109,Gravesham,3,Oct-19
+E07000110,Maidstone,21,Oct-19
+E07000111,Sevenoaks,16,Oct-19
+E07000113,Swale,16,Oct-19
+E07000114,Thanet,14,Oct-19
+E07000115,Tonbridge And Malling,9,Oct-19
+E07000116,Tunbridge Wells,17,Oct-19
+E10000025,Oxfordshire,28,Oct-19
+E07000177,Cherwell,20,Oct-19
+E07000178,Oxford,57,Oct-19
+E07000179,South Oxfordshire,27,Oct-19
+E07000180,Vale Of White Horse,17,Oct-19
+E07000181,West Oxfordshire,13,Oct-19
+E10000030,Surrey,17,Oct-19
+E07000207,Elmbridge,18,Oct-19
+E07000208,Epsom And Ewell,17,Oct-19
+E07000209,Guildford,20,Oct-19
+E07000210,Mole Valley,12,Oct-19
+E07000211,Reigate And Banstead,10,Oct-19
+E07000212,Runnymede,25,Oct-19
+E07000213,Spelthorne,36,Oct-19
+E07000214,Surrey Heath,15,Oct-19
+E07000215,Tandridge,12,Oct-19
+E07000216,Waverley,14,Oct-19
+E07000217,Woking,11,Oct-19
+E10000032,West Sussex,14,Oct-19
+E07000223,Adur,3,Oct-19
+E07000224,Arun,10,Oct-19
+E07000225,Chichester,28,Oct-19
+E07000226,Crawley,24,Oct-19
+E07000227,Horsham,11,Oct-19
+E07000228,Mid Sussex,14,Oct-19
+E07000229,Worthing,9,Oct-19
+E12000009,South West,20,Oct-19
+E06000022,Bath And North East Somerset,25,Oct-19
+E06000058,"Bournemouth, Christchurch And Poole",14,Oct-19
+E06000023,"Bristol, City Of",25,Oct-19
+E06000052,Cornwall,27,Oct-19
+E06000059,Dorset,16,Oct-19
+E06000053,Isles Of Scilly,0,Oct-19
+E06000024,North Somerset,40,Oct-19
+E06000026,Plymouth,15,Oct-19
+E06000025,South Gloucestershire,20,Oct-19
+E06000030,Swindon,10,Oct-19
+E06000027,Torbay,6,Oct-19
+E06000054,Wiltshire,19,Oct-19
+E10000008,Devon,21,Oct-19
+E07000040,East Devon,21,Oct-19
+E07000041,Exeter,21,Oct-19
+E07000042,Mid Devon,18,Oct-19
+E07000043,North Devon,33,Oct-19
+E07000044,South Hams,26,Oct-19
+E07000045,Teignbridge,9,Oct-19
+E07000046,Torridge,29,Oct-19
+E07000047,West Devon,23,Oct-19
+E10000013,Gloucestershire,21,Oct-19
+E07000078,Cheltenham,22,Oct-19
+E07000079,Cotswold,37,Oct-19
+E07000080,Forest Of Dean,10,Oct-19
+E07000081,Gloucester,18,Oct-19
+E07000082,Stroud,29,Oct-19
+E07000083,Tewkesbury,9,Oct-19
+E10000027,Somerset,15,Oct-19
+E07000187,Mendip,18,Oct-19
+E07000188,Sedgemoor,14,Oct-19
+E07000246,Somerset West And Taunton,17,Oct-19
+E07000189,South Somerset,11,Oct-19
+W92000004,Wales,16,Oct-19
+W06000001,Isle Of Anglesey,50,Oct-19
+W06000002,Gwynedd,45,Oct-19
+W06000003,Conwy,17,Oct-19
+W06000004,Denbighshire,10,Oct-19
+W06000005,Flintshire,8,Oct-19
+W06000006,Wrexham,9,Oct-19
+W06000023,Powys,45,Oct-19
+W06000008,Ceredigion,38,Oct-19
+W06000009,Pembrokeshire,54,Oct-19
+W06000010,Carmarthenshire,14,Oct-19
+W06000011,Swansea,9,Oct-19
+W06000012,Neath Port Talbot,5,Oct-19
+W06000013,Bridgend,13,Oct-19
+W06000014,The Vale Of Glamorgan,5,Oct-19
+W06000015,Cardiff,12,Oct-19
+W06000016,Rhondda Cynon Taf,3,Oct-19
+W06000024,Merthyr Tydfil,8,Oct-19
+W06000018,Caerphilly,3,Oct-19
+W06000019,Blaenau Gwent,7,Oct-19
+W06000020,Torfaen,7,Oct-19
+W06000021,Monmouthshire,37,Oct-19
+W06000022,Newport,17,Oct-19
+S92000003,Scotland,32,Oct-19
+S12000033,Aberdeen City,32,Oct-19
+S12000034,Aberdeenshire,24,Oct-19
+S12000041,Angus,46,Oct-19
+S12000035,Argyll & Bute,51,Oct-19
+S12000036,City Of Edinburgh,20,Oct-19
+S12000005,Clackmannanshire,33,Oct-19
+S12000006,Dumfries & Galloway,30,Oct-19
+S12000042,Dundee City,60,Oct-19
+S12000008,East Ayrshire,17,Oct-19
+S12000045,East Dunbartonshire,12,Oct-19
+S12000010,East Lothian,47,Oct-19
+S12000011,East Renfrewshire,22,Oct-19
+S12000014,Falkirk,12,Oct-19
+S12000047,Fife,20,Oct-19
+S12000049,Glasgow City,18,Oct-19
+S12000017,Highland,44,Oct-19
+S12000018,Inverclyde,24,Oct-19
+S12000019,Midlothian,35,Oct-19
+S12000020,Moray,29,Oct-19
+S12000013,Na H-Eileanan Siar,100,Oct-19
+S12000021,North Ayrshire,22,Oct-19
+S12000050,North Lanarkshire,16,Oct-19
+S12000023,Orkney Islands,108,Oct-19
+S12000048,Perth & Kinross,51,Oct-19
+S12000038,Renfrewshire,23,Oct-19
+S12000026,Scottish Borders,36,Oct-19
+S12000027,Shetland Islands,73,Oct-19
+S12000028,South Ayrshire,30,Oct-19
+S12000029,South Lanarkshire,36,Oct-19
+S12000030,Stirling,56,Oct-19
+S12000039,West Dunbartonshire,21,Oct-19
+S12000040,West Lothian,18,Oct-19
+N92000002,Northern Ireland,15,Oct-19
+N09000001,Antrim And Newtownabbey,23,Oct-19
+N09000011,Ards And North Down,10,Oct-19
+N09000002,"Armagh City, Banbridge And Craigavon",14,Oct-19
+N09000003,Belfast,11,Oct-19
+N09000004,Causeway Coast And Glens,17,Oct-19
+N09000005,Derry City And Strabane,17,Oct-19
+N09000006,Fermanagh And Omagh,32,Oct-19
+N09000007,Lisburn And Castlereagh,7,Oct-19
+N09000008,Mid And East Antrim,18,Oct-19
+N09000009,Mid Ulster,14,Oct-19
+N09000010,"Newry, Mourne And Down",16,Oct-19
